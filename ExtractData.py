@@ -13,7 +13,8 @@ def get_data(path, files):
         if any('Common25' in f for f in files): # separated summary excel file
             target_files = list(filter(lambda f: 'Common25' in f, files))
             filepaths = list(map(lambda f: path + "\\" + f, target_files))
-            return read_sheets(filepaths, [0]*len(filepaths))
+            sheets = sum([get_sheet(filepath) for filepath in filepaths], [])
+            return read_sheets(filepaths, sheets)
         else: # multiple compiled excel files
             filepaths = list(map(lambda f: path + "\\" + f, files))
             sheets = sum([get_sheet(filepath) for filepath in filepaths], [])
