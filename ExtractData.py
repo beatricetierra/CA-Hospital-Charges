@@ -7,6 +7,7 @@ def get_data(path, files):
     if len(files) == 1: # contains only compiled excel file
         filepaths = [path + "\\" + files[0]]
         sheets = get_sheet(path + "\\" + files[0])
+        return read_sheets(filepaths, sheets)
     if len(files) > 1:  # contains multiple excel files
         if any('Common25' in f for f in files): # separated summary excel file
             target_files = list(filter(lambda f: 'Common25' in f, files))
@@ -14,7 +15,7 @@ def get_data(path, files):
         else: # multiple compiled excel files
             filepaths = list(map(lambda f: path + "\\" + f, files))
         sheets = sum([get_sheet(filepath) for filepath in filepaths], [])
-    return read_sheets(filepaths, sheets)
+        return read_sheets(filepaths, sheets)
 
 def get_sheet(filepath):
     regex = '(?i)(common|25|1045|top\s?25|\sab)'
@@ -33,7 +34,7 @@ def read_sheets(filepaths, sheets):
     return df
 
 def dict_to_excel(dictionary):
-    filename = r"C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Results.xlsx"
+    filename = r"C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Results(2).xlsx"
     writer = pd.ExcelWriter(filename) # pylint: disable=abstract-class-instantiated
     for df_name, df in dictionary.items():
         try:
