@@ -1,0 +1,22 @@
+Aurora Behavioral Healthcare - Santa Rosa
+Aurora San Diego Hospital
+Aurora Vista del Mar Hospital
+Ballard Rehabilitation Hospital
+Canyon Ridge Hospital						should work
+Emanate Health Queen of the Valley Hospital			should work
+Encompass Health Rehabilitation Hospital of Bakersfield		did not include information
+Healdsburg District Hospital					not excel file
+Joyce Eisenberg Keefer Medical Center				multiple compiled excel files
+Kaiser Foundation Southern Region				did not include information
+Kindred Hospital - La Mirada					did not include information
+Kindred Hospital - Los Angeles					did not include information
+Kindred Hospital - Ontario					did not include information
+Kindred Hospital - Riverside					did not include information
+Kindred Hospital - San Diego					did not include information
+Kindred Hospital - San Francisco Bay Area			did not include information
+Kindred Hospital - South Bay					did not include information
+Kindred Hospital - Westminster					did not include information
+Marian Medical Center						multiple compiled excel files
+Montclair Hospital Medical Center				'ABS'
+Palomar Health Downtown Campus					multiple compiled excel files
+Unversity of California Davis Medical Center			did not include information

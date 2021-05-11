@@ -1,54 +1,46 @@
 import os
+import re
 import pandas as pd
-from openpyxl import load_workbook
-
+from openpyxl import load_workbook      
+            
 def get_data(path, files):
-    if len(files) == 0:
-        return 
-    elif len(files) == 1:
+    if len(files) == 1: # contains only compiled excel file
         filepath = path + "\\" + files[0]
-        sheets = get_sheets(filepath)
-        return [read_sheet(filepath, sheet) for sheet in sheets]
-    elif len(files) > 1:
-        files = get_files(files)
-        filepaths = list(map(lambda file: path + "\\" + file, files))
-        return [read_sheet(filepath) for filepath in filepaths]
+        filepath_list = [filepath]
+        sheets = get_sheet(filepath)
+        return read_sheets(filepath_list, sheets)
+    if len(files) > 1:  # contains multiple excel files
+        if any('Common25' in f for f in files): # separated summary excel file
+            target_files = list(filter(lambda f: 'Common25' in f, files))
+            filepaths = list(map(lambda f: path + "\\" + f, target_files))
+            return read_sheets(filepaths, [0]*len(filepaths))
+        else: # multiple compiled excel files
+            filepaths = list(map(lambda f: path + "\\" + f, files))
+            sheets = sum([get_sheet(filepath) for filepath in filepaths], [])
+            return read_sheets(filepaths, sheets) 
 
-def get_files(files):
-    filtered = []
-    for file in files:
-        if 'Common25' in file:
-            filtered.append(file)
-    return filtered
+def get_sheet(filepath):
+    regex = '(?i)(common|25|1045|top\s?25|\sab)'
+    target_sheets = []
 
-def get_sheets(filepath):
     xl = pd.ExcelFile(filepath)
-    keys = ['1045', '25', 'Common']
+    [target_sheets.append(sheet) for sheet in xl.sheet_names if re.search(regex, sheet)]
+    return target_sheets
 
-    sheets= [sheet for sheet in xl.sheet_names if 
-            any([key for key in keys if key in sheet])]
-    return sheets
-
-def read_sheet(filepath, sheet=0):
-    df = pd.read_excel(filepath, 
-                   sheet_name=sheet, 
-                   header=None,
-                   names=['Description', 'CPT Code', 'Amount'])
-
-    df['CPT Code'] = pd.to_numeric(df['CPT Code'], errors='coerce')
-    df['Amount'] = pd.to_numeric(df['Amount'], errors='coerce')
-
-    df.dropna(axis=0, inplace=True)
-    df['CPT Code'] = df['CPT Code'].astype(int)
+def read_sheets(filepaths, sheets):
+    df = pd.DataFrame()
+    for filepath in filepaths:
+        for sheet in sheets:
+            df_temp = pd.read_excel(filepath, sheet_name = sheet, header=None)
+            df = df.append(df_temp, ignore_index=True)
     return df
 
 def dict_to_excel(dictionary):
     filename = r"C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Results.xlsx"
     writer = pd.ExcelWriter(filename) # pylint: disable=abstract-class-instantiated
-    for df_name, l in dictionary.items():
+    for df_name, df in dictionary.items():
         try:
-            for df in l:
-                df.to_excel(writer, sheet_name=df_name)
+            df.to_excel(writer, sheet_name=df_name[:31])
         except:
             pass
     writer.save()
@@ -61,7 +53,9 @@ hospital_charges = {}
 
 for name, path in zip(hospital_names, hospital_paths):
     excel_files = [files for files in os.listdir(path) if '.xlsx' in files or '.xls' in files]
-    data = get_data(path, excel_files)
+    accepted_files = [files for files in excel_files if ('CDM' in files or 'Common25' in files) 
+                        and 'Cloud' not in files]
+    data = get_data(path, accepted_files)
     hospital_charges[name] = data
 
 # Export to excel file
