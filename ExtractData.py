@@ -5,20 +5,16 @@ from openpyxl import load_workbook
             
 def get_data(path, files):
     if len(files) == 1: # contains only compiled excel file
-        filepath = path + "\\" + files[0]
-        filepath_list = [filepath]
-        sheets = get_sheet(filepath)
-        return read_sheets(filepath_list, sheets)
+        filepaths = [path + "\\" + files[0]]
+        sheets = get_sheet(path + "\\" + files[0])
     if len(files) > 1:  # contains multiple excel files
         if any('Common25' in f for f in files): # separated summary excel file
             target_files = list(filter(lambda f: 'Common25' in f, files))
             filepaths = list(map(lambda f: path + "\\" + f, target_files))
-            sheets = sum([get_sheet(filepath) for filepath in filepaths], [])
-            return read_sheets(filepaths, sheets)
         else: # multiple compiled excel files
             filepaths = list(map(lambda f: path + "\\" + f, files))
-            sheets = sum([get_sheet(filepath) for filepath in filepaths], [])
-            return read_sheets(filepaths, sheets) 
+        sheets = sum([get_sheet(filepath) for filepath in filepaths], [])
+    return read_sheets(filepaths, sheets)
 
 def get_sheet(filepath):
     regex = '(?i)(common|25|1045|top\s?25|\sab)'
