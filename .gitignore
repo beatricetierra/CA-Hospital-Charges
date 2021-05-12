@@ -3,3 +3,6 @@
 
 # export files
 *.xlsx
+
+# Archive folder
+Archive/
