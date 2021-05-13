@@ -1,6 +1,9 @@
+import config
 import requests
 import json
-import time
+import csv
+import os
+
 class GooglePlaces(object):
     def __init__(self, apiKey):
         super(GooglePlaces, self).__init__()
@@ -17,13 +20,24 @@ class GooglePlaces(object):
         }
         res = requests.get(endpoint_url, params = params)
         results =  json.loads(res.content)['candidates'][0]
+        return results
 
-        address = results['formatted_address']
-        lat = results['geometry']['location']['lat']
-        lng = results['geometry']['location']['lng']
-        formal_name = results['name']
-        print(formal_name, address, lat, lng)
+dataset = r"C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Chargemaster Dataset"
+hospitals = os.listdir(dataset)
 
+places = GooglePlaces(config.api_key)
 
-places = GooglePlaces(hidden_key)
-places.get_address('Unversity of California Irvine Medical Center')
+with open('Addresses.csv', 'w', newline='') as file:
+    writer = csv.writer(file)
+    writer.writerow(['Hospital', 'Address', 'Latitude', 'Longitude'])
+    for hospital in hospitals:
+        try:
+            results = places.get_address(hospital)
+            address = results['formatted_address']
+            lat = results['geometry']['location']['lat']
+            lng = results['geometry']['location']['lng']
+        except:
+            address, lat, lng = 3*['N/A'] 
+        writer.writerow([hospital, address, lat, lng])
+        
+

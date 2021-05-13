@@ -6,3 +6,6 @@
 
 # Archive folder
 Archive/
+
+# api keys
+config.py
