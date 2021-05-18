@@ -28,31 +28,29 @@ with open('CoverageCost.csv', 'w', newline='') as file:
             webdriver.DesiredCapabilities.CHROME['acceptSslCerts']=True
             d = webdriver.Chrome(r'C:\Users\Beatrice Tierra\Downloads\chromedriver.exe')
             d.get('https://www.fairhealthconsumer.org/medical/zip')
-
-            time.sleep(60)
             location_search = d.find_element_by_css_selector("input[placeholder='Zip Code or City, State (e.g, 12345 or New York, NY)']")
             location_search.send_keys(zip)
             location_search.send_keys(Keys.ENTER)
 
-            time.sleep(60)
+            time.sleep(3)
             d.find_element_by_xpath("//a[@href='/medical/select-medical-totalcost']").click()
 
-            time.sleep(60)
+            time.sleep(3)
             cpt_search = d.find_element_by_css_selector("input[placeholder='Enter a CPT Code or Keyword']")
             cpt_search.send_keys('99282')
             cpt_search.send_keys(Keys.ENTER)
 
-            time.sleep(60)
+            time.sleep(3)
             d.find_element_by_css_selector('[class="button agree"]').click()
 
-            time.sleep(60)
+            time.sleep(3)
             button = d.find_element_by_css_selector("input[type='radio'][value='99282']")
             d.execute_script("arguments[0].click();", button)
 
-            time.sleep(60)
+            time.sleep(3)
             d.find_element_by_css_selector('[class="inline-cost-div arrow-btn"]').click()
 
-            time.sleep(60)
+            time.sleep(3)
             out_net = d.find_element_by_css_selector('[class="circle out-net-summary"]').text
             in_net = d.find_element_by_css_selector('[class="circle in-net-summary"]').text
 
