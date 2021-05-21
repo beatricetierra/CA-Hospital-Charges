@@ -1,12 +1,4 @@
-.vscode/
-__pycache__
-
-# export files
-#*.xlsx
-#*.csv
-CoverageCost_test2
-# Archive folder
+__pycache__/
 Archive/
-
-# api keys
+settings_nordvpn.txt
 config.py

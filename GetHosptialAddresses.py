@@ -22,12 +22,12 @@ class GooglePlaces(object):
         results =  json.loads(res.content)['candidates'][0]
         return results
 
-dataset = r"C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Chargemaster Dataset"
+dataset = r"C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset"
 hospitals = os.listdir(dataset)
 
 places = GooglePlaces(config.api_key)
 
-with open('Addresses.csv', 'w', newline='') as file:
+with open('Addresses2.csv', 'w', newline='') as file:
     writer = csv.writer(file)
     writer.writerow(['Hospital', 'Address', 'Latitude', 'Longitude'])
     for hospital in hospitals:
@@ -36,6 +36,7 @@ with open('Addresses.csv', 'w', newline='') as file:
             address = results['formatted_address']
             lat = results['geometry']['location']['lat']
             lng = results['geometry']['location']['lng']
+            print(lat, lng)
         except:
             address, lat, lng = 3*['N/A'] 
         writer.writerow([hospital, address, lat, lng])
