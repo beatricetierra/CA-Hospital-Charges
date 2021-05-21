@@ -5,14 +5,19 @@ import csv
 import time
 import selenium
 from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.keys import Keys
 from nordvpn_switcher import initialize_VPN,rotate_VPN,terminate_VPN
+
+chrome_options = Options()
+chrome_options.add_argument("--headless")
 
 class WebScraper:
     def __init__(self, zip, code):
         self.zip = zip
         self.code = code
-        self.driver = webdriver.Chrome(r'C:\Users\Beatrice Tierra\Downloads\chromedriver.exe')
+        self.driver = webdriver.Chrome(r'C:\Users\Beatrice Tierra\Downloads\chromedriver.exe',
+                                        options=chrome_options)
         self.driver.get('https://www.fairhealthconsumer.org/medical/zip')
 
     def sleep(self):
