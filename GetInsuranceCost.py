@@ -21,28 +21,28 @@ class WebScraper:
         location_search.send_keys(Keys.ENTER)
 
     def submit_location(self):
-        time.sleep(20)
+        time.sleep(2)
         self.driver.find_element_by_xpath("//a[@href='/medical/select-medical-totalcost']").click()
 
     def enter_cpt(self):
-        time.sleep(20) 
+        time.sleep(2) 
         cpt_search = self.driver.find_element_by_css_selector("input[placeholder='Enter a CPT Code or Keyword']")
         cpt_search.send_keys(self.code)
         cpt_search.send_keys(Keys.ENTER)
     
     def agree_to_terms(self): 
-        time.sleep(20)
+        time.sleep(2)
         self.driver.find_element_by_css_selector('[class="button agree"]').click()
     
     def go_to_estimator(self):
-        time.sleep(20)
+        time.sleep(2)
         button = self.driver.find_element_by_css_selector("input[type='radio'][value='{code}']".format(code=self.code))
         self.driver.execute_script("arguments[0].click();", button)
         time.sleep(20)
         self.driver.find_element_by_css_selector('[class="inline-cost-div arrow-btn"]').click()
 
     def get_estimates(self):
-        time.sleep(20)
+        time.sleep(2)
         self.out_net = self.driver.find_element_by_css_selector('[class="circle out-net-summary"]').text
         self.in_net = self.driver.find_element_by_css_selector('[class="circle in-net-summary"]').text
 
@@ -86,7 +86,8 @@ with open(filename, "r") as rf, open(filename, "a", newline='') as wf:
                     browser.agree_to_terms()   
                     browser.go_to_estimator()                               
                     browser.get_estimates()       
-                    in_net, out_net = browser.in_net, browser.out_net             
+                    in_net, out_net = browser.in_net, browser.out_net  
+                    print(in_net, out_net)           
                 except selenium.common.exceptions.ElementNotInteractableException: 
                     in_net, out_net = 'N/A', 'N/A'
 
@@ -97,6 +98,6 @@ with open(filename, "r") as rf, open(filename, "a", newline='') as wf:
                 browser.driver.close()   
                 if i%5 == 0 and i != 0:
                     rotate_VPN(settings)
-                    time.sleep(10)
+                    time.sleep(2)
 
 terminate_VPN(instructions=None)
