@@ -5,15 +5,23 @@ import csv
 import time
 import selenium
 from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.keys import Keys
 from nordvpn_switcher import initialize_VPN,rotate_VPN,terminate_VPN
+
+chrome_options = Options()
+chrome_options.add_argument("--headless")
 
 class WebScraper:
     def __init__(self, zip, code):
         self.zip = zip
         self.code = code
-        self.driver = webdriver.Chrome(r'C:\Users\Beatrice Tierra\Downloads\chromedriver.exe')
+        self.driver = webdriver.Chrome(r'C:\Users\Beatrice Tierra\Downloads\chromedriver.exe',
+                                        options=chrome_options)
         self.driver.get('https://www.fairhealthconsumer.org/medical/zip')
+
+    def sleep(self):
+        time.sleep(10)
 
     def enter_location(self):
         location_search = self.driver.find_element_by_css_selector("input[placeholder='Zip Code or City, State (e.g, 12345 or New York, NY)']")
@@ -21,28 +29,28 @@ class WebScraper:
         location_search.send_keys(Keys.ENTER)
 
     def submit_location(self):
-        time.sleep(2)
+        self.sleep()
         self.driver.find_element_by_xpath("//a[@href='/medical/select-medical-totalcost']").click()
 
     def enter_cpt(self):
-        time.sleep(2) 
+        self.sleep()
         cpt_search = self.driver.find_element_by_css_selector("input[placeholder='Enter a CPT Code or Keyword']")
         cpt_search.send_keys(self.code)
         cpt_search.send_keys(Keys.ENTER)
     
     def agree_to_terms(self): 
-        time.sleep(2)
+        self.sleep()
         self.driver.find_element_by_css_selector('[class="button agree"]').click()
     
     def go_to_estimator(self):
-        time.sleep(2)
+        self.sleep()
         button = self.driver.find_element_by_css_selector("input[type='radio'][value='{code}']".format(code=self.code))
         self.driver.execute_script("arguments[0].click();", button)
-        time.sleep(20)
+        self.sleep()
         self.driver.find_element_by_css_selector('[class="inline-cost-div arrow-btn"]').click()
 
     def get_estimates(self):
-        time.sleep(2)
+        self.sleep()
         self.out_net = self.driver.find_element_by_css_selector('[class="circle out-net-summary"]').text
         self.in_net = self.driver.find_element_by_css_selector('[class="circle in-net-summary"]').text
 
@@ -61,7 +69,7 @@ settings = initialize_VPN(save=1,area_input=['complete rotation'])
 rotate_VPN(settings)
 
 # 3. Create csv file to store data
-filename = 'CoverageCost_test2.csv'
+filename = 'Datasets/CoverageCost.csv'
 if not os.path.exists(filename):
     open(filename, 'w').close()
 
