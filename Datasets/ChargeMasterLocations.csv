@@ -1,0 +1,722 @@
+,filepath,sheetname
+0,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Adventist Health And Rideout\106580996_CDM_All_2020.xlsx,Common OP Procedures
+1,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Adventist Health Bakersfield\106150788_CDM_All_2020.xlsx,Common OP Procedures
+2,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Adventist Health Clearlake\106171049_CDM_All_2020.xlsx,Common OP Procedures
+3,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Adventist Health Glendale\106190323_CDM_All_2020.xlsx,Common OP Procedures
+4,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Adventist Health Howard Memorial\106234038_CDM_All_2020.xlsx,Common OP Procedures
+5,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Adventist Health Lodi Memorial\106390923_CDM_All_2020.xlsx,Common OP Procedures
+6,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Adventist Health Reedley\106100797_CDM_All_2020.xlsx,Common OP Procedures
+7,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Adventist Health Simi Valley\106560525_CDM_All_2020.xlsx,Common OP Procedures
+8,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Adventist Health Sonora - Greenley\106554011_CDM_All_2020.xlsx,Common OP Procedures
+9,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Adventist Health St Helena\106281078_CDM_All_2020.xlsx,Common OP Procedures
+10,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Adventist Health Ukiah Valley\106231396_CDM_All_2020.xlsx,Common OP Procedures
+11,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Adventist Health Vallejo\106481015_CDM_All_2020.xlsx,Common OP Procedures
+12,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Adventist Health White Memorial\106190878_CDM_All_2020.xlsx,Common OP Procedures
+13,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Adventist Medical Center - Hanford\106164029_CDM_All_2020.xlsx,Common OP Procedures
+14,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\AHMC Anaheim Regional Medical Center\106301098_CDM_All_2020.xlsx,AB 1045 Form
+15,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Alameda Hospital\106010735_CDM_All_2020.xlsx,AB 1045
+16,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Alhambra Hospital\106190017_Common25_2020.xlsx,AB 1045 Form (Final)
+17,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Alta Bates-Summit Med Ctr-Alta Bates Campus\106010739_CDM_All_2020.xlsx,AB 1045 FORM  (Ashby Campus)
+18,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Alta Bates-Summit Med Ctr-Alta Bates Campus\106010739_CDM_All_2020.xlsx,AB 1045 FORM (Herrick Campus) 
+19,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Alta Bates-Summit Med Ctr-Summit Campus\106010937_CDM_All_2020.xlsx,AB 1045 FORM (Merritt Campus)
+20,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Alta Bates-Summit Med Ctr-Summit Campus\106010937_CDM_All_2020.xlsx,AB 1045 FORM (Provd Campus)
+21,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Alvarado Hospital\106370652_CDM_All_2020.xlsx,ABS 1045
+22,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Antelope Valley Hospital\106190034_CDM_All_2020.xlsx,AB 1045 FORM
+23,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Arrowhead Regional Medical Center\106364231_Common25_2020.xlsx,AB 1045 Form
+24,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Aurora Behavioral Healthcare - Santa Rosa\106494048_CDM_All_2020-Cloud.xls,AB 1045 Form
+25,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Aurora Behavioral Healthcare - Santa Rosa\106494048_CDM_All_2020.xls,AB 1045 Form
+26,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Aurora Charter Oak Hospital\106190163_CDM_All_2020.xlsx,AB 1045 Form
+27,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Aurora Las Encinas Hospital\106190462_CDM_All_2020.xlsx,AB 1045 Form
+28,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Aurora San Diego Hospital\106374024_CDM_All_2020-Cloud.xls,AB 1045 Form
+29,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Aurora San Diego Hospital\106374024_CDM_All_2020.xls,AB 1045 Form
+30,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Aurora Vista del Mar Hospital\106560203_CDM_All_2020-Cloud.xls,AB 1045 Form
+31,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Aurora Vista del Mar Hospital\106560203_CDM_All_2020.xls,AB 1045 Form
+32,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Bakersfield Behavioral Healthcare Hospital\106154044_CDM_All_2020.xlsx,AB 1045 Form
+33,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Bakersfield Heart Hospital\106154101_Common25_2020.xlsx,AB 1045 Form
+34,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Bakersfield Memorial Hospital\106150722_CDM_All_2020.xlsx,AB 1045 Form
+35,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Ballard Rehabilitation Hospital\106364121_CDM_All_2020-Cloud.xls,AB 1045 Form
+36,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Ballard Rehabilitation Hospital\106364121_CDM_All_2020.xls,AB 1045 Form
+37,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Banner Lassen Medical Center\106184008_CDM_All_2020.xlsx,AB 1045 Form
+38,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Barlow Respiratory Hospital\106190052_Common25_2020.xls,AB 1045 Form
+39,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Barstow Community Hospital\106364430_Common25_2020.xlsx,AB 1045 Form
+40,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Barton Memorial Hospital\106090793_Common25_2020.xlsx,AB 1045 Form
+41,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Bear Valley Community Hospital\106361110_Common25_2020.xlsx,AB 1045 Form
+42,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Beverly Hospital\106190081_CDM_All_2020.xlsx,AB 1045 Form
+43,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\California Hospital Medical Center\106190125_CDM_All_2020.xlsx,AB 1045 Form
+44,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\California Pacific Medical Center - Pacific Campus\106380929_CDM_All_2020.xlsx,CPMC Common 25 (Davies Campus)
+45,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\California Pacific Medical Center - Pacific Campus\106380929_CDM_All_2020.xlsx,CPMC Common 25 (Pacific Campus)
+46,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\California Pacific Medical Center - St Lukes Campus\106380964_CDM_All_2020.xlsx,AB 1045 (St. Luke's Campus)
+47,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\California Pacific Medical Center - St Lukes Campus\106380964_CDM_All_2020.xlsx,AB 1045 (Mission Bernal Campus)
+48,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Casa Colina Hospital for Rehab\106190137_CDM_All_2020.xlsx,Top 25
+49,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Catalina Island Medical Center\106190045_CDM_All_2020.xlsx,AB 1045 Form
+50,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Cedars-Sinai Medical Center\106190555_Common25_2020.xlsx,AB 1045 Form
+51,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Centinela Hospital Medical Center\106190148_CDM_All_2020.xlsx,ABS 1045 Form
+52,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Childrens Hospital & Research Center at Oakland\106010776_CDM_All_2020.xlsx,AB 1045 2020 Form
+53,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Childrens Hospital at Mission\106304113_CDM_All_2020.xlsx,AB 1045 Form
+54,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Childrens Hospital of Los Angeles\106190170_Common25_2020.xlsx,AB 1045 Form
+55,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Childrens Hospital of Orange County\106300032_CDM_All_2020.xlsx,AB 1045 Form
+56,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Chinese Hospital\106382715_CDM_All_2020.xlsx,AB 1045 Form
+57,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Chino Valley Medical Center\106361144_CDM_All_2020.xlsx,ABS 1045
+58,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\City of Hope Helford Clinical Research Hospital\106190176_CDM_All_2020.xlsx,AB 1045 FORM-25 COMMOM PX
+59,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Clovis Commuity Medical Center\106100005_CDM_All_2020.xlsx,AB 1045 Form
+60,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Coast Plaza Doctors Hospital\106190766_Common25_2020.xlsx,AB 1045 Form
+61,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\College Hospital - Costa Mesa\106301155_Common25_2020.xlsx,2019
+62,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Community & Mission Hospital at Huntington Park\106190197_Common25_2020.xlsx,AB 1045 Form
+63,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Community Hospital of San Bernardino\106361323_CDM_All_2020.xlsx,AB 1045 Form
+64,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Community Hospital of the Monterey Peninsula\106270744_CDM_All_2020.xlsx,AB 1045 Form
+65,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Community Memorial Hospital San Buenaventura\106560473_CDM_All_2020.xlsx,AB 1045 Form CMH
+66,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Community Regional Medical Center - Fresno\106100717_CDM_All_2020.xlsx,AB 1045 Form
+67,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Contra Costa Regional Medical Center\106070924_Common25_2020.xlsx,AB 1045 Form
+68,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Corona Regional Medical Center\106331152_Common25_2020.xlsx,AB 1045 Form
+69,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Dameron Hospital\106390846_CDM_All_2020.xlsx,AB 1045 Form 2020
+70,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Del Amo Hospital\106190232_Common25_2020.xlsx,AB 1045 Form
+71,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Delano Regional Medical Center\106150706_CDM_All_2020.xlsx,AB 1045 Form
+72,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Desert Regional Medical Center\106331164_CDM_All_2020.xlsx,COMMON OP PROCEDURES
+73,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Desert Valley Hospital\106364144_CDM_All_2020.xlsx,ABS 1045
+74,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Doctors Hospital - Manteca\106392287_CDM_All_2020.xlsx,COMMON OP PROCEDURES
+75,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Doctors Medical Center - Modesto\106500852_CDM_All_2020.xlsx,COMMON OP PROCEDURES
+76,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Dominican Santa Cruz Hospital\106440755_CDM_All_2020.xlsx,AB 1045 Form
+77,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\East Los Angeles Doctors Hospital\106190256_Common25_2020.xlsx,AB 1045 Form
+78,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Eastern Plumas Dsitrict Hospital\106320859_Common25_2020.xlsx,AB 1045 Form
+79,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Eden Medical Center\106014233_CDM_All_2020.xlsx,Eden AB 1045 FORM
+80,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Eisenhower Medical Center\106331168_CDM_All_2020.xlsx,Common 25 2020
+81,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\El Camino Hospital\106430763_Common25_2020.xlsx,AB 1045 Form
+82,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\El Centro Regional Medical Center\106130699_Common25_2020.xlsx,AB 1045 Form
+83,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Emanate Health Foothill Presbyterian Hospital\106190298_Common25_2020-Cloud.xls,AB 1045 Form
+84,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Emanate Health Foothill Presbyterian Hospital\106190298_Common25_2020.xls,AB 1045 Form
+85,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Emanate Health Queen of the Valley Hospital\106190636_Common25_2020-Cloud.XLS,AB 1045 Form
+86,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Emanate Health Queen of the Valley Hospital\106190636_Common25_2020.XLS,AB 1045 Form
+87,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Emanuel Medical Center\106500867_CDM_All_2020.xlsx,COMMON OP PROCEDURES
+88,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Encino Hospital Medical Center\106190280_CDM_All_2020.xlsx,ABS 1045 Form
+89,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Enloe Medical Center\106040962_CDM_All_2020.xlsx,TOP 25
+90,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Fairchild Medical Center\106474007_Common25_2020.xlsx,AB 1045 Form
+91,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Foothill Regional Medical Center\106301357_Common25_2020.xlsx,AB 1045 Form
+92,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Fountain Valley Regional Hospital\106301175_CDM_All_2020.xlsx,COMMON OP PROCEDURES
+93,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\French Hospital - San Luis Obispo\106400480_CDM_All_2020.xlsx,AB 1045 Form
+94,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Fresno Surgical Hospital\106104047_CDM_All_2020.xlsx,AB 1045 Form
+95,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Garfield Medical Center\106190315_CDM_All_2020.xlsx,AB 1045 FORM
+96,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\George L Mee Memorial Hospital\106270777_CDM_All_2020.xlsx,AB 1045 Form
+97,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Glendale Memorial Hospital\106190522_CDM_All_2020.xlsx,AB 1045 Form
+98,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Goleta Valley Cottage Hospital\106420483_CDM_All_2020.xlsx,AB 1045 Common 25
+99,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Good Samaritan Hospital - Los Angeles\106190392_CDM_All_2020.xlsx,AB 1045 Form
+100,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Good Samaritan Hospital - San Jose\106430779_Common25_2020.xlsx,AB 1045 Form
+101,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Greater El Monte Community Hospital\106190352_CDM_All_2020.xlsx,AB 1045 FORM
+102,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Hazel Hawkins Memorial Hospital\106350784_CDM_All_2020.xlsx,25 COMMON OP PROCEDURES
+103,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Hi Desert Medical Center\106362041_CDM_All_2020.xlsx,COMMON OP PROCEDURES
+104,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Highland Hospital\106010845_CDM_All_2020.xlsx,AB 1045
+105,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Hoag Memorial Hospital\106301205_CDM_All_2020.xlsx,AB 1045 Form
+106,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Hoag Orthopedic Institute\106304460_CDM_All_2020.xlsx,AB 1045 Form
+107,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Huntington Memorial Community Hospital\106190400_CDM_All_2020.xlsx,25 Most Common Outpt Svcs
+108,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\John C Fremont Healthcare District\106220733_Common25_2020.xlsx,AB 1045 Form
+109,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\John F Kennedy Memorial Hospital\106331216_CDM_All_2020.xlsx,COMMON OP PROCEDURES
+110,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\John Muir Behavioral Health\106074039_Common25_2020.xlsx,AB 1045 Form
+111,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\John Muir Medical Center - Concord Campus\106071018_Common25_2020.xlsx,AB 1045 Form
+112,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\John Muir Medical Center - Walnut Creek Campus\106070988_Common25_2020.xlsx,AB 1045 Form
+113,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Antioch\106074097_Common25_2020.xlsx,Antioch
+114,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Antioch\106074097_Common25_2020.xlsx,Fremont
+115,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Antioch\106074097_Common25_2020.xlsx,Fresno
+116,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Antioch\106074097_Common25_2020.xlsx,Modesto
+117,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Antioch\106074097_Common25_2020.xlsx,Oakland
+118,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Antioch\106074097_Common25_2020.xlsx,Redwood City
+119,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Antioch\106074097_Common25_2020.xlsx,Richmond
+120,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Antioch\106074097_Common25_2020.xlsx,Roseville
+121,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Antioch\106074097_Common25_2020.xlsx,Sacramento
+122,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Antioch\106074097_Common25_2020.xlsx,San Francisco
+123,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Antioch\106074097_Common25_2020.xlsx,San Jose
+124,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Antioch\106074097_Common25_2020.xlsx,San Leandro
+125,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Antioch\106074097_Common25_2020.xlsx,San Rafael
+126,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Antioch\106074097_Common25_2020.xlsx,Santa Clara
+127,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Antioch\106074097_Common25_2020.xlsx,Santa Rosa
+128,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Antioch\106074097_Common25_2020.xlsx,South Sacramento
+129,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Antioch\106074097_Common25_2020.xlsx,South San Francisco
+130,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Antioch\106074097_Common25_2020.xlsx,Stockton_Manteca
+131,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Antioch\106074097_Common25_2020.xlsx,Vacaville
+132,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Antioch\106074097_Common25_2020.xlsx,Vallejo
+133,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Antioch\106074097_Common25_2020.xlsx,Walnut Creek
+134,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Baldwin Park\106196035_Common25_2020.xlsx,Analysis
+135,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Downey\106196403_Common25_2020.xlsx,Analysis
+136,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Fontana-Ontario\106361223_Common25_2020.xlsx,Analysis
+137,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Fontana-Ontario\106364265_Common25_2020.xlsx,Analysis
+138,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Fremont\106014132_Common25_2020.xlsx,Antioch
+139,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Fremont\106014132_Common25_2020.xlsx,Fremont
+140,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Fremont\106014132_Common25_2020.xlsx,Fresno
+141,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Fremont\106014132_Common25_2020.xlsx,Modesto
+142,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Fremont\106014132_Common25_2020.xlsx,Oakland
+143,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Fremont\106014132_Common25_2020.xlsx,Redwood City
+144,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Fremont\106014132_Common25_2020.xlsx,Richmond
+145,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Fremont\106014132_Common25_2020.xlsx,Roseville
+146,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Fremont\106014132_Common25_2020.xlsx,Sacramento
+147,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Fremont\106014132_Common25_2020.xlsx,San Francisco
+148,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Fremont\106014132_Common25_2020.xlsx,San Jose
+149,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Fremont\106014132_Common25_2020.xlsx,San Leandro
+150,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Fremont\106014132_Common25_2020.xlsx,San Rafael
+151,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Fremont\106014132_Common25_2020.xlsx,Santa Clara
+152,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Fremont\106014132_Common25_2020.xlsx,Santa Rosa
+153,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Fremont\106014132_Common25_2020.xlsx,South Sacramento
+154,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Fremont\106014132_Common25_2020.xlsx,South San Francisco
+155,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Fremont\106014132_Common25_2020.xlsx,Stockton_Manteca
+156,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Fremont\106014132_Common25_2020.xlsx,Vacaville
+157,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Fremont\106014132_Common25_2020.xlsx,Vallejo
+158,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Fremont\106014132_Common25_2020.xlsx,Walnut Creek
+159,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Fresno\106104062_Common25_2020.xlsx,Antioch
+160,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Fresno\106104062_Common25_2020.xlsx,Fremont
+161,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Fresno\106104062_Common25_2020.xlsx,Fresno
+162,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Fresno\106104062_Common25_2020.xlsx,Modesto
+163,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Fresno\106104062_Common25_2020.xlsx,Oakland
+164,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Fresno\106104062_Common25_2020.xlsx,Redwood City
+165,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Fresno\106104062_Common25_2020.xlsx,Richmond
+166,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Fresno\106104062_Common25_2020.xlsx,Roseville
+167,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Fresno\106104062_Common25_2020.xlsx,Sacramento
+168,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Fresno\106104062_Common25_2020.xlsx,San Francisco
+169,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Fresno\106104062_Common25_2020.xlsx,San Jose
+170,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Fresno\106104062_Common25_2020.xlsx,San Leandro
+171,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Fresno\106104062_Common25_2020.xlsx,San Rafael
+172,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Fresno\106104062_Common25_2020.xlsx,Santa Clara
+173,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Fresno\106104062_Common25_2020.xlsx,Santa Rosa
+174,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Fresno\106104062_Common25_2020.xlsx,South Sacramento
+175,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Fresno\106104062_Common25_2020.xlsx,South San Francisco
+176,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Fresno\106104062_Common25_2020.xlsx,Stockton_Manteca
+177,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Fresno\106104062_Common25_2020.xlsx,Vacaville
+178,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Fresno\106104062_Common25_2020.xlsx,Vallejo
+179,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Fresno\106104062_Common25_2020.xlsx,Walnut Creek
+180,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Los Angeles\106190429_Common25_2020.xlsx,Analysis
+181,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Los Angeles\106190646_Common25_2020.xlsx,Analysis
+182,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Manteca-Modesto\106394009_Common25_2020.xlsx,Antioch
+183,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Manteca-Modesto\106394009_Common25_2020.xlsx,Fremont
+184,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Manteca-Modesto\106394009_Common25_2020.xlsx,Fresno
+185,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Manteca-Modesto\106394009_Common25_2020.xlsx,Modesto
+186,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Manteca-Modesto\106394009_Common25_2020.xlsx,Oakland
+187,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Manteca-Modesto\106394009_Common25_2020.xlsx,Redwood City
+188,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Manteca-Modesto\106394009_Common25_2020.xlsx,Richmond
+189,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Manteca-Modesto\106394009_Common25_2020.xlsx,Roseville
+190,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Manteca-Modesto\106394009_Common25_2020.xlsx,Sacramento
+191,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Manteca-Modesto\106394009_Common25_2020.xlsx,San Francisco
+192,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Manteca-Modesto\106394009_Common25_2020.xlsx,San Jose
+193,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Manteca-Modesto\106394009_Common25_2020.xlsx,San Leandro
+194,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Manteca-Modesto\106394009_Common25_2020.xlsx,San Rafael
+195,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Manteca-Modesto\106394009_Common25_2020.xlsx,Santa Clara
+196,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Manteca-Modesto\106394009_Common25_2020.xlsx,Santa Rosa
+197,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Manteca-Modesto\106394009_Common25_2020.xlsx,South Sacramento
+198,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Manteca-Modesto\106394009_Common25_2020.xlsx,South San Francisco
+199,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Manteca-Modesto\106394009_Common25_2020.xlsx,Stockton_Manteca
+200,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Manteca-Modesto\106394009_Common25_2020.xlsx,Vacaville
+201,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Manteca-Modesto\106394009_Common25_2020.xlsx,Vallejo
+202,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Manteca-Modesto\106394009_Common25_2020.xlsx,Walnut Creek
+203,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Moreno Valley\106334048_Common25_2020.xlsx,Analysis
+204,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Oakland-Richmond\106014326_Common25_2020.xlsx,Antioch
+205,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Oakland-Richmond\106014326_Common25_2020.xlsx,Fremont
+206,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Oakland-Richmond\106014326_Common25_2020.xlsx,Fresno
+207,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Oakland-Richmond\106014326_Common25_2020.xlsx,Modesto
+208,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Oakland-Richmond\106014326_Common25_2020.xlsx,Oakland
+209,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Oakland-Richmond\106014326_Common25_2020.xlsx,Redwood City
+210,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Oakland-Richmond\106014326_Common25_2020.xlsx,Richmond
+211,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Oakland-Richmond\106014326_Common25_2020.xlsx,Roseville
+212,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Oakland-Richmond\106014326_Common25_2020.xlsx,Sacramento
+213,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Oakland-Richmond\106014326_Common25_2020.xlsx,San Francisco
+214,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Oakland-Richmond\106014326_Common25_2020.xlsx,San Jose
+215,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Oakland-Richmond\106014326_Common25_2020.xlsx,San Leandro
+216,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Oakland-Richmond\106014326_Common25_2020.xlsx,San Rafael
+217,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Oakland-Richmond\106014326_Common25_2020.xlsx,Santa Clara
+218,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Oakland-Richmond\106014326_Common25_2020.xlsx,Santa Rosa
+219,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Oakland-Richmond\106014326_Common25_2020.xlsx,South Sacramento
+220,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Oakland-Richmond\106014326_Common25_2020.xlsx,South San Francisco
+221,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Oakland-Richmond\106014326_Common25_2020.xlsx,Stockton_Manteca
+222,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Oakland-Richmond\106014326_Common25_2020.xlsx,Vacaville
+223,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Oakland-Richmond\106014326_Common25_2020.xlsx,Vallejo
+224,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Oakland-Richmond\106014326_Common25_2020.xlsx,Walnut Creek
+225,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Orange County - Anaheim\106304306_Common25_2020.xlsx,Analysis
+226,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Orange County - Anaheim\106304409_Common25_2020.xlsx,Analysis
+227,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Panorama City\106190432_Common25_2020.xlsx,Analysis
+228,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Redwood City\106414139_Common25_2020.xlsx,Antioch
+229,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Redwood City\106414139_Common25_2020.xlsx,Fremont
+230,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Redwood City\106414139_Common25_2020.xlsx,Fresno
+231,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Redwood City\106414139_Common25_2020.xlsx,Modesto
+232,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Redwood City\106414139_Common25_2020.xlsx,Oakland
+233,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Redwood City\106414139_Common25_2020.xlsx,Redwood City
+234,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Redwood City\106414139_Common25_2020.xlsx,Richmond
+235,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Redwood City\106414139_Common25_2020.xlsx,Roseville
+236,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Redwood City\106414139_Common25_2020.xlsx,Sacramento
+237,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Redwood City\106414139_Common25_2020.xlsx,San Francisco
+238,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Redwood City\106414139_Common25_2020.xlsx,San Jose
+239,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Redwood City\106414139_Common25_2020.xlsx,San Leandro
+240,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Redwood City\106414139_Common25_2020.xlsx,San Rafael
+241,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Redwood City\106414139_Common25_2020.xlsx,Santa Clara
+242,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Redwood City\106414139_Common25_2020.xlsx,Santa Rosa
+243,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Redwood City\106414139_Common25_2020.xlsx,South Sacramento
+244,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Redwood City\106414139_Common25_2020.xlsx,South San Francisco
+245,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Redwood City\106414139_Common25_2020.xlsx,Stockton_Manteca
+246,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Redwood City\106414139_Common25_2020.xlsx,Vacaville
+247,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Redwood City\106414139_Common25_2020.xlsx,Vallejo
+248,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Redwood City\106414139_Common25_2020.xlsx,Walnut Creek
+249,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Riverside\106334025_Common25_2020.xlsx,Analysis
+250,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Roseville\106314024_Common25_2020.xlsx,Antioch
+251,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Roseville\106314024_Common25_2020.xlsx,Fremont
+252,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Roseville\106314024_Common25_2020.xlsx,Fresno
+253,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Roseville\106314024_Common25_2020.xlsx,Modesto
+254,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Roseville\106314024_Common25_2020.xlsx,Oakland
+255,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Roseville\106314024_Common25_2020.xlsx,Redwood City
+256,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Roseville\106314024_Common25_2020.xlsx,Richmond
+257,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Roseville\106314024_Common25_2020.xlsx,Roseville
+258,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Roseville\106314024_Common25_2020.xlsx,Sacramento
+259,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Roseville\106314024_Common25_2020.xlsx,San Francisco
+260,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Roseville\106314024_Common25_2020.xlsx,San Jose
+261,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Roseville\106314024_Common25_2020.xlsx,San Leandro
+262,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Roseville\106314024_Common25_2020.xlsx,San Rafael
+263,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Roseville\106314024_Common25_2020.xlsx,Santa Clara
+264,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Roseville\106314024_Common25_2020.xlsx,Santa Rosa
+265,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Roseville\106314024_Common25_2020.xlsx,South Sacramento
+266,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Roseville\106314024_Common25_2020.xlsx,South San Francisco
+267,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Roseville\106314024_Common25_2020.xlsx,Stockton_Manteca
+268,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Roseville\106314024_Common25_2020.xlsx,Vacaville
+269,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Roseville\106314024_Common25_2020.xlsx,Vallejo
+270,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Roseville\106314024_Common25_2020.xlsx,Walnut Creek
+271,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Sacramento\106340913_Common25_2020.xlsx,Antioch
+272,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Sacramento\106340913_Common25_2020.xlsx,Fremont
+273,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Sacramento\106340913_Common25_2020.xlsx,Fresno
+274,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Sacramento\106340913_Common25_2020.xlsx,Modesto
+275,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Sacramento\106340913_Common25_2020.xlsx,Oakland
+276,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Sacramento\106340913_Common25_2020.xlsx,Redwood City
+277,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Sacramento\106340913_Common25_2020.xlsx,Richmond
+278,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Sacramento\106340913_Common25_2020.xlsx,Roseville
+279,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Sacramento\106340913_Common25_2020.xlsx,Sacramento
+280,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Sacramento\106340913_Common25_2020.xlsx,San Francisco
+281,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Sacramento\106340913_Common25_2020.xlsx,San Jose
+282,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Sacramento\106340913_Common25_2020.xlsx,San Leandro
+283,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Sacramento\106340913_Common25_2020.xlsx,San Rafael
+284,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Sacramento\106340913_Common25_2020.xlsx,Santa Clara
+285,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Sacramento\106340913_Common25_2020.xlsx,Santa Rosa
+286,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Sacramento\106340913_Common25_2020.xlsx,South Sacramento
+287,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Sacramento\106340913_Common25_2020.xlsx,South San Francisco
+288,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Sacramento\106340913_Common25_2020.xlsx,Stockton_Manteca
+289,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Sacramento\106340913_Common25_2020.xlsx,Vacaville
+290,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Sacramento\106340913_Common25_2020.xlsx,Vallejo
+291,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Sacramento\106340913_Common25_2020.xlsx,Walnut Creek
+292,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Diego\106370730_Common25_2020.xlsx,Analysis
+293,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Diego\106374465_Common25_2020.xlsx,Analysis
+294,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Francisco\106380857_Common25_2020.xlsx,Antioch
+295,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Francisco\106380857_Common25_2020.xlsx,Fremont
+296,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Francisco\106380857_Common25_2020.xlsx,Fresno
+297,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Francisco\106380857_Common25_2020.xlsx,Modesto
+298,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Francisco\106380857_Common25_2020.xlsx,Oakland
+299,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Francisco\106380857_Common25_2020.xlsx,Redwood City
+300,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Francisco\106380857_Common25_2020.xlsx,Richmond
+301,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Francisco\106380857_Common25_2020.xlsx,Roseville
+302,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Francisco\106380857_Common25_2020.xlsx,Sacramento
+303,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Francisco\106380857_Common25_2020.xlsx,San Francisco
+304,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Francisco\106380857_Common25_2020.xlsx,San Jose
+305,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Francisco\106380857_Common25_2020.xlsx,San Leandro
+306,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Francisco\106380857_Common25_2020.xlsx,San Rafael
+307,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Francisco\106380857_Common25_2020.xlsx,Santa Clara
+308,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Francisco\106380857_Common25_2020.xlsx,Santa Rosa
+309,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Francisco\106380857_Common25_2020.xlsx,South Sacramento
+310,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Francisco\106380857_Common25_2020.xlsx,South San Francisco
+311,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Francisco\106380857_Common25_2020.xlsx,Stockton_Manteca
+312,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Francisco\106380857_Common25_2020.xlsx,Vacaville
+313,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Francisco\106380857_Common25_2020.xlsx,Vallejo
+314,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Francisco\106380857_Common25_2020.xlsx,Walnut Creek
+315,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Jose\106431506_Common25_2020.xlsx,Antioch
+316,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Jose\106431506_Common25_2020.xlsx,Fremont
+317,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Jose\106431506_Common25_2020.xlsx,Fresno
+318,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Jose\106431506_Common25_2020.xlsx,Modesto
+319,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Jose\106431506_Common25_2020.xlsx,Oakland
+320,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Jose\106431506_Common25_2020.xlsx,Redwood City
+321,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Jose\106431506_Common25_2020.xlsx,Richmond
+322,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Jose\106431506_Common25_2020.xlsx,Roseville
+323,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Jose\106431506_Common25_2020.xlsx,Sacramento
+324,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Jose\106431506_Common25_2020.xlsx,San Francisco
+325,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Jose\106431506_Common25_2020.xlsx,San Jose
+326,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Jose\106431506_Common25_2020.xlsx,San Leandro
+327,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Jose\106431506_Common25_2020.xlsx,San Rafael
+328,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Jose\106431506_Common25_2020.xlsx,Santa Clara
+329,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Jose\106431506_Common25_2020.xlsx,Santa Rosa
+330,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Jose\106431506_Common25_2020.xlsx,South Sacramento
+331,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Jose\106431506_Common25_2020.xlsx,South San Francisco
+332,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Jose\106431506_Common25_2020.xlsx,Stockton_Manteca
+333,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Jose\106431506_Common25_2020.xlsx,Vacaville
+334,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Jose\106431506_Common25_2020.xlsx,Vallejo
+335,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Jose\106431506_Common25_2020.xlsx,Walnut Creek
+336,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Leandro\106014337_Common25_2020.xlsx,Antioch
+337,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Leandro\106014337_Common25_2020.xlsx,Fremont
+338,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Leandro\106014337_Common25_2020.xlsx,Fresno
+339,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Leandro\106014337_Common25_2020.xlsx,Modesto
+340,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Leandro\106014337_Common25_2020.xlsx,Oakland
+341,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Leandro\106014337_Common25_2020.xlsx,Redwood City
+342,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Leandro\106014337_Common25_2020.xlsx,Richmond
+343,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Leandro\106014337_Common25_2020.xlsx,Roseville
+344,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Leandro\106014337_Common25_2020.xlsx,Sacramento
+345,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Leandro\106014337_Common25_2020.xlsx,San Francisco
+346,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Leandro\106014337_Common25_2020.xlsx,San Jose
+347,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Leandro\106014337_Common25_2020.xlsx,San Leandro
+348,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Leandro\106014337_Common25_2020.xlsx,San Rafael
+349,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Leandro\106014337_Common25_2020.xlsx,Santa Clara
+350,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Leandro\106014337_Common25_2020.xlsx,Santa Rosa
+351,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Leandro\106014337_Common25_2020.xlsx,South Sacramento
+352,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Leandro\106014337_Common25_2020.xlsx,South San Francisco
+353,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Leandro\106014337_Common25_2020.xlsx,Stockton_Manteca
+354,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Leandro\106014337_Common25_2020.xlsx,Vacaville
+355,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Leandro\106014337_Common25_2020.xlsx,Vallejo
+356,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Leandro\106014337_Common25_2020.xlsx,Walnut Creek
+357,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Rafael\106210992_Common25_2020.xlsx,Antioch
+358,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Rafael\106210992_Common25_2020.xlsx,Fremont
+359,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Rafael\106210992_Common25_2020.xlsx,Fresno
+360,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Rafael\106210992_Common25_2020.xlsx,Modesto
+361,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Rafael\106210992_Common25_2020.xlsx,Oakland
+362,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Rafael\106210992_Common25_2020.xlsx,Redwood City
+363,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Rafael\106210992_Common25_2020.xlsx,Richmond
+364,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Rafael\106210992_Common25_2020.xlsx,Roseville
+365,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Rafael\106210992_Common25_2020.xlsx,Sacramento
+366,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Rafael\106210992_Common25_2020.xlsx,San Francisco
+367,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Rafael\106210992_Common25_2020.xlsx,San Jose
+368,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Rafael\106210992_Common25_2020.xlsx,San Leandro
+369,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Rafael\106210992_Common25_2020.xlsx,San Rafael
+370,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Rafael\106210992_Common25_2020.xlsx,Santa Clara
+371,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Rafael\106210992_Common25_2020.xlsx,Santa Rosa
+372,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Rafael\106210992_Common25_2020.xlsx,South Sacramento
+373,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Rafael\106210992_Common25_2020.xlsx,South San Francisco
+374,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Rafael\106210992_Common25_2020.xlsx,Stockton_Manteca
+375,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Rafael\106210992_Common25_2020.xlsx,Vacaville
+376,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Rafael\106210992_Common25_2020.xlsx,Vallejo
+377,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - San Rafael\106210992_Common25_2020.xlsx,Walnut Creek
+378,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Santa Clara\106434153_Common25_2020.xlsx,Antioch
+379,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Santa Clara\106434153_Common25_2020.xlsx,Fremont
+380,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Santa Clara\106434153_Common25_2020.xlsx,Fresno
+381,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Santa Clara\106434153_Common25_2020.xlsx,Modesto
+382,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Santa Clara\106434153_Common25_2020.xlsx,Oakland
+383,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Santa Clara\106434153_Common25_2020.xlsx,Redwood City
+384,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Santa Clara\106434153_Common25_2020.xlsx,Richmond
+385,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Santa Clara\106434153_Common25_2020.xlsx,Roseville
+386,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Santa Clara\106434153_Common25_2020.xlsx,Sacramento
+387,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Santa Clara\106434153_Common25_2020.xlsx,San Francisco
+388,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Santa Clara\106434153_Common25_2020.xlsx,San Jose
+389,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Santa Clara\106434153_Common25_2020.xlsx,San Leandro
+390,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Santa Clara\106434153_Common25_2020.xlsx,San Rafael
+391,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Santa Clara\106434153_Common25_2020.xlsx,Santa Clara
+392,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Santa Clara\106434153_Common25_2020.xlsx,Santa Rosa
+393,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Santa Clara\106434153_Common25_2020.xlsx,South Sacramento
+394,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Santa Clara\106434153_Common25_2020.xlsx,South San Francisco
+395,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Santa Clara\106434153_Common25_2020.xlsx,Stockton_Manteca
+396,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Santa Clara\106434153_Common25_2020.xlsx,Vacaville
+397,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Santa Clara\106434153_Common25_2020.xlsx,Vallejo
+398,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Santa Clara\106434153_Common25_2020.xlsx,Walnut Creek
+399,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Santa Rosa\106494019_Common25_2020.xlsx,Antioch
+400,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Santa Rosa\106494019_Common25_2020.xlsx,Fremont
+401,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Santa Rosa\106494019_Common25_2020.xlsx,Fresno
+402,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Santa Rosa\106494019_Common25_2020.xlsx,Modesto
+403,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Santa Rosa\106494019_Common25_2020.xlsx,Oakland
+404,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Santa Rosa\106494019_Common25_2020.xlsx,Redwood City
+405,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Santa Rosa\106494019_Common25_2020.xlsx,Richmond
+406,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Santa Rosa\106494019_Common25_2020.xlsx,Roseville
+407,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Santa Rosa\106494019_Common25_2020.xlsx,Sacramento
+408,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Santa Rosa\106494019_Common25_2020.xlsx,San Francisco
+409,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Santa Rosa\106494019_Common25_2020.xlsx,San Jose
+410,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Santa Rosa\106494019_Common25_2020.xlsx,San Leandro
+411,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Santa Rosa\106494019_Common25_2020.xlsx,San Rafael
+412,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Santa Rosa\106494019_Common25_2020.xlsx,Santa Clara
+413,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Santa Rosa\106494019_Common25_2020.xlsx,Santa Rosa
+414,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Santa Rosa\106494019_Common25_2020.xlsx,South Sacramento
+415,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Santa Rosa\106494019_Common25_2020.xlsx,South San Francisco
+416,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Santa Rosa\106494019_Common25_2020.xlsx,Stockton_Manteca
+417,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Santa Rosa\106494019_Common25_2020.xlsx,Vacaville
+418,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Santa Rosa\106494019_Common25_2020.xlsx,Vallejo
+419,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Santa Rosa\106494019_Common25_2020.xlsx,Walnut Creek
+420,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - South Bay\106190431_Common25_2020.xlsx,Analysis
+421,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - South Sacramento\106342344_Common25_2020.xlsx,Antioch
+422,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - South Sacramento\106342344_Common25_2020.xlsx,Fremont
+423,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - South Sacramento\106342344_Common25_2020.xlsx,Fresno
+424,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - South Sacramento\106342344_Common25_2020.xlsx,Modesto
+425,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - South Sacramento\106342344_Common25_2020.xlsx,Oakland
+426,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - South Sacramento\106342344_Common25_2020.xlsx,Redwood City
+427,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - South Sacramento\106342344_Common25_2020.xlsx,Richmond
+428,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - South Sacramento\106342344_Common25_2020.xlsx,Roseville
+429,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - South Sacramento\106342344_Common25_2020.xlsx,Sacramento
+430,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - South Sacramento\106342344_Common25_2020.xlsx,San Francisco
+431,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - South Sacramento\106342344_Common25_2020.xlsx,San Jose
+432,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - South Sacramento\106342344_Common25_2020.xlsx,San Leandro
+433,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - South Sacramento\106342344_Common25_2020.xlsx,San Rafael
+434,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - South Sacramento\106342344_Common25_2020.xlsx,Santa Clara
+435,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - South Sacramento\106342344_Common25_2020.xlsx,Santa Rosa
+436,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - South Sacramento\106342344_Common25_2020.xlsx,South Sacramento
+437,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - South Sacramento\106342344_Common25_2020.xlsx,South San Francisco
+438,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - South Sacramento\106342344_Common25_2020.xlsx,Stockton_Manteca
+439,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - South Sacramento\106342344_Common25_2020.xlsx,Vacaville
+440,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - South Sacramento\106342344_Common25_2020.xlsx,Vallejo
+441,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - South Sacramento\106342344_Common25_2020.xlsx,Walnut Creek
+442,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - South San Francisco\106410806_Common25_2020.xlsx,Antioch
+443,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - South San Francisco\106410806_Common25_2020.xlsx,Fremont
+444,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - South San Francisco\106410806_Common25_2020.xlsx,Fresno
+445,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - South San Francisco\106410806_Common25_2020.xlsx,Modesto
+446,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - South San Francisco\106410806_Common25_2020.xlsx,Oakland
+447,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - South San Francisco\106410806_Common25_2020.xlsx,Redwood City
+448,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - South San Francisco\106410806_Common25_2020.xlsx,Richmond
+449,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - South San Francisco\106410806_Common25_2020.xlsx,Roseville
+450,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - South San Francisco\106410806_Common25_2020.xlsx,Sacramento
+451,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - South San Francisco\106410806_Common25_2020.xlsx,San Francisco
+452,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - South San Francisco\106410806_Common25_2020.xlsx,San Jose
+453,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - South San Francisco\106410806_Common25_2020.xlsx,San Leandro
+454,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - South San Francisco\106410806_Common25_2020.xlsx,San Rafael
+455,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - South San Francisco\106410806_Common25_2020.xlsx,Santa Clara
+456,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - South San Francisco\106410806_Common25_2020.xlsx,Santa Rosa
+457,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - South San Francisco\106410806_Common25_2020.xlsx,South Sacramento
+458,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - South San Francisco\106410806_Common25_2020.xlsx,South San Francisco
+459,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - South San Francisco\106410806_Common25_2020.xlsx,Stockton_Manteca
+460,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - South San Francisco\106410806_Common25_2020.xlsx,Vacaville
+461,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - South San Francisco\106410806_Common25_2020.xlsx,Vallejo
+462,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - South San Francisco\106410806_Common25_2020.xlsx,Walnut Creek
+463,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Vacaville\106484044_Common25_2020.xlsx,Antioch
+464,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Vacaville\106484044_Common25_2020.xlsx,Fremont
+465,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Vacaville\106484044_Common25_2020.xlsx,Fresno
+466,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Vacaville\106484044_Common25_2020.xlsx,Modesto
+467,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Vacaville\106484044_Common25_2020.xlsx,Oakland
+468,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Vacaville\106484044_Common25_2020.xlsx,Redwood City
+469,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Vacaville\106484044_Common25_2020.xlsx,Richmond
+470,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Vacaville\106484044_Common25_2020.xlsx,Roseville
+471,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Vacaville\106484044_Common25_2020.xlsx,Sacramento
+472,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Vacaville\106484044_Common25_2020.xlsx,San Francisco
+473,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Vacaville\106484044_Common25_2020.xlsx,San Jose
+474,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Vacaville\106484044_Common25_2020.xlsx,San Leandro
+475,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Vacaville\106484044_Common25_2020.xlsx,San Rafael
+476,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Vacaville\106484044_Common25_2020.xlsx,Santa Clara
+477,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Vacaville\106484044_Common25_2020.xlsx,Santa Rosa
+478,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Vacaville\106484044_Common25_2020.xlsx,South Sacramento
+479,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Vacaville\106484044_Common25_2020.xlsx,South San Francisco
+480,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Vacaville\106484044_Common25_2020.xlsx,Stockton_Manteca
+481,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Vacaville\106484044_Common25_2020.xlsx,Vacaville
+482,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Vacaville\106484044_Common25_2020.xlsx,Vallejo
+483,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Vacaville\106484044_Common25_2020.xlsx,Walnut Creek
+484,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Walnut Creek\106070990_Common25_2020.xlsx,Antioch
+485,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Walnut Creek\106070990_Common25_2020.xlsx,Fremont
+486,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Walnut Creek\106070990_Common25_2020.xlsx,Fresno
+487,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Walnut Creek\106070990_Common25_2020.xlsx,Modesto
+488,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Walnut Creek\106070990_Common25_2020.xlsx,Oakland
+489,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Walnut Creek\106070990_Common25_2020.xlsx,Redwood City
+490,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Walnut Creek\106070990_Common25_2020.xlsx,Richmond
+491,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Walnut Creek\106070990_Common25_2020.xlsx,Roseville
+492,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Walnut Creek\106070990_Common25_2020.xlsx,Sacramento
+493,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Walnut Creek\106070990_Common25_2020.xlsx,San Francisco
+494,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Walnut Creek\106070990_Common25_2020.xlsx,San Jose
+495,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Walnut Creek\106070990_Common25_2020.xlsx,San Leandro
+496,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Walnut Creek\106070990_Common25_2020.xlsx,San Rafael
+497,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Walnut Creek\106070990_Common25_2020.xlsx,Santa Clara
+498,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Walnut Creek\106070990_Common25_2020.xlsx,Santa Rosa
+499,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Walnut Creek\106070990_Common25_2020.xlsx,South Sacramento
+500,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Walnut Creek\106070990_Common25_2020.xlsx,South San Francisco
+501,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Walnut Creek\106070990_Common25_2020.xlsx,Stockton_Manteca
+502,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Walnut Creek\106070990_Common25_2020.xlsx,Vacaville
+503,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Walnut Creek\106070990_Common25_2020.xlsx,Vallejo
+504,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Walnut Creek\106070990_Common25_2020.xlsx,Walnut Creek
+505,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Hospital - Woodland Hills\106191450_Common25_2020.xlsx,Analysis
+506,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Northern Region\106015000_Common25_2020.xlsx,Antioch
+507,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Northern Region\106015000_Common25_2020.xlsx,Fremont
+508,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Northern Region\106015000_Common25_2020.xlsx,Fresno
+509,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Northern Region\106015000_Common25_2020.xlsx,Modesto
+510,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Northern Region\106015000_Common25_2020.xlsx,Oakland
+511,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Northern Region\106015000_Common25_2020.xlsx,Redwood City
+512,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Northern Region\106015000_Common25_2020.xlsx,Richmond
+513,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Northern Region\106015000_Common25_2020.xlsx,Roseville
+514,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Northern Region\106015000_Common25_2020.xlsx,Sacramento
+515,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Northern Region\106015000_Common25_2020.xlsx,San Francisco
+516,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Northern Region\106015000_Common25_2020.xlsx,San Jose
+517,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Northern Region\106015000_Common25_2020.xlsx,San Leandro
+518,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Northern Region\106015000_Common25_2020.xlsx,San Rafael
+519,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Northern Region\106015000_Common25_2020.xlsx,Santa Clara
+520,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Northern Region\106015000_Common25_2020.xlsx,Santa Rosa
+521,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Northern Region\106015000_Common25_2020.xlsx,South Sacramento
+522,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Northern Region\106015000_Common25_2020.xlsx,South San Francisco
+523,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Northern Region\106015000_Common25_2020.xlsx,Stockton_Manteca
+524,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Northern Region\106015000_Common25_2020.xlsx,Vacaville
+525,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Northern Region\106015000_Common25_2020.xlsx,Vallejo
+526,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Northern Region\106015000_Common25_2020.xlsx,Walnut Creek
+527,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Rehab Hospital - Vallejo\106480989_Common25_2020.xlsx,Antioch
+528,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Rehab Hospital - Vallejo\106480989_Common25_2020.xlsx,Fremont
+529,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Rehab Hospital - Vallejo\106480989_Common25_2020.xlsx,Fresno
+530,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Rehab Hospital - Vallejo\106480989_Common25_2020.xlsx,Modesto
+531,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Rehab Hospital - Vallejo\106480989_Common25_2020.xlsx,Oakland
+532,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Rehab Hospital - Vallejo\106480989_Common25_2020.xlsx,Redwood City
+533,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Rehab Hospital - Vallejo\106480989_Common25_2020.xlsx,Richmond
+534,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Rehab Hospital - Vallejo\106480989_Common25_2020.xlsx,Roseville
+535,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Rehab Hospital - Vallejo\106480989_Common25_2020.xlsx,Sacramento
+536,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Rehab Hospital - Vallejo\106480989_Common25_2020.xlsx,San Francisco
+537,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Rehab Hospital - Vallejo\106480989_Common25_2020.xlsx,San Jose
+538,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Rehab Hospital - Vallejo\106480989_Common25_2020.xlsx,San Leandro
+539,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Rehab Hospital - Vallejo\106480989_Common25_2020.xlsx,San Rafael
+540,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Rehab Hospital - Vallejo\106480989_Common25_2020.xlsx,Santa Clara
+541,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Rehab Hospital - Vallejo\106480989_Common25_2020.xlsx,Santa Rosa
+542,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Rehab Hospital - Vallejo\106480989_Common25_2020.xlsx,South Sacramento
+543,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Rehab Hospital - Vallejo\106480989_Common25_2020.xlsx,South San Francisco
+544,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Rehab Hospital - Vallejo\106480989_Common25_2020.xlsx,Stockton_Manteca
+545,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Rehab Hospital - Vallejo\106480989_Common25_2020.xlsx,Vacaville
+546,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Rehab Hospital - Vallejo\106480989_Common25_2020.xlsx,Vallejo
+547,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaiser Foundation Rehab Hospital - Vallejo\106480989_Common25_2020.xlsx,Walnut Creek
+548,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kaweah Delta District Hospital\106540734_Common25_2020.xlsx,AB 1045 Form
+549,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Keck Hospital of USC\106194219_CDM_All_2020.xlsx,AB 1045 Form USC Keck Hosp1
+550,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kern Valley Hospital\106150737_CDM_All_2020.xlsx,AB 1045 Form
+551,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Kindred Hospital - Baldwin Park\106190049_Common25_2020.xlsx,AB 1045 Form
+552,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Laguna Honda Hospital\106380865_CDM_All_2020.xlsx,AB 1045 Form 2020
+553,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Lakewood Regional Medical Center\106190240_CDM_All_2020.xlsx,COMMON OP PROCEDURES
+554,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Loma Linda University Behavioral Medical Center\106364014_Common25_2020.xlsx,AB 1045 Form
+555,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Loma Linda University Childrens Hospital\106364502_Common25_2020.xlsx,AB 1045 Form
+556,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Loma Linda University Medical Center\106361246_Common25_2020.xlsx,AB 1045 Form
+557,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Loma Linda University Medical Center - Murrieta\106334589_Common25_2020.xlsx,AB 1045 Form
+558,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Lompoc Valley Medical Center\106420491_Common25_2020.xlsx,AB 1045 Form
+559,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Long Beach Memorial Medical Center\106190525_CDM_ALL_2020.xlsx,Common OP Procedures AB1045
+560,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Los Alamitos Medical Center\106301248_CDM_All_2020.xlsx,COMMON OP PROCEDURES
+561,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Los Angeles Community Hospital\106190198_Common25_2020.xlsx,AB 1045 Form
+562,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Los Robles Medical Center\106560492_Common25(1)_2020.xlsx,AB 1045 Form
+563,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Los Robles Medical Center\106560492_Common25(2)_2020.xlsx,AB 1045 Form
+564,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Los Robles Medical Center\106560492_Common25(3)_2020.xlsx,AB 1045 Form
+565,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Madera Community Hospital\106201281_Common25_2020.xlsx,AB 1045 Form
+566,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Mammoth Hospital\106260011_Common25_2020.xlsx,AB 1045 Form
+567,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Marian Medical Center\106400466_CDM_All_2020.xlsx,AB 1045 Form
+568,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Marian Medical Center\106420493_CDM_All_2020.xlsx,AB 1045 Form
+569,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Marin General Hospital\106211006_Common25_2020.xlsx,AB 1045 Form
+570,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Marina Del Rey Hospital\106190500_Common25_2020.xlsx,AB 1045 Form
+571,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Mark Twain Medical Center\106050932_CDM_All_2020.xlsx,AB 1045 Form
+572,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Marshall Medical Center\106090933_Common25_2020.xlsx,AB 1045 Form
+573,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Mayers Memorial Hospital\106450936_CDM_All_2020.xlsx,AB 1045 Form
+574,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Memorial Hospital - Gardena\106190521_Common25_2020.xlsx,AB 1045 Form
+575,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Memorial Hospital - Los Banos\106240924_CDM_All_2020.xlsx,AB 1045 Form
+576,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Memorial Hospital - Modesto\106500939_CDM_All_2020.xlsx,AB 1045 FORM
+577,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Mercy Hospital - Bakersfield\106150761_CDM_All_2020.xlsx,AB 1045 Form
+578,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Mercy Hospital - Mt Shasta\106470871_CDM_All_2020.xlsx,AB 1045 Form
+579,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Mercy Medical Center - Merced\106240942_CDM_All_2020.xlsx,AB 1045 Form
+580,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Mercy Medical Center - Redding\106450949_CDM_All_2020.xlsx,AB 1045 Form
+581,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Mills-Peninsula Medical Center\106410852_CDM_All_2020.xlsx,AB 1045 (Mills Campus)
+582,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Mills-Peninsula Medical Center\106410852_CDM_All_2020.xlsx,AB 1045 (Peninsula Campus)
+583,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Mills-Peninsula Medical Center\106410852_CDM_All_2020.xlsx,AB 1045 (Menlo Park Campus)
+584,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Mission Community Hospital - Panorama\106190524_Common25_2020.xlsx,AB 1045 Form
+585,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Mission Regional Medical Center\106301262_CDM_All_2020.xlsx,AB 1045 Form
+586,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Modoc Medical Center\106250956_Common25_2020.xlsx,AB 1045 Form
+587,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Monrovia Memorial Hospital\106190541_Common25_2020.xlsx,AB 1045 Form
+588,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Montclair Hospital Medical Center\106361166_CDM_All_2020.xlsx,ABS Form
+589,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Monterey Park Hospital\106190547_CDM_All_2020.xlsx,AB 1045 FORM
+590,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Natividad Medical Center\106274043_CDM_All_2020.xlsx,AB 1045 Form
+591,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\North Bay Medical Center\106481357_CDM_All_2020.xlsx,AB 1045 Form
+592,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Northern Inyo Hospital\106141273_Common25_2020.xlsx,AB 1045 Form
+593,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Northridge Hospital Medical Center\106190568_CDM_All_2020.xlsx,AB 1045 Form
+594,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Novato Community Hospital\106214034_CDM_All_2020.xlsx,AB 1045 FORM
+595,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Oak Valley District Hospital\106500967_CDM_All_2020.xlsx,AB 1045 Form
+596,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Ojai Valley Community Hospital\106560501_CDM_All_2020.xlsx,AB 1045 Form Ojai
+597,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Orange Coast Memorial Medical Center\106300225_CDM_ALL_2020.xlsx,Common OP Procedures AB1045
+598,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Oroville Hospital\106040937_Common25_2020.xlsx,AB 1045 Form
+599,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Pacifica Hospital of the Valley\106190696_CDM_All_2020.xlsx,AB 1045 Form
+600,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Palmdale Regional Medical Center\106196405_Common25_2020.xlsx,AB 1045 Form
+601,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Palomar Health Downtown Campus\106370755_CDM_ALL_2020.xlsx,AB 1045
+602,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Palomar Health Downtown Campus\106374382_CDM_ALL_2020.xlsx,AB 1045
+603,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Paradise Valley Hospital\106370759_CDM_All_2020.xlsx,ABS 1045
+604,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Parkview Community Hospital\106331293_CDM_All_2020.xlsx,AB 1045 Form
+605,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Patients Hospital of Redding\106454013_CDM_All_2020.xlsx,AB 1045 Form
+606,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Petaluma Valley Hospital\106491001_CDM_All_2020.xlsx,AB 1045 Form
+607,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\PIH Hospital - Downey\106190243_CDM_All_2020.xlsx,AB 1045 Form
+608,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Pioneers Memorial Hospital\106130760_Common25_2020.xlsx,AB 1045 Form
+609,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Placentia-Linda Community Hospital\106301297_CDM_All_2020.xlsx,COMMON OP PROCEDURES
+610,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Pomona Valley Hospital Medical Center\106190630_Common25_2020.xlsx,AB 1045 Form
+611,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Presbyterian Intercommunity Hospital\106190631_CDM_All_2020.xlsx,AB 1045 Form
+612,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Providence Holy Cross Medical Center\106190385_Common25_2020.xlsx,AB 1045 Form
+613,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Providence Little Co. of Mary Med Ctr - San Pedro\106190680_Common25_2020.xlsx,AB 1045 Form
+614,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Providence Little Co. of Mary Med Ctr - Torrance\106190470_Common25_2020.xlsx,AB 1045 Form
+615,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Providence St Johns Health Center\106190756_Common25_2020.xlsx,AB 1045 Form
+616,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Providence St Joseph Medical Center\106190758_Common25_2020.xlsx,AB 1045 Form
+617,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Providence Tarzana Medical Center\106190517_Common25_2020.xlsx,AB 1045 Form
+618,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Queen of the Valley - Napa\106281047_CDM_All_2020.xlsx,AB 1045 Form
+619,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Radys Childrens Hospital of San Diego\106370673_Common25_2020.xlsx,AB 1045 Form
+620,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Redlands Community Hospital\106361308_CDM_All_2020.xlsx,AB 1045 Form
+621,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Redwood Memorial Hospital\106121051_CDM_All_2020.xlsx,AB 1045 Form
+622,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Regional Medical Center of San Jose\106430705_CDM_All_2020.xlsx,AB 1045 Form
+623,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Resnick Neuropsychiatric Hosp at UCLA\106190930_Common25_2020.xlsx,AB 1045 Form_NP
+624,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Riverside University Health System Medical Center\106334487_CDM_All_2020.xls,Common 25
+625,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Ronald Reagan UCLA Medical Center\106190796_Common25_2020.xlsx,AB 1045 Form_RR
+626,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Saddleback Memorial Medical Center\106301317_CDM_ALL_2020.xlsx,Common OP Procedures AB1045
+627,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Salinas Valley Memorial Hospital\106270875_CDM_All_2020.xlsx,AB 1045 Form
+628,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\San Antonio Regional Hospital\106361318_CDM_All_2020.xlsx,AB 1045 Form
+629,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\San Dimas Community Hospital\106190673_CDM_All_2020.xlsx,ABS 1045
+630,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\San Gabriel Valley Medical Center\106190200_CDM_All_2020.xlsx,AB 1045 FORM
+631,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\San Joaquin General Hospital\106391010_Common25_2020.xlsx,AB 1045 Form
+632,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\San Joaquin Valley Rehab Center\106104023_CDM_All_2020.xls,AB 1045 Form
+633,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\San Leandro Hospital\106013619_CDM_All_2020.xlsx,AB 1045
+634,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\San Ramon Regional Medical Center\106074017_CDM_All_2020.xlsx,COMMON OP PROCEDURES
+635,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Santa Barbara Cottage Hospital\106420514_CDM_All_2020.xlsx,AB 1045 Common 25
+636,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Santa Monica Hospital - UCLA\106190687_Common25_2020.xlsx,AB 1045 Form_SM
+637,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Santa Rosa Memorial Hospital\106491064_CDM_All_2020.xlsx,AB 1045 Form
+638,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Santa Ynez Valley Cottage Hospital\106420522_CDM_All_2020.xlsx,AB 1045 Common 25
+639,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Scripps Green Hospital\106371256_CDM_All_2020.xlsx,AB 1045 Form
+640,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Scripps Memorial Hospital - Encinitas\106371394_CDM_All_2020.xlsx,AB 1045 Form
+641,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Scripps Memorial Hospital - La Jolla\106370771_CDM_All_2020.xlsx,LJ AB 1045 Form
+642,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Scripps Mercy Hospital\106370744_CDM_All_2020.xlsx,SD AB 1045 Form
+643,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Scripps Mercy Hospital\106370744_CDM_All_2020.xlsx,CV AB 1045 Form
+644,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Seneca Healthcare District\106321016_Common25_2020.xlsx,AB 1045 Form
+645,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Sequoia Hospital\106410891_CDM_All_2020.xlsx,AB 1045 Form
+646,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Seton Medical Center\106410817_CDM_All_2020.xlsx,2019-2020 Seton AB 1045 Form
+647,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Sharp Chula Vista Medical Center\106370875_Common25_2020.xlsx,OSHPD SCV20 FORM
+648,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Sharp Coronado Hospital\106370689_Common25_2020.xlsx,OSHPD SCO20 Form
+649,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Sharp Grossmont Hospital\106370714_Common25_2020.xlsx,OSHPD SGH20 Form
+650,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Sharp Memorial Hospital\106370694_Common25_2020.xlsx,OSHPD SMH20 FORM
+651,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Sharp Mesa Vista Hospital\106370745_Common25_2020.xlsx,OSHPD SMV20 FORM
+652,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Shasta Regional Medical Center\106450940_CDM_All_2020.xlsx,AB 1045 Form
+653,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Sherman Oaks Hospital\106190708_CDM_All_2020.xlsx,ABS 1045
+654,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Shriners Childrens Hospital - Northern California\106344114_Common25_2020.xlsx,AB 1045 Form
+655,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Sierra Nevada Memorial Hospital\106291023_CDM_All_2020.xlsx,AB 1045 Form
+656,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Sierra View Medical Center\106540798_Common25_2020.xls,Sheet1
+657,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Sierra Vista Hospital\106342392_CDM_All_2020.xlsx,AB 1045 Form
+658,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Sierra Vista Regional Medical Center\106400524_CDM_All_2020.xlsx,COMMON OP PROCEDURES
+659,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Sonoma Valley Hospital\106491076_CDM_All_2020.xlsx,AB 1045 Form
+660,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Southern California Hospital at Hollywood\106190380_Common25_2020.xlsx,TEMPLATE
+661,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Southern California Hospital at Hollywood\106190380_Common25_2020.xlsx,SCH-HOLLYWOOD
+662,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Southern California Hospital at Hollywood\106190380_Common25_2020.xlsx,SCH-CULVER CITY
+663,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Southwest Healthcare System - Murrieta\106334068_Common25_2020.xlsx,AB 1045 Form
+664,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\St Agnes Medical Center\106100899_CDM_All_2020.xlsx,AB 1045 Form
+665,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\St Bernardine Medical Center\106361339_CDM_All_2020.xlsx,AB 1045 Form
+666,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\St Elizabeth Community Hospital\106521041_CDM_All_2020.xlsx,AB 1045 Form
+667,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\St Francis Medical Center - Lynwood\106190754_CDM_All_2020.xlsx,2019-2020 SFMC AB 1045 Form
+668,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\St Francis Memorial Hospital - S.F\106380960_CDM_All_2020.xlsx,AB 1045 Form
+669,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\St Johns Pleasant Valley Hospital\106560508_CDM_All_2020.xlsx,AB 1045 Form
+670,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\St Johns Regional Medical Center\106560529_CDM_All_2020.xlsx,AB 1045 Form 
+671,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\St Joseph Hospital - Eureka\106121080_CDM_All_2020.xlsx,AB 1045 Form
+672,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\St Joseph Hospital - Orange\106301340_CDM_All_2020.xlsx,AB 1045 Form
+673,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\St Joseph Medical Center - Stockton\106391042_CDM_All_2020.xlsx,AB 1045 Form
+674,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\St Josephs Behavioral Health Center\106392232_CDM_All_2020.xlsx,AB 1045 Form
+675,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\St Jude Medical Center\106301342_CDM_All_2020.xlsx,AB 1045 Form
+676,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\St Mary Medical Center - Apple Valley\106361343_CDM_All_2020.xlsx,AB 1045 Form
+677,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\St Mary Medical Center - Long Beach\106190053_CDM_All_2020.xlsx,AB 1045 Form
+678,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\St Marys Medical Center - San Francisco\106380965_CDM_All_2020.xlsx,AB 1045 Form
+679,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\St Rose Hospital\106010967_Common25_2020.xlsx,AB 1045 Form
+680,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Stanford University Hospital\106430905_CDM_All_2020.xlsx,AB 1045 Form
+681,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Stanislaus Surgical Center\106504038_CDM_All_2020.xlsx,SSH AB 1045 FORM
+682,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\State - Atascadero State Hospital\106400683_CDM_All_2020.xlsx,AB 1045 Form
+683,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\State - Coalinga State Hospital\160105051_CDM_All_2020.xlsx,AB 1045 Form
+684,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\State - Metropolitan State Hospital\106190958_CDM_All_2020.xlsx,AB 1045 Form
+685,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\State - Napa State Hospital\160281266_CDM_All_2020.xlsx,AB 1045 Form
+686,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\State - Patton State Hospital\106361768_CDM_All_2020.xlsx,AB 1045 Form
+687,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Sutter Amador Hospital\106034002_CDM_All_2020.xlsx,Amador AB 1045 Form
+688,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Sutter Auburn Faith Hospital\106310791_CDM_All_2020.xlsx,Auburn AB1045 Form
+689,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Sutter Center for Psychiatry\106344017_CDM_All_2020.xlsx,AB 1045 FORM
+690,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Sutter Coast Hospital\106084001_CDM_All_2020.xlsx,AB 1045 From
+691,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Sutter Davis Hospital\106574010_CDM_All_2020.xlsx,AB 1045
+692,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Sutter Delta Medical Center\106070934_CDM_All_2020.xlsx,AB 1045 FORM
+693,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Sutter Lakeside Hospital\106171395_CDM_All_2020.xlsx,AB 1045 FORM
+694,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Sutter Maternity & Surgery Center\106444012_CDM_All_2020.xlsx,AB 1045 FORM
+695,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Sutter Medical Center - Sacramento\106341051_CDM_All_2020.xlsx,SMCS AB 1045 FORM
+696,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Sutter Roseville Medical Center\106311000_CDM_All_2020.xlsx,AB 1045
+697,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Sutter Santa Rosa Memorial Hospital\106494106_CDM_All_2020.xlsx,AB 1045
+698,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Sutter Solano Medical Center\106481094_CDM_All_2020.xlsx,AB 1045 FORM
+699,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Sutter Surgical Hospital - North Valley\106034002_CDM_All_2020.xlsx,North Valley AB 1045 FORM
+700,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Sutter Tracy Community Memorial Hospital\106391056_CDM_All_2020.xlsx,AB 1045 FORM
+701,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Tahoe Forest Hospital\106291053_CDM_All_2020.xlsx,AB 1045 Form
+702,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Temecula Valley Hospital\106334564_Common25_2020.xlsx,AB 1045 Form
+703,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Torrance Memorial Medical Center\106190422_Common25_2020.xlsx,AB 1045 Form
+704,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Tri-City Medical Center\106370780_CDM_All_2020.xlsx,AB 1045
+705,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Twin Cities Community Hospital\106400548_CDM_All_2020.xlsx,COMMON OP PROCEDURES
+706,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\UCSD Medical Center\106370782_Common25_2020.xlsx,AB 1045 Form
+707,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\UCSF Medical Center\106381154_CDM_All_2020.xlsx,AB 1045 2020
+708,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Unversity of California Irvine Medical Center\106301279_Common25_2020.xlsx,AB 1045 Form
+709,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\USC Verdugo Hills Hospital\106190818_Common25_2020.xlsx,AB 1045 Form
+710,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\USC-Kenneth Norris Cancer Hospital\106191216_CDM_All_2020.xlsx,AB 1045 Form USC Norris Hosp
+711,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Valley Childrens Hospital\106204019_CDM_All_2020.xlsx,AB 1045 Form
+712,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Valley Presbyterian Hospital\106190812_CDM_All_2020.xlsx,Common25
+713,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Valleycare Medical Center\106014050_CDM_All_2020.xlsx,AB1045 Form
+714,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Ventura County Medical Center\106560481_CDM_All_2020.xlsx,AB 1045 Form
+715,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Vibra Rehabilitation Hospital of Rancho Mirage\106334533_CDM_All_2020.xls,AB 1045 Form
+716,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Washington Hospital - Fremont\106010987_CDM_All_2020.xlsx,AB 1045 Form
+717,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\West Hills Hospital & Medical Center\106190859_Common25_2020.xlsx,AB 1045 Form
+718,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Whittier Hospital Medical Center\106190883_CDM_All_2020.xlsx,AB 1045 FORM
+719,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Woodland Memorial Hospital\106571086_CDM_All_2020.xlsx,AB 1045 Form
+720,C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset\Zuckerberg San Francisco General Hospital & Trauma Center\106380939_CDM_All_2020.xlsx,AB 1045 Form

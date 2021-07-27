@@ -21,7 +21,7 @@ class WebScraper:
         self.driver.get('https://www.fairhealthconsumer.org/medical/zip')
 
     def sleep(self):
-        time.sleep(10)
+        time.sleep(5)
 
     def enter_location(self):
         location_search = self.driver.find_element_by_css_selector("input[placeholder='Zip Code or City, State (e.g, 12345 or New York, NY)']")
@@ -59,6 +59,18 @@ def check_row(reader, zip, code):
     row_exists = any((row[0] == code) and (row[1] == zip) for row in reader)
     return row_exists
 
+# open browser and search zip and cpt code
+def run_browser(zip, code):
+    browser = WebScraper(zip, code)      
+    browser.enter_location() 
+    browser.submit_location()   
+    browser.enter_cpt()    
+    browser.agree_to_terms()   
+    browser.go_to_estimator()                               
+    browser.get_estimates()       
+    in_net, out_net = browser.in_net, browser.out_net  
+    return browser, in_net, out_net
+
 # 1. Get zip codes
 csv_file = r'C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Addresses.csv'
 address_df = pd.read_csv(csv_file)
@@ -87,17 +99,16 @@ with open(filename, "r") as rf, open(filename, "a", newline='') as wf:
             if not check_row(reader, zip, code):
                 try: 
                     # open browser and search zip and cpt code
-                    browser = WebScraper(zip, code)      
-                    browser.enter_location() 
-                    browser.submit_location()   
-                    browser.enter_cpt()    
-                    browser.agree_to_terms()   
-                    browser.go_to_estimator()                               
-                    browser.get_estimates()       
-                    in_net, out_net = browser.in_net, browser.out_net  
+                    browser, in_net, out_net = run_browser(zip, code)
                     print(in_net, out_net)           
                 except selenium.common.exceptions.ElementNotInteractableException: 
                     in_net, out_net = 'N/A', 'N/A'
+                except selenium.common.exceptions.WebDriverException:
+                    browser.driver.close() 
+                    rotate_VPN(settings)
+                    time.sleep(2)
+                    browser, in_net, out_net = run_browser(zip, code)
+                    print(in_net, out_net)  
 
                 # Write to csv
                 writer.writerow([code, zip, in_net, out_net])
