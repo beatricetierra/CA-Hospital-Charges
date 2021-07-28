@@ -64,6 +64,5 @@ with open('AcceptedInsurance.csv', 'w', newline='') as file:
         except:
             accepted_insurances = 'N/A'
 
-
         writer.writerow([hospital, accepted_insurances, browser.url])
         browser.driver.close()   

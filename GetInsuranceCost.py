@@ -72,22 +72,26 @@ def run_browser(zip, code):
     return browser, in_net, out_net
 
 # 1. Get zip codes
-csv_file = r'C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Addresses.csv'
-address_df = pd.read_csv(csv_file)
+address = r'C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Addresses.csv'
+address_df = pd.read_csv(address)
 zipcodes = [re.search('CA \d\d\d\d\d', add).group(0).split(' ')[1] for add in address_df['Address']]
 
-# 2. Initialize VPN
+# 2. Get CPT codes
+charge_master = r'C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\ChargeMasterList.csv'
+charge_master_df = pd.read_csv(charge_master)
+codes = charge_master_df['CPT'].unique().sort()
+
+# 3. Initialize VPN
 settings = initialize_VPN(save=1,area_input=['complete rotation'])
 rotate_VPN(settings)
 
-# 3. Create csv file to store data
+# 4. Create csv file to store data
 filename = 'Datasets/CoverageCost.csv'
 if not os.path.exists(filename):
     open(filename, 'w').close()
 
-# 4. Get cost after insurance 
+# 5. Get cost after insurance 
 csv_headers = ['CPT Code', 'Zip', 'In-Network', 'Out-Network']
-codes = ['99282', '99283', '99284', '99285']
 
 with open(filename, "r") as rf, open(filename, "a", newline='') as wf:
     reader = csv.reader(rf)

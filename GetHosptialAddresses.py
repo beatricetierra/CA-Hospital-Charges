@@ -36,9 +36,7 @@ with open('Addresses2.csv', 'w', newline='') as file:
             address = results['formatted_address']
             lat = results['geometry']['location']['lat']
             lng = results['geometry']['location']['lng']
-            print(lat, lng)
         except:
             address, lat, lng = 3*['N/A'] 
         writer.writerow([hospital, address, lat, lng])
         
-
