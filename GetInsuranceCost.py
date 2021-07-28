@@ -79,20 +79,19 @@ zipcodes = [re.search('CA \d\d\d\d\d', add).group(0).split(' ')[1] for add in ad
 # 2. Get CPT codes
 charge_master = r'C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\ChargeMasterList.csv'
 charge_master_df = pd.read_csv(charge_master)
-codes = charge_master_df['CPT'].unique().sort()
+codes = map(str, charge_master_df['CPT'].unique())
 
 # 3. Initialize VPN
 settings = initialize_VPN(save=1,area_input=['complete rotation'])
 rotate_VPN(settings)
 
 # 4. Create csv file to store data
-filename = 'Datasets/CoverageCost.csv'
+filename = 'Datasets/CoverageCost2.csv'
 if not os.path.exists(filename):
     open(filename, 'w').close()
 
 # 5. Get cost after insurance 
 csv_headers = ['CPT Code', 'Zip', 'In-Network', 'Out-Network']
-
 with open(filename, "r") as rf, open(filename, "a", newline='') as wf:
     reader = csv.reader(rf)
     writer = csv.writer(wf)
@@ -101,6 +100,11 @@ with open(filename, "r") as rf, open(filename, "a", newline='') as wf:
     for code in codes:
         for i, zip in enumerate(zipcodes):
             if not check_row(reader, zip, code):
+                # try:
+                #     browser, in_net, out_net = run_browser(zip, code)
+                #     print(in_net, out_net) 
+                # except selenium.common.exceptions.ElementNotInteractableException:
+                #     in_net, out_net = 'N/A', 'N/A'
                 try: 
                     # open browser and search zip and cpt code
                     browser, in_net, out_net = run_browser(zip, code)
