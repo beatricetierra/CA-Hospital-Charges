@@ -50,8 +50,7 @@ global df
 df = pd.DataFrame()
 for filepath, sheetname in zip(filepaths, sheetnames):
     hospital = filepath.split('\\')[-2]
-    df_tmp = pd.read_excel(filepath, sheet_name = sheetname, usecols=[0,1,2], \
-        names = ['Description', 'CPT', 'Charge'])
+    df_tmp = pd.read_excel(filepath, sheet_name = sheetname, usecols=[0,1,2], names = ['Description', 'CPT', 'Charge'])
     df_tmp['CPT'] = df_tmp['CPT'].astype(str)
     df_tmp = df_tmp.loc[df_tmp.CPT.str.contains('\d\d\d\d\d', na=False),:]
     df_tmp['Hospital'] = hospital

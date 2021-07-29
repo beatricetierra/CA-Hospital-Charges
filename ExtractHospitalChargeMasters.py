@@ -1,28 +1,49 @@
+import sys
 import xlrd
 from pathlib import Path
 from itertools import chain
 import pandas as pd
+import logging
 
-# 1. Get all excel files
-sheet_data = []   
-folder = r"C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Chargemaster Dataset"
-xlsx_files = Path(folder).rglob('*.xlsx')
-xls_files = Path(folder).rglob('*.xls')
-all_files = sorted(chain(xlsx_files, xls_files))
+def log_execution():
+    logFilePath = "logs/default.log"
+    logLevel = logging.DEBUG 
+    logging.basicConfig(filename=logFilePath,filemode='a',level=logLevel, \
+                        format ='%(asctime)s %(levelname)s %(message)s', \
+                        datefmt='%Y-%m-%d %H:%M:%S')
+    logging.debug("Logging is configured - Log Level %s , Log File: %s",str(logLevel),logFilePath) 
 
-# 2. Get all 'Common OP Procedure' sheet from each excel file
-df = pd.DataFrame(columns=['filepath', 'sheetname'])
-match_string = 'Evaluation & Management Services (CPT Codes 99201-99499)'
+def find_form_locations(folder, destination):
+    log_execution()
+    all_files = get_excel_files(folder)
+    form_locations = get_sheet_names(all_files)
+    form_locations.to_csv(destination)
 
-for file in all_files:
-    try:
-        wb = xlrd.open_workbook(file)
-        for sheet in wb.sheets():
-            for row in sheet.get_rows():
-                if any([r.value == match_string for r in row]):
-                    df = df.append({'filepath':file, 'sheetname':sheet.name}, ignore_index=True)
-    except xlrd.biffh.XLRDError:
-        pass
+def get_excel_files(folder):
+    xlsx_files = Path(folder).rglob('*.xlsx')
+    xls_files = Path(folder).rglob('*.xls')
+    all_files = sorted(chain(xlsx_files, xls_files))
+    return all_files
 
-# 3. Export filepath and sheetname info
-df.to_csv(r"C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\ChargeMasterLocations.csv")
+def get_sheet_names(all_files):
+    df = pd.DataFrame(columns=['filepath', 'sheetname'])
+    match_string = 'Evaluation & Management Services (CPT Codes 99201-99499)'
+
+    for file in all_files:
+        try:
+            wb = xlrd.open_workbook(file)
+            for sheet in wb.sheets():
+                for row in sheet.get_rows():
+                    if any([r.value == match_string for r in row]):
+                        df = df.append({'filepath':file, 'sheetname':sheet.name}, ignore_index=True)
+        except xlrd.biffh.XLRDError:
+            logging.error("Excel file is restricted from reading.")
+            pass
+    return df
+
+
+if __name__ == "__main__":
+    # default folder and destination values
+    folder = r"C:\Users\Beatrice Tierra\Documents\SpringBoard\US-Hospital-Charges\Datasets\Chargemaster Dataset"
+    destination = r".\results.csv"
+    find_form_locations(folder, destination)
