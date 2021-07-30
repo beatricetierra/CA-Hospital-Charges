@@ -26,6 +26,7 @@ In addition to the Hospital Chargemaster dataset, I also want to include a datas
 ### 1. Charge Masters
 1. Download "Datasets/Chargemaster Dataset". This contains all CA hospitals' submitted chargemaster for 2020. 
 2. Run script GetChargeMasterList.py using the command "python GetChargeMasterList.py <foldepath from step one> <output filename>.
+   Example: python GetChargeMasterList.py "./Datasets/Chargemaster Dataset" "./results.csv"
   
 ### 2. CA Hospital Profiles 
 1. Located in HospitalProfiles.csv 
