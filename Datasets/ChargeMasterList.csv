@@ -161,26 +161,26 @@ Adventist Health Clearlake,"Emergency Room Visit, Level 4 (high severity without
 Adventist Health Clearlake,"Emergency Room Visit, Level 2 (low to moderate severity)",99282,745
 Adventist Health Clearlake,"Emergency Room Visit, Level 4 (high severity with significant threat)",99285,4160
 Adventist Health Clearlake,Basic Metabolic Panel,80048,134
-Adventist Health Clearlake,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62322,5800.656666666666
-Adventist Health Clearlake,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62323,5800.656666666666
-Adventist Health Clearlake,"Tonsillectomy with Adenoidectomy, less than 12 years old",42820,9061.714285714286
+Adventist Health Clearlake,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62322,5800.656667
+Adventist Health Clearlake,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62323,5800.656667
+Adventist Health Clearlake,"Tonsillectomy with Adenoidectomy, less than 12 years old",42820,9061.714286
 Adventist Health Clearlake,Laparoscopic Cholecystectomy,47562,18289.2
-Adventist Health Clearlake,"Injection, Anesthetic or Steroid, transforaminal epidural, lumbar",64483,5731.405714285714
+Adventist Health Clearlake,"Injection, Anesthetic or Steroid, transforaminal epidural, lumbar",64483,5731.405714
 Adventist Health Clearlake,"Endoscopy, Upper GI, diagnostic",43235,11578
-Adventist Health Clearlake,"Endoscopy, Upper GI, with biopsy",43239,11253.896034482757
+Adventist Health Clearlake,"Endoscopy, Upper GI, with biopsy",43239,11253.89603
 Adventist Health Clearlake,"Outpatient Visit, established patient, 15 minutes",99213,178.81
-Adventist Health Clearlake,"Colonoscopy, with biopsy",45380,10955.582787878788
+Adventist Health Clearlake,"Colonoscopy, with biopsy",45380,10955.58279
 Adventist Health Clearlake,"Colonoscopy, diagnostic",45378,6310.3475
-Adventist Health Clearlake,"Colonoscopy, with lesion removal, by snare technique",45385,11295.467118644068
-Adventist Health Clearlake,Thyroid Stimulating Hormone,84443,199.54624855713737
-Adventist Health Clearlake,Prothrombin Time,85610,77.2756391953277
-Adventist Health Clearlake,Partial Thromboplastin Time,85730,106.0370342205323
-Adventist Health Clearlake,Lipid Panel,80061,229.9406666666667
+Adventist Health Clearlake,"Colonoscopy, with lesion removal, by snare technique",45385,11295.46712
+Adventist Health Clearlake,Thyroid Stimulating Hormone,84443,199.5462486
+Adventist Health Clearlake,Prothrombin Time,85610,77.2756392
+Adventist Health Clearlake,Partial Thromboplastin Time,85730,106.0370342
+Adventist Health Clearlake,Lipid Panel,80061,229.9406667
 Adventist Health Clearlake,"Creatine Kinase (CK), (CPK), Total",82550,137
 Adventist Health Clearlake,Comprehensive Metabolic Panel,80053,160
 Adventist Health Clearlake,"Complete Blood Count, with differential WBC, automated",85025,126
 Adventist Health Clearlake,"Complete Blood Count, automated",85027,107
-Adventist Health Clearlake,"Cataract Removal with Insertion of Intraocular Lens, 1 Stage",66984,14308.190476190477
+Adventist Health Clearlake,"Cataract Removal with Insertion of Intraocular Lens, 1 Stage",66984,14308.19048
 Adventist Health Clearlake,"Hernia Repair, Inguinal, 5 years and older",49505,19039.75
 Adventist Health Glendale,"Physical Therapy, Gait Training",97116,120
 Adventist Health Glendale,"Physical Therapy, Therapeutic Exercise",97110,120
@@ -236,18 +236,18 @@ Adventist Health Glendale,"Injection, Anesthetic or Steroid, transforaminal epid
 Adventist Health Glendale,"Hernia Repair, Inguinal, 5 years and older",49505,30845
 Adventist Health Glendale,"Excision, Breast Lesion, without preoperative radiological marker",19120,31580
 Adventist Health Glendale,"Endoscopy, Upper GI, diagnostic",43235,6065
-Adventist Health Howard Memorial,"Colonoscopy, diagnostic",45378,5775.194736842103
-Adventist Health Howard Memorial,"Colonoscopy, with biopsy",45380,7282.188627450977
-Adventist Health Howard Memorial,"Tendon sheath incision (eg, for trigger finger)",26055,5805.195555555554
-Adventist Health Howard Memorial,"Endoscopy, Upper GI, with biopsy",43239,6426.298124999998
-Adventist Health Howard Memorial,"Endoscopy, Upper GI, diagnostic",43235,6426.298124999998
-Adventist Health Howard Memorial,"Hernia Repair, Inguinal, 5 years and older",49505,30199.237619047617
-Adventist Health Howard Memorial,Laparoscopic Cholecystectomy,47562,45672.8342857143
+Adventist Health Howard Memorial,"Colonoscopy, diagnostic",45378,5775.194737
+Adventist Health Howard Memorial,"Colonoscopy, with biopsy",45380,7282.188627
+Adventist Health Howard Memorial,"Tendon sheath incision (eg, for trigger finger)",26055,5805.195556
+Adventist Health Howard Memorial,"Endoscopy, Upper GI, with biopsy",43239,6426.298125
+Adventist Health Howard Memorial,"Endoscopy, Upper GI, diagnostic",43235,6426.298125
+Adventist Health Howard Memorial,"Hernia Repair, Inguinal, 5 years and older",49505,30199.23762
+Adventist Health Howard Memorial,Laparoscopic Cholecystectomy,47562,45672.83429
 Adventist Health Howard Memorial,"Colonoscopy, flexible; with removal of tumor(s),polyp(s)",45384,7748.73625
-Adventist Health Howard Memorial,"Bronchoscopy, rigid or flexible, including fluoroscopic guid",31628,15472.714375000001
-Adventist Health Howard Memorial,"Colonoscopy, with lesion removal, by snare technique",45385,8153.9228571428575
-Adventist Health Howard Memorial,"Cataract Removal with Insertion of Intraocular Lens, 1 Stage",66984,10697.711794871791
-Adventist Health Howard Memorial,Carpal Tunnel Surgery,64721,7350.494693877551
+Adventist Health Howard Memorial,"Bronchoscopy, rigid or flexible, including fluoroscopic guid",31628,15472.71438
+Adventist Health Howard Memorial,"Colonoscopy, with lesion removal, by snare technique",45385,8153.922857
+Adventist Health Howard Memorial,"Cataract Removal with Insertion of Intraocular Lens, 1 Stage",66984,10697.71179
+Adventist Health Howard Memorial,Carpal Tunnel Surgery,64721,7350.494694
 Adventist Health Howard Memorial,"Complete Blood Count, with differential WBC, automated",85025,117
 Adventist Health Howard Memorial,Basic Metabolic Panel,80048,137
 Adventist Health Howard Memorial,"Emergency Room Visit, Level 4 (high severity with significant threat)",99285,3002
@@ -307,10 +307,10 @@ Adventist Health Reedley,"Mammography, Screening, Bilateral",77067,499.98
 Adventist Health Reedley,"CT Scan, Head or Brain, without contrast",70450,2819.06
 Adventist Health Reedley,"Urinalysis, with microscopy",81001,80.95
 Adventist Health Reedley,"Urinalysis, without microscopy",81003,40.6
-Adventist Health Reedley,"Troponin, Quantitative",84484,176.45000000000002
+Adventist Health Reedley,"Troponin, Quantitative",84484,176.45
 Adventist Health Reedley,Thyroid Stimulating Hormone,84443,169.99
 Adventist Health Reedley,Partial Thromboplastin Time,85730,117.88
-Adventist Health Reedley,Lipid Panel,80061,252.04000000000002
+Adventist Health Reedley,Lipid Panel,80061,252.04
 Adventist Health Reedley,"Creatine Kinase (CK), (CPK), Total",82550,125.08
 Adventist Health Reedley,Comprehensive Metabolic Panel,80053,301.24
 Adventist Health Reedley,"Complete Blood Count, with differential WBC, automated",85025,127.13
@@ -319,7 +319,7 @@ Adventist Health Reedley,Basic Metabolic Panel,80048,198.41
 Adventist Health Reedley,"Emergency Room Visit, Level 4 (high severity with significant threat)",99285,3601.36
 Adventist Health Reedley,"Emergency Room Visit, Level 4 (high severity without signigicant threat)",99284,2754.78
 Adventist Health Reedley,"Emergency Room Visit, Level 2 (low to moderate severity)",99282,1426.4
-Adventist Health Reedley,Prothrombin Time,85610,103.53999999999999
+Adventist Health Reedley,Prothrombin Time,85610,103.54
 Adventist Health Reedley,"Ultrasound, Abdomen, Complete",76700,1224.01
 Adventist Health Simi Valley,"Emergency Room Visit, Level 4 (high severity without signigicant threat)",99284,2879.91
 Adventist Health Simi Valley,"CT Scan, Pelvis, with contrast",72193,4448.73
@@ -395,56 +395,56 @@ Adventist Health Sonora - Greenley,"Urinalysis, with microscopy",81001,107
 Adventist Health Sonora - Greenley,"Creatine Kinase (CK), (CPK), Total",82550,103
 Adventist Health Sonora - Greenley,"Emergency Room Visit, Level 4 (high severity with significant threat)",99285,1420
 Adventist Health St Helena,"Cataract Removal with Insertion of Intraocular Lens, 1 Stage",66984,41057
-Adventist Health St Helena,Lipid Panel,80061,140.98302124311567
-Adventist Health St Helena,Partial Thromboplastin Time,85730,134.6098501070664
-Adventist Health St Helena,Prothrombin Time,85610,106.02782305005822
-Adventist Health St Helena,Thyroid Stimulating Hormone,84443,263.59100802854596
+Adventist Health St Helena,Lipid Panel,80061,140.9830212
+Adventist Health St Helena,Partial Thromboplastin Time,85730,134.6098501
+Adventist Health St Helena,Prothrombin Time,85610,106.0278231
+Adventist Health St Helena,Thyroid Stimulating Hormone,84443,263.591008
 Adventist Health St Helena,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,48262.4
 Adventist Health St Helena,"Arthroscopy, Shoulder, with partial acromioplasty",29826,85024.5
-Adventist Health St Helena,Carpal Tunnel Surgery,64721,33906.11842105263
+Adventist Health St Helena,Carpal Tunnel Surgery,64721,33906.11842
 Adventist Health St Helena,Basic Metabolic Panel,80048,300
-Adventist Health St Helena,"Colonoscopy, diagnostic",45378,9801.949749999998
-Adventist Health St Helena,"Colonoscopy, with biopsy",45380,13931.038719512202
-Adventist Health St Helena,"Colonoscopy, with lesion removal, by snare technique",45385,14520.278805031452
+Adventist Health St Helena,"Colonoscopy, diagnostic",45378,9801.94975
+Adventist Health St Helena,"Colonoscopy, with biopsy",45380,13931.03872
+Adventist Health St Helena,"Colonoscopy, with lesion removal, by snare technique",45385,14520.27881
 Adventist Health St Helena,Comprehensive Metabolic Panel,80053,318
-Adventist Health St Helena,"Endoscopy, Upper GI, with biopsy",43239,14227.344634146382
-Adventist Health St Helena,"Arthroplasty, knee, condyle and plateau; medial AND lateral",27447,180840.74146520148
-Adventist Health St Helena,"Esophagogastroduodenoscopy, flexible, transoral; with biopsy, single or multiple",43239,14227.344634146382
-Adventist Health St Helena,TOTAL HIP ARTHROPLASTY,27130,161153.77659574468
-Adventist Health St Helena,Cystourethroscopy (separate procedure),52000,8872.251297709923
+Adventist Health St Helena,"Endoscopy, Upper GI, with biopsy",43239,14227.34463
+Adventist Health St Helena,"Arthroplasty, knee, condyle and plateau; medial AND lateral",27447,180840.7415
+Adventist Health St Helena,"Esophagogastroduodenoscopy, flexible, transoral; with biopsy, single or multiple",43239,14227.34463
+Adventist Health St Helena,TOTAL HIP ARTHROPLASTY,27130,161153.7766
+Adventist Health St Helena,Cystourethroscopy (separate procedure),52000,8872.251298
 Adventist Health St Helena,Revision of Knee Joint,27446,158681.66
 Adventist Health St Helena,"Emergency Room Visit, Level 4 (high severity with significant threat)",99285,5616
 Adventist Health St Helena,"Emergency Room Visit, Level 4 (high severity without signigicant threat)",99284,4012
 Adventist Health St Helena,"Emergency Room Visit, Level 3 (moderate severity)",99283,2866
 Adventist Health St Helena,"Emergency Room Visit, Level 2 (low to moderate severity)",99282,1720
-Adventist Health St Helena,"Endoscopy, Upper GI, diagnostic",43235,11213.190476190477
+Adventist Health St Helena,"Endoscopy, Upper GI, diagnostic",43235,11213.19048
 Adventist Health St Helena,"Complete Blood Count, with differential WBC, automated",85025,128
 Adventist Health Ukiah Valley,Comprehensive Metabolic Panel,80053,163
-Adventist Health Ukiah Valley,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62323,6501.718928571443
-Adventist Health Ukiah Valley,"Excision, Breast Lesion, without preoperative radiological marker",19120,14255.854848484847
+Adventist Health Ukiah Valley,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62323,6501.718929
+Adventist Health Ukiah Valley,"Excision, Breast Lesion, without preoperative radiological marker",19120,14255.85485
 Adventist Health Ukiah Valley,"Emergency Room Visit, Level 2 (low to moderate severity)",99282,1004
 Adventist Health Ukiah Valley,"Emergency Room Visit, Level 3 (moderate severity)",99283,1732
 Adventist Health Ukiah Valley,"Emergency Room Visit, Level 4 (high severity without signigicant threat)",99284,3234
 Adventist Health Ukiah Valley,"Emergency Room Visit, Level 4 (high severity with significant threat)",99285,3565
 Adventist Health Ukiah Valley,"Outpatient Visit, established patient, 15 minutes",99213,125.96
 Adventist Health Ukiah Valley,Basic Metabolic Panel,80048,148
-Adventist Health Ukiah Valley,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62322,6501.718928571443
-Adventist Health Ukiah Valley,"Hernia Repair, Inguinal, 5 years and older",49505,30199.237619047617
+Adventist Health Ukiah Valley,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62322,6501.718929
+Adventist Health Ukiah Valley,"Hernia Repair, Inguinal, 5 years and older",49505,30199.23762
 Adventist Health Ukiah Valley,"Complete Blood Count, with differential WBC, automated",85025,116
-Adventist Health Ukiah Valley,"Endoscopy, Upper GI, diagnostic",43235,5259.871621621617
-Adventist Health Ukiah Valley,"Colonoscopy, with biopsy",45380,6766.895503875955
-Adventist Health Ukiah Valley,"Colonoscopy, diagnostic",45378,5012.041341107875
-Adventist Health Ukiah Valley,Laparoscopic Cholecystectomy,47562,27197.856666666656
-Adventist Health Ukiah Valley,"Cataract Removal with Insertion of Intraocular Lens, 1 Stage",66984,9342.173943661974
+Adventist Health Ukiah Valley,"Endoscopy, Upper GI, diagnostic",43235,5259.871622
+Adventist Health Ukiah Valley,"Colonoscopy, with biopsy",45380,6766.895504
+Adventist Health Ukiah Valley,"Colonoscopy, diagnostic",45378,5012.041341
+Adventist Health Ukiah Valley,Laparoscopic Cholecystectomy,47562,27197.85667
+Adventist Health Ukiah Valley,"Cataract Removal with Insertion of Intraocular Lens, 1 Stage",66984,9342.173944
 Adventist Health Ukiah Valley,Carpal Tunnel Surgery,64721,15126.984
-Adventist Health Ukiah Valley,"Endoscopy, Upper GI, with biopsy",43239,6651.696066666673
+Adventist Health Ukiah Valley,"Endoscopy, Upper GI, with biopsy",43239,6651.696067
 Adventist Health Ukiah Valley,"Complete Blood Count, automated",85027,114
-Adventist Health Ukiah Valley,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,23102.792307692307
-Adventist Health Ukiah Valley,Thyroid Stimulating Hormone,84443,223.18715094968346
+Adventist Health Ukiah Valley,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,23102.79231
+Adventist Health Ukiah Valley,Thyroid Stimulating Hormone,84443,223.1871509
 Adventist Health Ukiah Valley,Lipid Panel,80061,229.81
 Adventist Health Ukiah Valley,Partial Thromboplastin Time,85730,121.85
-Adventist Health Ukiah Valley,"Injection, Anesthetic or Steroid, transforaminal epidural, lumbar",64483,6410.149999999996
-Adventist Health Ukiah Valley,"Colonoscopy, with lesion removal, by snare technique",45385,6805.594838709684
+Adventist Health Ukiah Valley,"Injection, Anesthetic or Steroid, transforaminal epidural, lumbar",64483,6410.15
+Adventist Health Ukiah Valley,"Colonoscopy, with lesion removal, by snare technique",45385,6805.594839
 Adventist Health Vallejo,PSYCH GROUP PHP Partial Hospitalization,90853,641
 Adventist Health Vallejo,PSYCH TX W/PT/FAM 45 M - Psych OP,90834,641
 Adventist Health White Memorial,"Urinalysis, without microscopy",81002,100
@@ -496,9 +496,9 @@ Adventist Medical Center - Hanford,"Emergency Room Visit, Level 4 (high severity
 Adventist Medical Center - Hanford,Basic Metabolic Panel,80048,198.41
 Adventist Medical Center - Hanford,"Complete Blood Count, with differential WBC, automated",85025,127.13
 Adventist Medical Center - Hanford,Comprehensive Metabolic Panel,80053,301.24
-Adventist Medical Center - Hanford,Lipid Panel,80061,252.04000000000002
+Adventist Medical Center - Hanford,Lipid Panel,80061,252.04
 Adventist Medical Center - Hanford,Partial Thromboplastin Time,85730,117.88
-Adventist Medical Center - Hanford,Prothrombin Time,85610,103.53999999999999
+Adventist Medical Center - Hanford,Prothrombin Time,85610,103.54
 Adventist Medical Center - Hanford,"Creatine Kinase (CK), (CPK), Total",82550,125.08
 Adventist Medical Center - Hanford,"CT Scan, Head or Brain, without contrast",70450,2819.06
 Adventist Medical Center - Hanford,"Mammography, Screening, Bilateral",77067,499.98
@@ -510,7 +510,7 @@ Adventist Medical Center - Hanford,"Inhalation Treatment, pressurized or nonpres
 Adventist Medical Center - Hanford,"Physical Therapy, Evaluation",97162,337.17
 Adventist Medical Center - Hanford,"Physical Therapy, Gait Training",97116,140.14
 Adventist Medical Center - Hanford,"Physical Therapy, Therapeutic Exercise",97110,140.14
-Adventist Medical Center - Hanford,"Troponin, Quantitative",84484,176.45000000000002
+Adventist Medical Center - Hanford,"Troponin, Quantitative",84484,176.45
 Alameda Hospital,EMERGENCY ROOM VISIT LEVEL 1 LIMITED/MINOR,99281,624
 Alameda Hospital,EMERGENCY ROOM VISIT LEVEL 2 LOW SEVERITY,99282,1062
 Alameda Hospital,EMERGENCY ROOM VISIT LEVEL 5 HIGH SEVERITY,99285,4869
@@ -555,7 +555,7 @@ Alameda Hospital,SMPL REPAIR SCALP/NECK/AX/GENIT/TRUNK 2.6-7.5CM,12002,4028.39
 Alameda Hospital,APPLICATION FINGER SPLINT STATIC,29130,46395.18
 Alameda Hospital,TRANSFUSION BLOOD OR BLOOD COMPONENTS,36430,49469.87
 Alameda Hospital,INCISION & DRAINAGE ABSCESS COMPLICATED/MULTIPLE,10061,3164.62
-Alhambra Hospital,EGD Percutaneous Placement Gastrostomy Tube,43246,13141.819090909092
+Alhambra Hospital,EGD Percutaneous Placement Gastrostomy Tube,43246,13141.81909
 Alhambra Hospital,"X-Ray Knee, three views",73562,674.72
 Alhambra Hospital,"X-Ray Ankle Complete, minimum three views",73610,587.23
 Alhambra Hospital,"CT Spine, without contrast",72125,4289.35
@@ -564,16 +564,16 @@ Alhambra Hospital,"X-Ray, Chest, two views",71046,686.35
 Alhambra Hospital,US Pelvis Transabdominal,76856,1504.8
 Alhambra Hospital,"Electrocardiogram, routine, tracing only, w/o interpretation and report",93005,575.83
 Alhambra Hospital,"Inhalation Treatment, pressurized or nonpressurized",94640,570
-Alhambra Hospital,"Colonoscopy, with biopsy",45380,11853.844897660818
-Alhambra Hospital,"Cataract Removal with Insertion of Intraocular Lens, 1 Stage",66984,18278.09771356784
-Alhambra Hospital,"Colonoscopy, diagnostic",45378,9820.983727810652
-Alhambra Hospital,"ERCP Remove Calculi/Debris, Biliairy/Pancreas Duct",43264,17526.61162162162
-Alhambra Hospital,"ERCP Remove Foreign Body/Stent, Biliary/Pancreas Duct",43275,15699.550566037737
-Alhambra Hospital,Abdominal Paracentesis with Imaging,49083,4272.401777777778
-Alhambra Hospital,"Hernia Repair, Inguinal, 5 years and older",49505,23438.627857142856
-Alhambra Hospital,"Hemorrhoidectomy Internal and External, 2/> Columns",46260,19059.030285714285
+Alhambra Hospital,"Colonoscopy, with biopsy",45380,11853.8449
+Alhambra Hospital,"Cataract Removal with Insertion of Intraocular Lens, 1 Stage",66984,18278.09771
+Alhambra Hospital,"Colonoscopy, diagnostic",45378,9820.983728
+Alhambra Hospital,"ERCP Remove Calculi/Debris, Biliairy/Pancreas Duct",43264,17526.61162
+Alhambra Hospital,"ERCP Remove Foreign Body/Stent, Biliary/Pancreas Duct",43275,15699.55057
+Alhambra Hospital,Abdominal Paracentesis with Imaging,49083,4272.401778
+Alhambra Hospital,"Hernia Repair, Inguinal, 5 years and older",49505,23438.62786
+Alhambra Hospital,"Hemorrhoidectomy Internal and External, 2/> Columns",46260,19059.03029
 Alhambra Hospital,CT Abdomen & Pelvis with contrast,74177,8307.24
-Alhambra Hospital,"Endoscopy, Upper GI, with biopsy",43239,11989.255911251981
+Alhambra Hospital,"Endoscopy, Upper GI, with biopsy",43239,11989.25591
 Alhambra Hospital,"CT Scan, Abdomen, without contrast",74146,7765.39
 Alhambra Hospital,"CT Scan, Head or Brain, without contrast",70450,3386.11
 Alhambra Hospital,"Emergency Room Visit, Level 4 (high/urgent severity)",99284,1699.8
@@ -592,11 +592,11 @@ Alhambra Hospital,Urine Pregnancy Test,81025,345.07
 Alhambra Hospital,Basic Metabolic Panel,80048,455.25
 Alhambra Hospital,Urine Culture,87086,440.9
 Alhambra Hospital,BNP (Triage),83880,537.48
-Alhambra Hospital,Esophagogastroduodenoscopy US Scope,43237,11964.464516129032
+Alhambra Hospital,Esophagogastroduodenoscopy US Scope,43237,11964.46452
 Alhambra Hospital,"X-Ray, Chest, one view",71045,686.35
 Alhambra Hospital,"Troponin, Quantitative",84484,412.05
-Alhambra Hospital,Blood Transfusion Service,36430,5254.3722265625
-Alhambra Hospital,Laparoscopic Cholecystectomy,47562,28369.94914893617
+Alhambra Hospital,Blood Transfusion Service,36430,5254.372227
+Alhambra Hospital,Laparoscopic Cholecystectomy,47562,28369.94915
 Alhambra Hospital,"Urinalysis, without microscopy",81002,165.19
 Alhambra Hospital,"Urinalysis, without microscopy",81003,165.19
 Alhambra Hospital,"Urinalysis, with microscopy",81000,286.65
@@ -1349,11 +1349,11 @@ Ballard Rehabilitation Hospital,"MRI, Brain, without contrast, followed by contr
 Ballard Rehabilitation Hospital,"Mammography, Screening, Bilateral",77067,
 Ballard Rehabilitation Hospital,"CT Scan, Head or Brain, without contrast",70450,1952.75
 Ballard Rehabilitation Hospital,"CT Scan, Abdomen, with contrast",74160,
-Ballard Rehabilitation Hospital,"Troponin, Quantitative",84484,13.530000000000001
+Ballard Rehabilitation Hospital,"Troponin, Quantitative",84484,13.53
 Ballard Rehabilitation Hospital,Thyroid Stimulating Hormone,84443,23.1
 Ballard Rehabilitation Hospital,Prothrombin Time,85610,5.4
 Ballard Rehabilitation Hospital,Partial Thromboplastin Time,85730,8.25
-Ballard Rehabilitation Hospital,Lipid Panel,80061,18.419999999999998
+Ballard Rehabilitation Hospital,Lipid Panel,80061,18.42
 Ballard Rehabilitation Hospital,"Excision, Breast Lesion, without preoperative radiological marker",19120,
 Ballard Rehabilitation Hospital,"Cardiac Catheterization, Left Heart, percutaneous ",93452,
 Ballard Rehabilitation Hospital,"Hernia Repair, Inguinal, 5 years and older",49505,
@@ -1385,7 +1385,7 @@ Ballard Rehabilitation Hospital,Comprehensive Metabolic Panel,80053,14.53
 Ballard Rehabilitation Hospital,"Complete Blood Count, automated",85027,8.89
 Ballard Rehabilitation Hospital,"Complete Blood Count, with differential WBC, automated",85025,10.69
 Ballard Rehabilitation Hospital,"Blood Gas Analysis, including 02 saturation",82805,
-Ballard Rehabilitation Hospital,Basic Metabolic Panel,80048,11.629999999999999
+Ballard Rehabilitation Hospital,Basic Metabolic Panel,80048,11.63
 Ballard Rehabilitation Hospital,"Outpatient Visit, established patient, 15 minutes",99213,
 Ballard Rehabilitation Hospital,"Emergency Room Visit, Level 4 (high severity with significant threat)",99285,
 Ballard Rehabilitation Hospital,"Emergency Room Visit, Level 4 (high severity without signigicant threat)",99284,
@@ -2132,11 +2132,11 @@ Childrens Hospital & Research Center at Oakland,"Mammography, Screening, Bilater
 Childrens Hospital & Research Center at Oakland,"Echocardiography, Transthoracic, complete, without Doppler",93307,2509
 Childrens Hospital at Mission,"Urinalysis, with microscopy",81001,$0; $178
 Childrens Hospital at Mission,Basic Metabolic Panel,80048,628
-Childrens Hospital at Mission,"Outpatient Visit, established patient, 15 minutes",99213,360.4557947899001
-Childrens Hospital at Mission,"Emergency Room Visit, Level 4 (high severity with significant threat)",99285,5939.413043478261
+Childrens Hospital at Mission,"Outpatient Visit, established patient, 15 minutes",99213,360.4557948
+Childrens Hospital at Mission,"Emergency Room Visit, Level 4 (high severity with significant threat)",99285,5939.413043
 Childrens Hospital at Mission,"Emergency Room Visit, Level 4 (high severity without signigicant threat)",99284,4630.576
-Childrens Hospital at Mission,"Emergency Room Visit, Level 3 (moderate severity)",99283,1770.765559293524
-Childrens Hospital at Mission,"Emergency Room Visit, Level 2 (low to moderate severity)",99282,956.9158751696065
+Childrens Hospital at Mission,"Emergency Room Visit, Level 3 (moderate severity)",99283,1770.765559
+Childrens Hospital at Mission,"Emergency Room Visit, Level 2 (low to moderate severity)",99282,956.9158752
 Childrens Hospital at Mission,"Urinalysis, with microscopy",81000,$0; $178
 Childrens Hospital at Mission,Laparoscopic Cholecystectomy,47562,0
 Childrens Hospital at Mission,"Urinalysis, without microscopy",81002,$0; $152
@@ -2160,9 +2160,9 @@ Childrens Hospital at Mission,"Colonoscopy, with biopsy",45380,0
 Childrens Hospital at Mission,"Physical Therapy, Evaluation",97163,$276; $414; $579
 Childrens Hospital at Mission,"Cardiac Catheterization, Left Heart, percutaneous ",93452,0
 Childrens Hospital at Mission,"Electrocardiogram, routine, with interpretation and report",93000,0
-Childrens Hospital at Mission,"Inhalation Treatment, pressurized or nonpressurized",94640,315.7521367521368
-Childrens Hospital at Mission,"Physical Therapy, Gait Training",97116,298.3333333333333
-Childrens Hospital at Mission,"Physical Therapy, Therapeutic Exercise",97110,259.45522388059703
+Childrens Hospital at Mission,"Inhalation Treatment, pressurized or nonpressurized",94640,315.7521368
+Childrens Hospital at Mission,"Physical Therapy, Gait Training",97116,298.3333333
+Childrens Hospital at Mission,"Physical Therapy, Therapeutic Exercise",97110,259.4552239
 Childrens Hospital at Mission,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,0
 Childrens Hospital at Mission,"Arthroscopy, Shoulder, with partial acromioplasty",29826,0
 Childrens Hospital at Mission,Carpal Tunnel Surgery,64721,0
@@ -2172,11 +2172,11 @@ Childrens Hospital at Mission,"Echocardiography, Transthoracic, complete, withou
 Childrens Hospital at Mission,"X-Ray, Chest, two views",71046,1091
 Childrens Hospital at Mission,"Creatine Kinase (CK), (CPK), Total",82550,219
 Childrens Hospital at Mission,Lipid Panel,80061,461
-Childrens Hospital at Mission,Partial Thromboplastin Time,85730,296.17721518987344
+Childrens Hospital at Mission,Partial Thromboplastin Time,85730,296.1772152
 Childrens Hospital at Mission,Prothrombin Time,85610,236
 Childrens Hospital at Mission,"Physical Therapy, Evaluation",97161,$276; $414; $579
-Childrens Hospital at Mission,Thyroid Stimulating Hormone,84443,483.72011111111107
-Childrens Hospital at Mission,"Troponin, Quantitative",84484,333.0131578947368
+Childrens Hospital at Mission,Thyroid Stimulating Hormone,84443,483.7201111
+Childrens Hospital at Mission,"Troponin, Quantitative",84484,333.0131579
 Childrens Hospital at Mission,"CT Scan, Abdomen, with contrast",74160,5514
 Childrens Hospital at Mission,"CT Scan, Head or Brain, without contrast",70450,5131
 Childrens Hospital at Mission,"CT Scan, Pelvis, with contrast",72193,5513.26595
@@ -2184,7 +2184,7 @@ Childrens Hospital at Mission,"Cataract Removal with Insertion of Intraocular Le
 Childrens Hospital at Mission,"MRI, Brain, without contrast, followed by contrast",70553,9834
 Childrens Hospital at Mission,"Ultrasound, Abdomen, Complete",76700,2623
 Childrens Hospital at Mission,"X-Ray, Lower Back, minimum four views",72110,1091
-Childrens Hospital at Mission,"Ultrasound, OB, 14 weeks or more, transabdominal",76805,1804.0200000000002
+Childrens Hospital at Mission,"Ultrasound, OB, 14 weeks or more, transabdominal",76805,1804.02
 Childrens Hospital at Mission,"Mammography, Screening, Bilateral",77067,319.99955
 Childrens Hospital of Los Angeles,"Cardiac Catheterization, Left Heart, percutaneous ",93452,12638
 Childrens Hospital of Los Angeles,"Troponin, Quantitative",84484,185
@@ -2242,12 +2242,12 @@ Childrens Hospital of Los Angeles,"Physical Therapy, Gait Training",97116,176
 Childrens Hospital of Los Angeles,"Inhalation Treatment, pressurized or nonpressurized",94640,255
 Childrens Hospital of Los Angeles,"Electrocardiogram, routine, with interpretation and report",93000,
 Childrens Hospital of Los Angeles,"Colonoscopy, diagnostic",45378,
-Childrens Hospital of Orange County,"CT Scan, Head or Brain, without contrast",70450,3144.768613464111
-Childrens Hospital of Orange County,"MRI, Brain, without contrast, followed by contrast",70553,8981.852439508131
+Childrens Hospital of Orange County,"CT Scan, Head or Brain, without contrast",70450,3144.768613
+Childrens Hospital of Orange County,"MRI, Brain, without contrast, followed by contrast",70553,8981.85244
 Childrens Hospital of Orange County,"Mammography, Screening, Bilateral",77067,0
 Childrens Hospital of Orange County,"CT Scan, Pelvis, with contrast",72193,3626
 Childrens Hospital of Orange County,"CT Scan, Abdomen, with contrast",74160,3626
-Childrens Hospital of Orange County,"X-Ray, Lower Back, minimum four views",72110,1408.8181818181818
+Childrens Hospital of Orange County,"X-Ray, Lower Back, minimum four views",72110,1408.818182
 Childrens Hospital of Orange County,"Urinalysis, without microscopy",81002,$97; $0
 Childrens Hospital of Orange County,"Urinalysis, without microscopy",81003,$97; $0
 Childrens Hospital of Orange County,"Urinalysis, with microscopy",81000,$0; $218
@@ -2270,33 +2270,33 @@ Childrens Hospital of Orange County,"Tympanostomy (insert ventilating  tube, gen
 Childrens Hospital of Orange County,"Tonsillectomy with Adenoidectomy, less than 12 years old",42820,0
 Childrens Hospital of Orange County,"Colonoscopy, diagnostic",45378,0
 Childrens Hospital of Orange County,"Arthroscopy, Shoulder, with partial acromioplasty",29826,0
-Childrens Hospital of Orange County,Thyroid Stimulating Hormone,84443,309.48936170212767
-Childrens Hospital of Orange County,"Physical Therapy, Therapeutic Exercise",97110,245.69537171423963
+Childrens Hospital of Orange County,Thyroid Stimulating Hormone,84443,309.4893617
+Childrens Hospital of Orange County,"Physical Therapy, Therapeutic Exercise",97110,245.6953717
 Childrens Hospital of Orange County,"Emergency Room Visit, Level 2 (low to moderate severity)",99282,686
 Childrens Hospital of Orange County,"Emergency Room Visit, Level 3 (moderate severity)",99283,1242
 Childrens Hospital of Orange County,"Cardiac Catheterization, Left Heart, percutaneous ",93452,0
 Childrens Hospital of Orange County,"Echocardiography, Transthoracic, complete, without Doppler",93307,0
 Childrens Hospital of Orange County,"Electrocardiogram, routine, with interpretation and report",93000,0
 Childrens Hospital of Orange County,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,0
-Childrens Hospital of Orange County,"Physical Therapy, Gait Training",97116,318.64527027027026
+Childrens Hospital of Orange County,"Physical Therapy, Gait Training",97116,318.6452703
 Childrens Hospital of Orange County,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62323,0
 Childrens Hospital of Orange County,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62322,0
 Childrens Hospital of Orange County,"Physical Therapy, Evaluation",97163,$890; $886;$791
 Childrens Hospital of Orange County,"Physical Therapy, Evaluation",97162,$890; $886;$791
 Childrens Hospital of Orange County,"Physical Therapy, Evaluation",97161,$890; $886;$791
-Childrens Hospital of Orange County,"Inhalation Treatment, pressurized or nonpressurized",94640,326.41294194961665
+Childrens Hospital of Orange County,"Inhalation Treatment, pressurized or nonpressurized",94640,326.4129419
 Childrens Hospital of Orange County,"Emergency Room Visit, Level 4 (high severity with significant threat)",99285,4380
 Childrens Hospital of Orange County,"Emergency Room Visit, Level 4 (high severity without signigicant threat)",99284,2394
 Childrens Hospital of Orange County,"Ultrasound, OB, 14 weeks or more, transabdominal",76805,0
-Childrens Hospital of Orange County,Prothrombin Time,85610,254.99692140528794
+Childrens Hospital of Orange County,Prothrombin Time,85610,254.9969214
 Childrens Hospital of Orange County,Lipid Panel,80061,364
-Childrens Hospital of Orange County,"Creatine Kinase (CK), (CPK), Total",82550,80.44548955916474
-Childrens Hospital of Orange County,Partial Thromboplastin Time,85730,275.99669622674315
-Childrens Hospital of Orange County,"Complete Blood Count, with differential WBC, automated",85025,348.756437103672
-Childrens Hospital of Orange County,"Complete Blood Count, automated",85027,359.37112488928256
-Childrens Hospital of Orange County,"Blood Gas Analysis, including 02 saturation",82805,588.2366197183098
+Childrens Hospital of Orange County,"Creatine Kinase (CK), (CPK), Total",82550,80.44548956
+Childrens Hospital of Orange County,Partial Thromboplastin Time,85730,275.9966962
+Childrens Hospital of Orange County,"Complete Blood Count, with differential WBC, automated",85025,348.7564371
+Childrens Hospital of Orange County,"Complete Blood Count, automated",85027,359.3711249
+Childrens Hospital of Orange County,"Blood Gas Analysis, including 02 saturation",82805,588.2366197
 Childrens Hospital of Orange County,Basic Metabolic Panel,80048,657
-Childrens Hospital of Orange County,"Outpatient Visit, established patient, 15 minutes",99213,448.16175071360607
+Childrens Hospital of Orange County,"Outpatient Visit, established patient, 15 minutes",99213,448.1617507
 Childrens Hospital of Orange County,Comprehensive Metabolic Panel,80053,824
 Chinese Hospital,Comprehensive Metabolic Panel,80053,328
 Chinese Hospital,Prothrombin Time,85610,203
@@ -2487,22 +2487,22 @@ Clovis Commuity Medical Center,"Echocardiography, Transthoracic, complete, witho
 Clovis Commuity Medical Center,"Electrocardiogram, routine, with interpretation and report",93000,
 Clovis Commuity Medical Center,"Inhalation Treatment, pressurized or nonpressurized",94640,426.04
 Clovis Commuity Medical Center,"Physical Therapy, Therapeutic Exercise",97110,175.18
-Clovis Commuity Medical Center,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,15666.870975609756
+Clovis Commuity Medical Center,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,15666.87098
 Clovis Commuity Medical Center,"Arthroscopy, Shoulder, with partial acromioplasty",29826,
-Clovis Commuity Medical Center,Carpal Tunnel Surgery,64721,12047.01142857143
-Clovis Commuity Medical Center,"Colonoscopy, diagnostic",45378,6653.737921225378
+Clovis Commuity Medical Center,Carpal Tunnel Surgery,64721,12047.01143
+Clovis Commuity Medical Center,"Colonoscopy, diagnostic",45378,6653.737921
 Clovis Commuity Medical Center,"X-Ray, Lower Back, minimum four views",72110,991.18
-Clovis Commuity Medical Center,"Colonoscopy, with biopsy",45380,8301.707383512545
+Clovis Commuity Medical Center,"Colonoscopy, with biopsy",45380,8301.707384
 Clovis Commuity Medical Center,"Discission, secondary membranous cataract, laser surgery",66821,
-Clovis Commuity Medical Center,"Endoscopy, Upper GI, with biopsy",43239,8582.940000000004
-Clovis Commuity Medical Center,"Endoscopy, Upper GI, diagnostic",43235,7529.039007633588
-Clovis Commuity Medical Center,"Excision, Breast Lesion, without preoperative radiological marker",19120,13770.922333333338
-Clovis Commuity Medical Center,"Hernia Repair, Inguinal, 5 years and older",49505,20672.87677419355
+Clovis Commuity Medical Center,"Endoscopy, Upper GI, with biopsy",43239,8582.94
+Clovis Commuity Medical Center,"Endoscopy, Upper GI, diagnostic",43235,7529.039008
+Clovis Commuity Medical Center,"Excision, Breast Lesion, without preoperative radiological marker",19120,13770.92233
+Clovis Commuity Medical Center,"Hernia Repair, Inguinal, 5 years and older",49505,20672.87677
 Clovis Commuity Medical Center,"Injection, Anesthetic or Steroid, transforaminal epidural, lumbar",64483,3034.17
-Clovis Commuity Medical Center,Laparoscopic Cholecystectomy,47562,28647.60847490345
+Clovis Commuity Medical Center,Laparoscopic Cholecystectomy,47562,28647.60847
 Clovis Commuity Medical Center,"Tympanostomy (insert ventilating  tube, general anesthesia)",69436,12627.16
 Clovis Commuity Medical Center,"Tonsillectomy with Adenoidectomy, less than 12 years old",42820,
-Clovis Commuity Medical Center,"Colonoscopy, with lesion removal, by snare technique",45385,8676.617725118489
+Clovis Commuity Medical Center,"Colonoscopy, with lesion removal, by snare technique",45385,8676.617725
 Clovis Commuity Medical Center,"Ultrasound, OB, 14 weeks or more, transabdominal",76805,1175.88
 Clovis Commuity Medical Center,"Physical Therapy, Gait Training",97116,175.18
 Clovis Commuity Medical Center,"MRI, Brain, without contrast, followed by contrast",70553,6428.83
@@ -2866,16 +2866,16 @@ Community Memorial Hospital San Buenaventura,"Physical Therapy, Evaluation",9716
 Community Memorial Hospital San Buenaventura,"Physical Therapy, Evaluation",97162,500
 Community Memorial Hospital San Buenaventura,"Physical Therapy, Evaluation",97161,500
 Community Regional Medical Center - Fresno,"Creatine Kinase (CK), (CPK), Total",82550,203.71
-Community Regional Medical Center - Fresno,"Colonoscopy, with biopsy",45380,9258.985614973266
-Community Regional Medical Center - Fresno,"Colonoscopy, with lesion removal, by snare technique",45385,9166.774640000007
+Community Regional Medical Center - Fresno,"Colonoscopy, with biopsy",45380,9258.985615
+Community Regional Medical Center - Fresno,"Colonoscopy, with lesion removal, by snare technique",45385,9166.77464
 Community Regional Medical Center - Fresno,"Discission, secondary membranous cataract, laser surgery",66821,
-Community Regional Medical Center - Fresno,"Endoscopy, Upper GI, with biopsy",43239,9461.3024353578
-Community Regional Medical Center - Fresno,"Endoscopy, Upper GI, diagnostic",43235,9825.467738095238
-Community Regional Medical Center - Fresno,"Excision, Breast Lesion, without preoperative radiological marker",19120,14306.090624999999
-Community Regional Medical Center - Fresno,"Hernia Repair, Inguinal, 5 years and older",49505,21118.336764705888
-Community Regional Medical Center - Fresno,Laparoscopic Cholecystectomy,47562,29692.044229074887
-Community Regional Medical Center - Fresno,"Colonoscopy, diagnostic",45378,7991.307682926822
-Community Regional Medical Center - Fresno,"Tympanostomy (insert ventilating  tube, general anesthesia)",69436,12238.227499999999
+Community Regional Medical Center - Fresno,"Endoscopy, Upper GI, with biopsy",43239,9461.302435
+Community Regional Medical Center - Fresno,"Endoscopy, Upper GI, diagnostic",43235,9825.467738
+Community Regional Medical Center - Fresno,"Excision, Breast Lesion, without preoperative radiological marker",19120,14306.09062
+Community Regional Medical Center - Fresno,"Hernia Repair, Inguinal, 5 years and older",49505,21118.33676
+Community Regional Medical Center - Fresno,Laparoscopic Cholecystectomy,47562,29692.04423
+Community Regional Medical Center - Fresno,"Colonoscopy, diagnostic",45378,7991.307683
+Community Regional Medical Center - Fresno,"Tympanostomy (insert ventilating  tube, general anesthesia)",69436,12238.2275
 Community Regional Medical Center - Fresno,"Tonsillectomy with Adenoidectomy, less than 12 years old",42820,12534.758
 Community Regional Medical Center - Fresno,"Urinalysis, with microscopy",81001,81
 Community Regional Medical Center - Fresno,"Urinalysis, with microscopy",81000,81
@@ -2887,7 +2887,7 @@ Community Regional Medical Center - Fresno,"Emergency Room Visit, Level 4 (high 
 Community Regional Medical Center - Fresno,"Emergency Room Visit, Level 4 (high severity with significant threat)",99285,4928.99
 Community Regional Medical Center - Fresno,"Outpatient Visit, established patient, 15 minutes",99213,318.74
 Community Regional Medical Center - Fresno,"Injection, Anesthetic or Steroid, transforaminal epidural, lumbar",64483,3002.78
-Community Regional Medical Center - Fresno,"Cataract Removal with Insertion of Intraocular Lens, 1 Stage",66984,14363.26797101449
+Community Regional Medical Center - Fresno,"Cataract Removal with Insertion of Intraocular Lens, 1 Stage",66984,14363.26797
 Community Regional Medical Center - Fresno,"Arthroscopy, Shoulder, with partial acromioplasty",29826,
 Community Regional Medical Center - Fresno,Basic Metabolic Panel,80048,193.17
 Community Regional Medical Center - Fresno,"Complete Blood Count, automated",85027,165.05
@@ -2911,7 +2911,7 @@ Community Regional Medical Center - Fresno,"Electrocardiogram, routine, with int
 Community Regional Medical Center - Fresno,"Inhalation Treatment, pressurized or nonpressurized",94640,426.04
 Community Regional Medical Center - Fresno,"Physical Therapy, Gait Training",97116,175.18
 Community Regional Medical Center - Fresno,"Physical Therapy, Therapeutic Exercise",97110,175.18
-Community Regional Medical Center - Fresno,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,16455.836666666666
+Community Regional Medical Center - Fresno,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,16455.83667
 Community Regional Medical Center - Fresno,Comprehensive Metabolic Panel,80053,218.73
 Community Regional Medical Center - Fresno,Carpal Tunnel Surgery,64721,12577.01
 Community Regional Medical Center - Fresno,"Complete Blood Count, with differential WBC, automated",85025,186.73
@@ -2976,58 +2976,58 @@ Contra Costa Regional Medical Center,"Physical Therapy, Evaluation",97162,
 Contra Costa Regional Medical Center,"Physical Therapy, Evaluation",97161,
 Contra Costa Regional Medical Center,"Physical Therapy, Evaluation",97163,
 Corona Regional Medical Center,"Urinalysis, without microscopy",81003,
-Corona Regional Medical Center,"Urinalysis, with microscopy",81000,280.599831508003
+Corona Regional Medical Center,"Urinalysis, with microscopy",81000,280.5998315
 Corona Regional Medical Center,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62323,
-Corona Regional Medical Center,"Urinalysis, with microscopy",81001,280.599831508003
-Corona Regional Medical Center,"Emergency Room Visit, Level 2 (low to moderate severity)",99282,1859.55789473684
-Corona Regional Medical Center,"Physical Therapy, Evaluation",97161,208.461538461538
-Corona Regional Medical Center,"Physical Therapy, Evaluation",97162,208.461538461538
-Corona Regional Medical Center,"Physical Therapy, Evaluation",97163,208.461538461538
+Corona Regional Medical Center,"Urinalysis, with microscopy",81001,280.5998315
+Corona Regional Medical Center,"Emergency Room Visit, Level 2 (low to moderate severity)",99282,1859.557895
+Corona Regional Medical Center,"Physical Therapy, Evaluation",97161,208.4615385
+Corona Regional Medical Center,"Physical Therapy, Evaluation",97162,208.4615385
+Corona Regional Medical Center,"Physical Therapy, Evaluation",97163,208.4615385
 Corona Regional Medical Center,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62322,
 Corona Regional Medical Center,"Urinalysis, without microscopy",81002,
 Corona Regional Medical Center,"Tonsillectomy with Adenoidectomy, less than 12 years old",42820,
 Corona Regional Medical Center,"Tympanostomy (insert ventilating  tube, general anesthesia)",69436,
-Corona Regional Medical Center,Laparoscopic Cholecystectomy,47562,37570.96103896101
+Corona Regional Medical Center,Laparoscopic Cholecystectomy,47562,37570.96104
 Corona Regional Medical Center,"Injection, Anesthetic or Steroid, transforaminal epidural, lumbar",64483,
 Corona Regional Medical Center,"Hernia Repair, Inguinal, 5 years and older",49505,
-Corona Regional Medical Center,"Excision, Breast Lesion, without preoperative radiological marker",19120,17903.245454545457
-Corona Regional Medical Center,"Endoscopy, Upper GI, diagnostic",43235,11085.120689655174
-Corona Regional Medical Center,"Endoscopy, Upper GI, with biopsy",43239,8729.880412573642
+Corona Regional Medical Center,"Excision, Breast Lesion, without preoperative radiological marker",19120,17903.24545
+Corona Regional Medical Center,"Endoscopy, Upper GI, diagnostic",43235,11085.12069
+Corona Regional Medical Center,"Endoscopy, Upper GI, with biopsy",43239,8729.880413
 Corona Regional Medical Center,"Discission, secondary membranous cataract, laser surgery",66821,17478.9
 Corona Regional Medical Center,"Colonoscopy, with lesion removal, by snare technique",45385,
-Corona Regional Medical Center,"Colonoscopy, with biopsy",45380,6823.005314009662
-Corona Regional Medical Center,"Colonoscopy, diagnostic",45378,6868.9181208053715
+Corona Regional Medical Center,"Colonoscopy, with biopsy",45380,6823.005314
+Corona Regional Medical Center,"Colonoscopy, diagnostic",45378,6868.918121
 Corona Regional Medical Center,"Cataract Removal with Insertion of Intraocular Lens, 1 Stage",66984,
 Corona Regional Medical Center,Carpal Tunnel Surgery,64721,
 Corona Regional Medical Center,"Arthroscopy, Shoulder, with partial acromioplasty",29826,
 Corona Regional Medical Center,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,
-Corona Regional Medical Center,"Emergency Room Visit, Level 3 (moderate severity)",99283,2180.03401418682
-Corona Regional Medical Center,"Emergency Room Visit, Level 4 (high severity with significant threat)",99285,5098.05679736167
+Corona Regional Medical Center,"Emergency Room Visit, Level 3 (moderate severity)",99283,2180.034014
+Corona Regional Medical Center,"Emergency Room Visit, Level 4 (high severity with significant threat)",99285,5098.056797
 Corona Regional Medical Center,"Emergency Room Visit, Level 4 (high severity without signigicant threat)",99284,
-Corona Regional Medical Center,"Ultrasound, OB, 14 weeks or more, transabdominal",76805,946.928571428571
+Corona Regional Medical Center,"Ultrasound, OB, 14 weeks or more, transabdominal",76805,946.9285714
 Corona Regional Medical Center,"Physical Therapy, Therapeutic Exercise",97110,
-Corona Regional Medical Center,"Physical Therapy, Gait Training",97116,127.454545454545
-Corona Regional Medical Center,"Inhalation Treatment, pressurized or nonpressurized",94640,363.013793103448
+Corona Regional Medical Center,"Physical Therapy, Gait Training",97116,127.4545455
+Corona Regional Medical Center,"Inhalation Treatment, pressurized or nonpressurized",94640,363.0137931
 Corona Regional Medical Center,"Electrocardiogram, routine, with interpretation and report",93000,
-Corona Regional Medical Center,"Echocardiography, Transthoracic, complete, without Doppler",93307,2851.49721448468
+Corona Regional Medical Center,"Echocardiography, Transthoracic, complete, without Doppler",93307,2851.497214
 Corona Regional Medical Center,"Cardiac Catheterization, Left Heart, percutaneous ",93452,
-Corona Regional Medical Center,"X-Ray, Chest, two views",71046,691.726503340757
+Corona Regional Medical Center,"X-Ray, Chest, two views",71046,691.7265033
 Corona Regional Medical Center,"X-Ray, Lower Back, minimum four views",72110,
 Corona Regional Medical Center,"Outpatient Visit, established patient, 15 minutes",99213,
-Corona Regional Medical Center,"Ultrasound, Abdomen, Complete",76700,2237.5303514377
+Corona Regional Medical Center,"Ultrasound, Abdomen, Complete",76700,2237.530351
 Corona Regional Medical Center,"MRI, Brain, without contrast, followed by contrast",70553,
 Corona Regional Medical Center,"CT Scan, Pelvis, with contrast",72193,
-Corona Regional Medical Center,"Mammography, Screening, Bilateral",77067,1296.87112763321
+Corona Regional Medical Center,"Mammography, Screening, Bilateral",77067,1296.871128
 Corona Regional Medical Center,"CT Scan, Abdomen, with contrast",74160,
-Corona Regional Medical Center,Basic Metabolic Panel,80048,731.371248025276
+Corona Regional Medical Center,Basic Metabolic Panel,80048,731.371248
 Corona Regional Medical Center,"Blood Gas Analysis, including 02 saturation",82805,
-Corona Regional Medical Center,"Complete Blood Count, automated",85027,144.987951807229
-Corona Regional Medical Center,"Complete Blood Count, with differential WBC, automated",85025,155.078505200734
-Corona Regional Medical Center,"CT Scan, Head or Brain, without contrast",70450,5297.07390237251
+Corona Regional Medical Center,"Complete Blood Count, automated",85027,144.9879518
+Corona Regional Medical Center,"Complete Blood Count, with differential WBC, automated",85025,155.0785052
+Corona Regional Medical Center,"CT Scan, Head or Brain, without contrast",70450,5297.073902
 Corona Regional Medical Center,"Creatine Kinase (CK), (CPK), Total",82550,
 Corona Regional Medical Center,Comprehensive Metabolic Panel,80053,
-Corona Regional Medical Center,Partial Thromboplastin Time,85730,300.499423298731
-Corona Regional Medical Center,Prothrombin Time,85610,228.370878558263
+Corona Regional Medical Center,Partial Thromboplastin Time,85730,300.4994233
+Corona Regional Medical Center,Prothrombin Time,85610,228.3708786
 Corona Regional Medical Center,Thyroid Stimulating Hormone,84443,
 Corona Regional Medical Center,"Troponin, Quantitative",84484,
 Corona Regional Medical Center,Lipid Panel,80061,
@@ -4872,11 +4872,11 @@ Hoag Memorial Hospital,"CT Scan, Abdomen, with contrast",74160,2668.05
 Hoag Memorial Hospital,"Tonsillectomy with Adenoidectomy, less than 12 years old",42820,11487
 Hoag Memorial Hospital,"Physical Therapy, Gait Training",97116,134.4
 Hoag Memorial Hospital,"Colonoscopy, diagnostic",45378,4143
-Hoag Memorial Hospital,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,20704.37877375
+Hoag Memorial Hospital,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,20704.37877
 Hoag Memorial Hospital,"Tympanostomy (insert ventilating  tube, general anesthesia)",69436,9389
 Hoag Memorial Hospital,Laparoscopic Cholecystectomy,47562,35599
 Hoag Memorial Hospital,"Injection, Anesthetic or Steroid, transforaminal epidural, lumbar",64483,9655
-Hoag Memorial Hospital,NJX Interlaminar Lumbar/Sac,62323,4856.434227272728
+Hoag Memorial Hospital,NJX Interlaminar Lumbar/Sac,62323,4856.434227
 Hoag Memorial Hospital,"Hernia Repair, Inguinal, 5 years and older",49505,15611
 Hoag Memorial Hospital,"Excision, Breast Lesion, without preoperative radiological marker",19120,12287
 Hoag Memorial Hospital,"Endoscopy, Upper GI, diagnostic",43235,8357
@@ -4886,8 +4886,8 @@ Hoag Memorial Hospital,"Colonoscopy, with lesion removal, by snare technique",45
 Hoag Memorial Hospital,"Colonoscopy, with biopsy",45380,5625
 Hoag Memorial Hospital,"Urinalysis, with microscopy",81001,82.98
 Hoag Memorial Hospital,"Cataract Removal with Insertion of Intraocular Lens, 1 Stage",66984,12799
-Hoag Memorial Hospital,Carpal Tunnel Surgery,64721,20099.397023999998
-Hoag Memorial Hospital,"Arthroscopy, Shoulder, with partial acromioplasty",29826,33365.404925999996
+Hoag Memorial Hospital,Carpal Tunnel Surgery,64721,20099.39702
+Hoag Memorial Hospital,"Arthroscopy, Shoulder, with partial acromioplasty",29826,33365.40493
 Hoag Memorial Hospital,"Physical Therapy, Therapeutic Exercise",97110,134.4
 Hoag Memorial Hospital,"Urinalysis, without microscopy",81002,45.15
 Hoag Memorial Hospital,Basic Metabolic Panel,80048,128.85
@@ -5368,9 +5368,9 @@ Kaiser Foundation Hospital - Baldwin Park,"CT Scan, Abdomen, with contrast",7416
 Kaiser Foundation Hospital - Baldwin Park,"Colonoscopy, with lesion removal, by snare technique",45385,
 Kaiser Foundation Hospital - Baldwin Park,"Discission, secondary membranous cataract, laser surgery",66821,
 Kaiser Foundation Hospital - Baldwin Park,"Endoscopy, Upper GI, with biopsy",43239,
-Kaiser Foundation Hospital - Baldwin Park,"Endoscopy, Upper GI, diagnostic",43235,3450.011904761903
+Kaiser Foundation Hospital - Baldwin Park,"Endoscopy, Upper GI, diagnostic",43235,3450.011905
 Kaiser Foundation Hospital - Baldwin Park,"Excision, Breast Lesion, without preoperative radiological marker",19120,
-Kaiser Foundation Hospital - Baldwin Park,"Hernia Repair, Inguinal, 5 years and older",49505,15112.091878092666
+Kaiser Foundation Hospital - Baldwin Park,"Hernia Repair, Inguinal, 5 years and older",49505,15112.09188
 Kaiser Foundation Hospital - Baldwin Park,"Injection, Anesthetic or Steroid, transforaminal epidural, lumbar",64483,
 Kaiser Foundation Hospital - Baldwin Park,Laparoscopic Cholecystectomy,47562,
 Kaiser Foundation Hospital - Baldwin Park,"Tympanostomy (insert ventilating  tube, general anesthesia)",69436,
@@ -5381,8 +5381,8 @@ Kaiser Foundation Hospital - Baldwin Park,"Injection, Diagnostic or Therapeutic 
 Kaiser Foundation Hospital - Baldwin Park,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62323,
 Kaiser Foundation Hospital - Baldwin Park,"Urinalysis, with microscopy",81001,53
 Kaiser Foundation Hospital - Baldwin Park,"Colonoscopy, with biopsy",45380,
-Kaiser Foundation Hospital - Baldwin Park,"Colonoscopy, diagnostic",45378,3301.3631944444487
-Kaiser Foundation Hospital - Baldwin Park,"Tonsillectomy with Adenoidectomy, less than 12 years old",42820,13481.581109022558
+Kaiser Foundation Hospital - Baldwin Park,"Colonoscopy, diagnostic",45378,3301.363194
+Kaiser Foundation Hospital - Baldwin Park,"Tonsillectomy with Adenoidectomy, less than 12 years old",42820,13481.58111
 Kaiser Foundation Hospital - Baldwin Park,Carpal Tunnel Surgery,64721,
 Kaiser Foundation Hospital - Baldwin Park,"CT Scan, Head or Brain, without contrast",70450,3777
 Kaiser Foundation Hospital - Baldwin Park,"Cataract Removal with Insertion of Intraocular Lens, 1 Stage",66984,
@@ -5399,23 +5399,23 @@ Kaiser Foundation Hospital - Baldwin Park,"Inhalation Treatment, pressurized or 
 Kaiser Foundation Hospital - Baldwin Park,"Physical Therapy, Gait Training",97116,
 Kaiser Foundation Hospital - Baldwin Park,"Physical Therapy, Therapeutic Exercise",97110,
 Kaiser Foundation Hospital - Baldwin Park,"Arthroscopy, Shoulder, with partial acromioplasty",29826,
-Kaiser Foundation Hospital - Baldwin Park,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,18578.016283185836
+Kaiser Foundation Hospital - Baldwin Park,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,18578.01628
 Kaiser Foundation Hospital - Downey,"Endoscopy, Upper GI, with biopsy",43239,
 Kaiser Foundation Hospital - Downey,"Discission, secondary membranous cataract, laser surgery",66821,
 Kaiser Foundation Hospital - Downey,"Colonoscopy, with lesion removal, by snare technique",45385,
 Kaiser Foundation Hospital - Downey,"Colonoscopy, with biopsy",45380,
 Kaiser Foundation Hospital - Downey,"Cataract Removal with Insertion of Intraocular Lens, 1 Stage",66984,
-Kaiser Foundation Hospital - Downey,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,18578.016283185836
-Kaiser Foundation Hospital - Downey,"Endoscopy, Upper GI, diagnostic",43235,3450.011904761903
+Kaiser Foundation Hospital - Downey,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,18578.01628
+Kaiser Foundation Hospital - Downey,"Endoscopy, Upper GI, diagnostic",43235,3450.011905
 Kaiser Foundation Hospital - Downey,Carpal Tunnel Surgery,64721,
 Kaiser Foundation Hospital - Downey,"Arthroscopy, Shoulder, with partial acromioplasty",29826,
-Kaiser Foundation Hospital - Downey,"Colonoscopy, diagnostic",45378,3301.3631944444487
+Kaiser Foundation Hospital - Downey,"Colonoscopy, diagnostic",45378,3301.363194
 Kaiser Foundation Hospital - Downey,"Excision, Breast Lesion, without preoperative radiological marker",19120,
 Kaiser Foundation Hospital - Downey,"Physical Therapy, Evaluation",97163,
 Kaiser Foundation Hospital - Downey,"Injection, Anesthetic or Steroid, transforaminal epidural, lumbar",64483,
 Kaiser Foundation Hospital - Downey,Laparoscopic Cholecystectomy,47562,
 Kaiser Foundation Hospital - Downey,"Tympanostomy (insert ventilating  tube, general anesthesia)",69436,
-Kaiser Foundation Hospital - Downey,"Tonsillectomy with Adenoidectomy, less than 12 years old",42820,13481.581109022558
+Kaiser Foundation Hospital - Downey,"Tonsillectomy with Adenoidectomy, less than 12 years old",42820,13481.58111
 Kaiser Foundation Hospital - Downey,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62323,
 Kaiser Foundation Hospital - Downey,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62322,
 Kaiser Foundation Hospital - Downey,"Physical Therapy, Evaluation",97162,
@@ -5423,7 +5423,7 @@ Kaiser Foundation Hospital - Downey,"Physical Therapy, Evaluation",97161,
 Kaiser Foundation Hospital - Downey,"Urinalysis, without microscopy",81002,
 Kaiser Foundation Hospital - Downey,"Physical Therapy, Therapeutic Exercise",97110,
 Kaiser Foundation Hospital - Downey,"Urinalysis, without microscopy",81003,
-Kaiser Foundation Hospital - Downey,"Hernia Repair, Inguinal, 5 years and older",49505,15112.091878092666
+Kaiser Foundation Hospital - Downey,"Hernia Repair, Inguinal, 5 years and older",49505,15112.09188
 Kaiser Foundation Hospital - Downey,"Physical Therapy, Gait Training",97116,
 Kaiser Foundation Hospital - Downey,"MRI, Brain, without contrast, followed by contrast",70553,
 Kaiser Foundation Hospital - Downey,"Electrocardiogram, routine, with interpretation and report",93000,
@@ -5468,13 +5468,13 @@ Kaiser Foundation Hospital - Fontana-Ontario,"Colonoscopy, with biopsy",45380,
 Kaiser Foundation Hospital - Fontana-Ontario,"Colonoscopy, with lesion removal, by snare technique",45385,
 Kaiser Foundation Hospital - Fontana-Ontario,"Discission, secondary membranous cataract, laser surgery",66821,
 Kaiser Foundation Hospital - Fontana-Ontario,"Endoscopy, Upper GI, with biopsy",43239,
-Kaiser Foundation Hospital - Fontana-Ontario,"Endoscopy, Upper GI, diagnostic",43235,3450.011904761903
+Kaiser Foundation Hospital - Fontana-Ontario,"Endoscopy, Upper GI, diagnostic",43235,3450.011905
 Kaiser Foundation Hospital - Fontana-Ontario,"Excision, Breast Lesion, without preoperative radiological marker",19120,
-Kaiser Foundation Hospital - Fontana-Ontario,"Hernia Repair, Inguinal, 5 years and older",49505,15112.091878092666
-Kaiser Foundation Hospital - Fontana-Ontario,"Colonoscopy, diagnostic",45378,3301.3631944444487
+Kaiser Foundation Hospital - Fontana-Ontario,"Hernia Repair, Inguinal, 5 years and older",49505,15112.09188
+Kaiser Foundation Hospital - Fontana-Ontario,"Colonoscopy, diagnostic",45378,3301.363194
 Kaiser Foundation Hospital - Fontana-Ontario,"Injection, Anesthetic or Steroid, transforaminal epidural, lumbar",64483,
 Kaiser Foundation Hospital - Fontana-Ontario,"Tympanostomy (insert ventilating  tube, general anesthesia)",69436,
-Kaiser Foundation Hospital - Fontana-Ontario,"Tonsillectomy with Adenoidectomy, less than 12 years old",42820,13481.581109022558
+Kaiser Foundation Hospital - Fontana-Ontario,"Tonsillectomy with Adenoidectomy, less than 12 years old",42820,13481.58111
 Kaiser Foundation Hospital - Fontana-Ontario,"Emergency Room Visit, Level 2 (low to moderate severity)",99282,843
 Kaiser Foundation Hospital - Fontana-Ontario,"Emergency Room Visit, Level 3 (moderate severity)",99283,1413
 Kaiser Foundation Hospital - Fontana-Ontario,"Emergency Room Visit, Level 4 (high severity without signigicant threat)",99284,2481
@@ -5499,7 +5499,7 @@ Kaiser Foundation Hospital - Fontana-Ontario,"Echocardiography, Transthoracic, c
 Kaiser Foundation Hospital - Fontana-Ontario,"Electrocardiogram, routine, with interpretation and report",93000,
 Kaiser Foundation Hospital - Fontana-Ontario,"Physical Therapy, Gait Training",97116,
 Kaiser Foundation Hospital - Fontana-Ontario,"Physical Therapy, Therapeutic Exercise",97110,
-Kaiser Foundation Hospital - Fontana-Ontario,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,18578.016283185836
+Kaiser Foundation Hospital - Fontana-Ontario,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,18578.01628
 Kaiser Foundation Hospital - Fontana-Ontario,Basic Metabolic Panel,80048,390
 Kaiser Foundation Hospital - Fontana-Ontario,"Blood Gas Analysis, including 02 saturation",82805,543
 Kaiser Foundation Hospital - Fontana-Ontario,"Complete Blood Count, automated",85027,161
@@ -5625,19 +5625,19 @@ Kaiser Foundation Hospital - Fresno,"Injection, Diagnostic or Therapeutic substa
 Kaiser Foundation Hospital - Los Angeles,"Colonoscopy, with lesion removal, by snare technique",45385,
 Kaiser Foundation Hospital - Los Angeles,"Discission, secondary membranous cataract, laser surgery",66821,
 Kaiser Foundation Hospital - Los Angeles,"Endoscopy, Upper GI, with biopsy",43239,
-Kaiser Foundation Hospital - Los Angeles,"Endoscopy, Upper GI, diagnostic",43235,3450.011904761903
+Kaiser Foundation Hospital - Los Angeles,"Endoscopy, Upper GI, diagnostic",43235,3450.011905
 Kaiser Foundation Hospital - Los Angeles,"Colonoscopy, with biopsy",45380,
 Kaiser Foundation Hospital - Los Angeles,"Excision, Breast Lesion, without preoperative radiological marker",19120,
-Kaiser Foundation Hospital - Los Angeles,"Hernia Repair, Inguinal, 5 years and older",49505,15112.091878092666
+Kaiser Foundation Hospital - Los Angeles,"Hernia Repair, Inguinal, 5 years and older",49505,15112.09188
 Kaiser Foundation Hospital - Los Angeles,"Injection, Anesthetic or Steroid, transforaminal epidural, lumbar",64483,
 Kaiser Foundation Hospital - Los Angeles,"Emergency Room Visit, Level 3 (moderate severity)",99283,1413
 Kaiser Foundation Hospital - Los Angeles,"Tympanostomy (insert ventilating  tube, general anesthesia)",69436,
-Kaiser Foundation Hospital - Los Angeles,"Tonsillectomy with Adenoidectomy, less than 12 years old",42820,13481.581109022558
+Kaiser Foundation Hospital - Los Angeles,"Tonsillectomy with Adenoidectomy, less than 12 years old",42820,13481.58111
 Kaiser Foundation Hospital - Los Angeles,"Emergency Room Visit, Level 2 (low to moderate severity)",99282,843
 Kaiser Foundation Hospital - Los Angeles,"Emergency Room Visit, Level 4 (high severity without signigicant threat)",99284,2481
 Kaiser Foundation Hospital - Los Angeles,"Emergency Room Visit, Level 4 (high severity with significant threat)",99285,
 Kaiser Foundation Hospital - Los Angeles,Basic Metabolic Panel,80048,390
-Kaiser Foundation Hospital - Los Angeles,"Colonoscopy, diagnostic",45378,3301.3631944444487
+Kaiser Foundation Hospital - Los Angeles,"Colonoscopy, diagnostic",45378,3301.363194
 Kaiser Foundation Hospital - Los Angeles,"Outpatient Visit, established patient, 15 minutes",99213,
 Kaiser Foundation Hospital - Los Angeles,Laparoscopic Cholecystectomy,47562,
 Kaiser Foundation Hospital - Los Angeles,"Cataract Removal with Insertion of Intraocular Lens, 1 Stage",66984,
@@ -5659,7 +5659,7 @@ Kaiser Foundation Hospital - Los Angeles,"Electrocardiogram, routine, with inter
 Kaiser Foundation Hospital - Los Angeles,"Inhalation Treatment, pressurized or nonpressurized",94640,380
 Kaiser Foundation Hospital - Los Angeles,"Physical Therapy, Gait Training",97116,
 Kaiser Foundation Hospital - Los Angeles,"Physical Therapy, Therapeutic Exercise",97110,
-Kaiser Foundation Hospital - Los Angeles,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,18578.016283185836
+Kaiser Foundation Hospital - Los Angeles,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,18578.01628
 Kaiser Foundation Hospital - Los Angeles,Carpal Tunnel Surgery,64721,
 Kaiser Foundation Hospital - Los Angeles,"Complete Blood Count, automated",85027,161
 Kaiser Foundation Hospital - Los Angeles,Comprehensive Metabolic Panel,80053,490
@@ -5768,21 +5768,21 @@ Kaiser Foundation Hospital - Moreno Valley,"Colonoscopy, with lesion removal, by
 Kaiser Foundation Hospital - Moreno Valley,"Arthroscopy, Shoulder, with partial acromioplasty",29826,
 Kaiser Foundation Hospital - Moreno Valley,"Urinalysis, without microscopy",81002,
 Kaiser Foundation Hospital - Moreno Valley,"Urinalysis, without microscopy",81003,
-Kaiser Foundation Hospital - Moreno Valley,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,18578.016283185836
-Kaiser Foundation Hospital - Moreno Valley,"Tonsillectomy with Adenoidectomy, less than 12 years old",42820,13481.581109022558
+Kaiser Foundation Hospital - Moreno Valley,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,18578.01628
+Kaiser Foundation Hospital - Moreno Valley,"Tonsillectomy with Adenoidectomy, less than 12 years old",42820,13481.58111
 Kaiser Foundation Hospital - Moreno Valley,"Tympanostomy (insert ventilating  tube, general anesthesia)",69436,
 Kaiser Foundation Hospital - Moreno Valley,Laparoscopic Cholecystectomy,47562,
 Kaiser Foundation Hospital - Moreno Valley,"Injection, Anesthetic or Steroid, transforaminal epidural, lumbar",64483,
-Kaiser Foundation Hospital - Moreno Valley,"Hernia Repair, Inguinal, 5 years and older",49505,15112.091878092666
+Kaiser Foundation Hospital - Moreno Valley,"Hernia Repair, Inguinal, 5 years and older",49505,15112.09188
 Kaiser Foundation Hospital - Moreno Valley,"Excision, Breast Lesion, without preoperative radiological marker",19120,
-Kaiser Foundation Hospital - Moreno Valley,"Endoscopy, Upper GI, diagnostic",43235,3450.011904761903
+Kaiser Foundation Hospital - Moreno Valley,"Endoscopy, Upper GI, diagnostic",43235,3450.011905
 Kaiser Foundation Hospital - Moreno Valley,"X-Ray, Lower Back, minimum four views",72110,1041
 Kaiser Foundation Hospital - Moreno Valley,"Discission, secondary membranous cataract, laser surgery",66821,
 Kaiser Foundation Hospital - Moreno Valley,"Endoscopy, Upper GI, with biopsy",43239,
 Kaiser Foundation Hospital - Moreno Valley,"Cataract Removal with Insertion of Intraocular Lens, 1 Stage",66984,
 Kaiser Foundation Hospital - Moreno Valley,Carpal Tunnel Surgery,64721,
 Kaiser Foundation Hospital - Moreno Valley,"Colonoscopy, with biopsy",45380,
-Kaiser Foundation Hospital - Moreno Valley,"Colonoscopy, diagnostic",45378,3301.3631944444487
+Kaiser Foundation Hospital - Moreno Valley,"Colonoscopy, diagnostic",45378,3301.363194
 Kaiser Foundation Hospital - Moreno Valley,"Physical Therapy, Evaluation",97162,
 Kaiser Foundation Hospital - Moreno Valley,"Physical Therapy, Evaluation",97163,
 Kaiser Foundation Hospital - Moreno Valley,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62322,
@@ -5864,16 +5864,16 @@ Kaiser Foundation Hospital - Orange County - Anaheim,"Electrocardiogram, routine
 Kaiser Foundation Hospital - Orange County - Anaheim,"Inhalation Treatment, pressurized or nonpressurized",94640,380
 Kaiser Foundation Hospital - Orange County - Anaheim,"Physical Therapy, Gait Training",97116,
 Kaiser Foundation Hospital - Orange County - Anaheim,"Physical Therapy, Therapeutic Exercise",97110,
-Kaiser Foundation Hospital - Orange County - Anaheim,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,18578.016283185836
+Kaiser Foundation Hospital - Orange County - Anaheim,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,18578.01628
 Kaiser Foundation Hospital - Orange County - Anaheim,"Arthroscopy, Shoulder, with partial acromioplasty",29826,
 Kaiser Foundation Hospital - Orange County - Anaheim,Carpal Tunnel Surgery,64721,
 Kaiser Foundation Hospital - Orange County - Anaheim,"Cataract Removal with Insertion of Intraocular Lens, 1 Stage",66984,
-Kaiser Foundation Hospital - Orange County - Anaheim,"Colonoscopy, diagnostic",45378,3301.3631944444487
+Kaiser Foundation Hospital - Orange County - Anaheim,"Colonoscopy, diagnostic",45378,3301.363194
 Kaiser Foundation Hospital - Orange County - Anaheim,"Colonoscopy, with biopsy",45380,
 Kaiser Foundation Hospital - Orange County - Anaheim,"Colonoscopy, with lesion removal, by snare technique",45385,
 Kaiser Foundation Hospital - Orange County - Anaheim,"Discission, secondary membranous cataract, laser surgery",66821,
 Kaiser Foundation Hospital - Orange County - Anaheim,"Endoscopy, Upper GI, with biopsy",43239,
-Kaiser Foundation Hospital - Orange County - Anaheim,"Endoscopy, Upper GI, diagnostic",43235,3450.011904761903
+Kaiser Foundation Hospital - Orange County - Anaheim,"Endoscopy, Upper GI, diagnostic",43235,3450.011905
 Kaiser Foundation Hospital - Orange County - Anaheim,"MRI, Brain, without contrast, followed by contrast",70553,
 Kaiser Foundation Hospital - Orange County - Anaheim,"Mammography, Screening, Bilateral",77067,609
 Kaiser Foundation Hospital - Orange County - Anaheim,"CT Scan, Pelvis, with contrast",72193,
@@ -5881,12 +5881,12 @@ Kaiser Foundation Hospital - Orange County - Anaheim,"CT Scan, Head or Brain, wi
 Kaiser Foundation Hospital - Orange County - Anaheim,"Injection, Anesthetic or Steroid, transforaminal epidural, lumbar",64483,
 Kaiser Foundation Hospital - Orange County - Anaheim,Laparoscopic Cholecystectomy,47562,
 Kaiser Foundation Hospital - Orange County - Anaheim,"Tympanostomy (insert ventilating  tube, general anesthesia)",69436,
-Kaiser Foundation Hospital - Orange County - Anaheim,"Tonsillectomy with Adenoidectomy, less than 12 years old",42820,13481.581109022558
+Kaiser Foundation Hospital - Orange County - Anaheim,"Tonsillectomy with Adenoidectomy, less than 12 years old",42820,13481.58111
 Kaiser Foundation Hospital - Orange County - Anaheim,"Emergency Room Visit, Level 4 (high severity without signigicant threat)",99284,2481
 Kaiser Foundation Hospital - Orange County - Anaheim,"Emergency Room Visit, Level 4 (high severity with significant threat)",99285,
 Kaiser Foundation Hospital - Orange County - Anaheim,"Outpatient Visit, established patient, 15 minutes",99213,
 Kaiser Foundation Hospital - Orange County - Anaheim,Basic Metabolic Panel,80048,390
-Kaiser Foundation Hospital - Orange County - Anaheim,"Hernia Repair, Inguinal, 5 years and older",49505,15112.091878092666
+Kaiser Foundation Hospital - Orange County - Anaheim,"Hernia Repair, Inguinal, 5 years and older",49505,15112.09188
 Kaiser Foundation Hospital - Orange County - Anaheim,"Blood Gas Analysis, including 02 saturation",82805,543
 Kaiser Foundation Hospital - Orange County - Anaheim,"Complete Blood Count, with differential WBC, automated",85025,189
 Kaiser Foundation Hospital - Orange County - Anaheim,Comprehensive Metabolic Panel,80053,490
@@ -5906,7 +5906,7 @@ Kaiser Foundation Hospital - Panorama City,"Injection, Diagnostic or Therapeutic
 Kaiser Foundation Hospital - Panorama City,"Urinalysis, without microscopy",81002,
 Kaiser Foundation Hospital - Panorama City,"Urinalysis, without microscopy",81003,
 Kaiser Foundation Hospital - Panorama City,"Physical Therapy, Evaluation",97161,
-Kaiser Foundation Hospital - Panorama City,"Tonsillectomy with Adenoidectomy, less than 12 years old",42820,13481.581109022558
+Kaiser Foundation Hospital - Panorama City,"Tonsillectomy with Adenoidectomy, less than 12 years old",42820,13481.58111
 Kaiser Foundation Hospital - Panorama City,"Emergency Room Visit, Level 2 (low to moderate severity)",99282,843
 Kaiser Foundation Hospital - Panorama City,"Cardiac Catheterization, Left Heart, percutaneous ",93452,
 Kaiser Foundation Hospital - Panorama City,"Echocardiography, Transthoracic, complete, without Doppler",93307,2429
@@ -5914,7 +5914,7 @@ Kaiser Foundation Hospital - Panorama City,"Electrocardiogram, routine, with int
 Kaiser Foundation Hospital - Panorama City,"Inhalation Treatment, pressurized or nonpressurized",94640,380
 Kaiser Foundation Hospital - Panorama City,"Physical Therapy, Gait Training",97116,
 Kaiser Foundation Hospital - Panorama City,"Physical Therapy, Therapeutic Exercise",97110,
-Kaiser Foundation Hospital - Panorama City,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,18578.016283185836
+Kaiser Foundation Hospital - Panorama City,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,18578.01628
 Kaiser Foundation Hospital - Panorama City,"Arthroscopy, Shoulder, with partial acromioplasty",29826,
 Kaiser Foundation Hospital - Panorama City,Carpal Tunnel Surgery,64721,
 Kaiser Foundation Hospital - Panorama City,"X-Ray, Chest, two views",71046,589
@@ -5923,12 +5923,12 @@ Kaiser Foundation Hospital - Panorama City,"Colonoscopy, with biopsy",45380,
 Kaiser Foundation Hospital - Panorama City,"Colonoscopy, with lesion removal, by snare technique",45385,
 Kaiser Foundation Hospital - Panorama City,"Discission, secondary membranous cataract, laser surgery",66821,
 Kaiser Foundation Hospital - Panorama City,"Endoscopy, Upper GI, with biopsy",43239,
-Kaiser Foundation Hospital - Panorama City,"Endoscopy, Upper GI, diagnostic",43235,3450.011904761903
+Kaiser Foundation Hospital - Panorama City,"Endoscopy, Upper GI, diagnostic",43235,3450.011905
 Kaiser Foundation Hospital - Panorama City,"Excision, Breast Lesion, without preoperative radiological marker",19120,
-Kaiser Foundation Hospital - Panorama City,"Hernia Repair, Inguinal, 5 years and older",49505,15112.091878092666
+Kaiser Foundation Hospital - Panorama City,"Hernia Repair, Inguinal, 5 years and older",49505,15112.09188
 Kaiser Foundation Hospital - Panorama City,"Injection, Anesthetic or Steroid, transforaminal epidural, lumbar",64483,
 Kaiser Foundation Hospital - Panorama City,Laparoscopic Cholecystectomy,47562,
-Kaiser Foundation Hospital - Panorama City,"Colonoscopy, diagnostic",45378,3301.3631944444487
+Kaiser Foundation Hospital - Panorama City,"Colonoscopy, diagnostic",45378,3301.363194
 Kaiser Foundation Hospital - Panorama City,"X-Ray, Lower Back, minimum four views",72110,1041
 Kaiser Foundation Hospital - Panorama City,"Tympanostomy (insert ventilating  tube, general anesthesia)",69436,
 Kaiser Foundation Hospital - Panorama City,"Ultrasound, Abdomen, Complete",76700,
@@ -6010,10 +6010,10 @@ Kaiser Foundation Hospital - Redwood City,"Physical Therapy, Evaluation",97162,
 Kaiser Foundation Hospital - Redwood City,"Physical Therapy, Evaluation",97163,
 Kaiser Foundation Hospital - Redwood City,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62322,
 Kaiser Foundation Hospital - Redwood City,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62323,
-Kaiser Foundation Hospital - Riverside,"Hernia Repair, Inguinal, 5 years and older",49505,15112.091878092666
+Kaiser Foundation Hospital - Riverside,"Hernia Repair, Inguinal, 5 years and older",49505,15112.09188
 Kaiser Foundation Hospital - Riverside,Laparoscopic Cholecystectomy,47562,
 Kaiser Foundation Hospital - Riverside,"Tympanostomy (insert ventilating  tube, general anesthesia)",69436,
-Kaiser Foundation Hospital - Riverside,"Tonsillectomy with Adenoidectomy, less than 12 years old",42820,13481.581109022558
+Kaiser Foundation Hospital - Riverside,"Tonsillectomy with Adenoidectomy, less than 12 years old",42820,13481.58111
 Kaiser Foundation Hospital - Riverside,"Ultrasound, OB, 14 weeks or more, transabdominal",76805,1161
 Kaiser Foundation Hospital - Riverside,"Ultrasound, Abdomen, Complete",76700,
 Kaiser Foundation Hospital - Riverside,"Injection, Anesthetic or Steroid, transforaminal epidural, lumbar",64483,
@@ -6026,7 +6026,7 @@ Kaiser Foundation Hospital - Riverside,"Excision, Breast Lesion, without preoper
 Kaiser Foundation Hospital - Riverside,"Troponin, Quantitative",84484,270
 Kaiser Foundation Hospital - Riverside,Thyroid Stimulating Hormone,84443,212
 Kaiser Foundation Hospital - Riverside,"MRI, Brain, without contrast, followed by contrast",70553,
-Kaiser Foundation Hospital - Riverside,"Endoscopy, Upper GI, diagnostic",43235,3450.011904761903
+Kaiser Foundation Hospital - Riverside,"Endoscopy, Upper GI, diagnostic",43235,3450.011905
 Kaiser Foundation Hospital - Riverside,"Physical Therapy, Therapeutic Exercise",97110,
 Kaiser Foundation Hospital - Riverside,"Discission, secondary membranous cataract, laser surgery",66821,
 Kaiser Foundation Hospital - Riverside,"Inhalation Treatment, pressurized or nonpressurized",94640,380
@@ -6037,11 +6037,11 @@ Kaiser Foundation Hospital - Riverside,"Cardiac Catheterization, Left Heart, per
 Kaiser Foundation Hospital - Riverside,"X-Ray, Chest, two views",71046,589
 Kaiser Foundation Hospital - Riverside,"X-Ray, Lower Back, minimum four views",72110,1041
 Kaiser Foundation Hospital - Riverside,"Physical Therapy, Gait Training",97116,
-Kaiser Foundation Hospital - Riverside,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,18578.016283185836
+Kaiser Foundation Hospital - Riverside,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,18578.01628
 Kaiser Foundation Hospital - Riverside,"Arthroscopy, Shoulder, with partial acromioplasty",29826,
 Kaiser Foundation Hospital - Riverside,Carpal Tunnel Surgery,64721,
 Kaiser Foundation Hospital - Riverside,"Cataract Removal with Insertion of Intraocular Lens, 1 Stage",66984,
-Kaiser Foundation Hospital - Riverside,"Colonoscopy, diagnostic",45378,3301.3631944444487
+Kaiser Foundation Hospital - Riverside,"Colonoscopy, diagnostic",45378,3301.363194
 Kaiser Foundation Hospital - Riverside,"Colonoscopy, with biopsy",45380,
 Kaiser Foundation Hospital - Riverside,"Colonoscopy, with lesion removal, by snare technique",45385,
 Kaiser Foundation Hospital - Riverside,"Endoscopy, Upper GI, with biopsy",43239,
@@ -6201,21 +6201,21 @@ Kaiser Foundation Hospital - San Diego,Lipid Panel,80061,203
 Kaiser Foundation Hospital - San Diego,"CT Scan, Head or Brain, without contrast",70450,3777
 Kaiser Foundation Hospital - San Diego,"Physical Therapy, Gait Training",97116,
 Kaiser Foundation Hospital - San Diego,"Physical Therapy, Therapeutic Exercise",97110,
-Kaiser Foundation Hospital - San Diego,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,18578.016283185836
+Kaiser Foundation Hospital - San Diego,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,18578.01628
 Kaiser Foundation Hospital - San Diego,"Urinalysis, without microscopy",81002,
 Kaiser Foundation Hospital - San Diego,"Urinalysis, without microscopy",81003,
-Kaiser Foundation Hospital - San Diego,"Tonsillectomy with Adenoidectomy, less than 12 years old",42820,13481.581109022558
+Kaiser Foundation Hospital - San Diego,"Tonsillectomy with Adenoidectomy, less than 12 years old",42820,13481.58111
 Kaiser Foundation Hospital - San Diego,"Tympanostomy (insert ventilating  tube, general anesthesia)",69436,
 Kaiser Foundation Hospital - San Diego,Laparoscopic Cholecystectomy,47562,
 Kaiser Foundation Hospital - San Diego,"Injection, Anesthetic or Steroid, transforaminal epidural, lumbar",64483,
-Kaiser Foundation Hospital - San Diego,"Hernia Repair, Inguinal, 5 years and older",49505,15112.091878092666
+Kaiser Foundation Hospital - San Diego,"Hernia Repair, Inguinal, 5 years and older",49505,15112.09188
 Kaiser Foundation Hospital - San Diego,"Complete Blood Count, automated",85027,161
-Kaiser Foundation Hospital - San Diego,"Endoscopy, Upper GI, diagnostic",43235,3450.011904761903
+Kaiser Foundation Hospital - San Diego,"Endoscopy, Upper GI, diagnostic",43235,3450.011905
 Kaiser Foundation Hospital - San Diego,"Endoscopy, Upper GI, with biopsy",43239,
 Kaiser Foundation Hospital - San Diego,"Discission, secondary membranous cataract, laser surgery",66821,
 Kaiser Foundation Hospital - San Diego,"Colonoscopy, with lesion removal, by snare technique",45385,
 Kaiser Foundation Hospital - San Diego,"Colonoscopy, with biopsy",45380,
-Kaiser Foundation Hospital - San Diego,"Colonoscopy, diagnostic",45378,3301.3631944444487
+Kaiser Foundation Hospital - San Diego,"Colonoscopy, diagnostic",45378,3301.363194
 Kaiser Foundation Hospital - San Diego,"Cataract Removal with Insertion of Intraocular Lens, 1 Stage",66984,
 Kaiser Foundation Hospital - San Diego,Carpal Tunnel Surgery,64721,
 Kaiser Foundation Hospital - San Diego,"Arthroscopy, Shoulder, with partial acromioplasty",29826,
@@ -6569,7 +6569,7 @@ Kaiser Foundation Hospital - Santa Rosa,"Physical Therapy, Evaluation",97162,
 Kaiser Foundation Hospital - Santa Rosa,"Physical Therapy, Evaluation",97161,
 Kaiser Foundation Hospital - Santa Rosa,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62323,
 Kaiser Foundation Hospital - South Bay,"Colonoscopy, with biopsy",45380,
-Kaiser Foundation Hospital - South Bay,"Endoscopy, Upper GI, diagnostic",43235,3450.011904761903
+Kaiser Foundation Hospital - South Bay,"Endoscopy, Upper GI, diagnostic",43235,3450.011905
 Kaiser Foundation Hospital - South Bay,"Urinalysis, with microscopy",81001,53
 Kaiser Foundation Hospital - South Bay,"Troponin, Quantitative",84484,270
 Kaiser Foundation Hospital - South Bay,Thyroid Stimulating Hormone,84443,212
@@ -6587,7 +6587,7 @@ Kaiser Foundation Hospital - South Bay,"Emergency Room Visit, Level 4 (high seve
 Kaiser Foundation Hospital - South Bay,"Emergency Room Visit, Level 4 (high severity without signigicant threat)",99284,2481
 Kaiser Foundation Hospital - South Bay,"Emergency Room Visit, Level 3 (moderate severity)",99283,1413
 Kaiser Foundation Hospital - South Bay,"Emergency Room Visit, Level 2 (low to moderate severity)",99282,843
-Kaiser Foundation Hospital - South Bay,"Hernia Repair, Inguinal, 5 years and older",49505,15112.091878092666
+Kaiser Foundation Hospital - South Bay,"Hernia Repair, Inguinal, 5 years and older",49505,15112.09188
 Kaiser Foundation Hospital - South Bay,"Complete Blood Count, automated",85027,161
 Kaiser Foundation Hospital - South Bay,"Excision, Breast Lesion, without preoperative radiological marker",19120,
 Kaiser Foundation Hospital - South Bay,"CT Scan, Head or Brain, without contrast",70450,3777
@@ -6595,11 +6595,11 @@ Kaiser Foundation Hospital - South Bay,"Mammography, Screening, Bilateral",77067
 Kaiser Foundation Hospital - South Bay,"Endoscopy, Upper GI, with biopsy",43239,
 Kaiser Foundation Hospital - South Bay,"Discission, secondary membranous cataract, laser surgery",66821,
 Kaiser Foundation Hospital - South Bay,"Colonoscopy, with lesion removal, by snare technique",45385,
-Kaiser Foundation Hospital - South Bay,"Colonoscopy, diagnostic",45378,3301.3631944444487
+Kaiser Foundation Hospital - South Bay,"Colonoscopy, diagnostic",45378,3301.363194
 Kaiser Foundation Hospital - South Bay,"Cataract Removal with Insertion of Intraocular Lens, 1 Stage",66984,
 Kaiser Foundation Hospital - South Bay,Carpal Tunnel Surgery,64721,
 Kaiser Foundation Hospital - South Bay,"Arthroscopy, Shoulder, with partial acromioplasty",29826,
-Kaiser Foundation Hospital - South Bay,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,18578.016283185836
+Kaiser Foundation Hospital - South Bay,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,18578.01628
 Kaiser Foundation Hospital - South Bay,"CT Scan, Pelvis, with contrast",72193,
 Kaiser Foundation Hospital - South Bay,"Physical Therapy, Gait Training",97116,
 Kaiser Foundation Hospital - South Bay,"Electrocardiogram, routine, with interpretation and report",93000,
@@ -6621,7 +6621,7 @@ Kaiser Foundation Hospital - South Bay,"Injection, Diagnostic or Therapeutic sub
 Kaiser Foundation Hospital - South Bay,"Urinalysis, without microscopy",81002,
 Kaiser Foundation Hospital - South Bay,"Physical Therapy, Evaluation",97162,
 Kaiser Foundation Hospital - South Bay,"Physical Therapy, Evaluation",97161,
-Kaiser Foundation Hospital - South Bay,"Tonsillectomy with Adenoidectomy, less than 12 years old",42820,13481.581109022558
+Kaiser Foundation Hospital - South Bay,"Tonsillectomy with Adenoidectomy, less than 12 years old",42820,13481.58111
 Kaiser Foundation Hospital - South Bay,"Physical Therapy, Evaluation",97163,
 Kaiser Foundation Hospital - South Sacramento,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62323,
 Kaiser Foundation Hospital - South Sacramento,"Physical Therapy, Evaluation",97162,
@@ -6879,7 +6879,7 @@ Kaiser Foundation Hospital - Woodland Hills,"Outpatient Visit, established patie
 Kaiser Foundation Hospital - Woodland Hills,"Emergency Room Visit, Level 4 (high severity with significant threat)",99285,
 Kaiser Foundation Hospital - Woodland Hills,"Emergency Room Visit, Level 4 (high severity without signigicant threat)",99284,2481
 Kaiser Foundation Hospital - Woodland Hills,"Emergency Room Visit, Level 3 (moderate severity)",99283,1413
-Kaiser Foundation Hospital - Woodland Hills,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,18578.016283185836
+Kaiser Foundation Hospital - Woodland Hills,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,18578.01628
 Kaiser Foundation Hospital - Woodland Hills,"Arthroscopy, Shoulder, with partial acromioplasty",29826,
 Kaiser Foundation Hospital - Woodland Hills,"MRI, Brain, without contrast, followed by contrast",70553,
 Kaiser Foundation Hospital - Woodland Hills,"Cataract Removal with Insertion of Intraocular Lens, 1 Stage",66984,
@@ -6889,16 +6889,16 @@ Kaiser Foundation Hospital - Woodland Hills,"Physical Therapy, Evaluation",97161
 Kaiser Foundation Hospital - Woodland Hills,Carpal Tunnel Surgery,64721,
 Kaiser Foundation Hospital - Woodland Hills,"Mammography, Screening, Bilateral",77067,609
 Kaiser Foundation Hospital - Woodland Hills,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62322,
-Kaiser Foundation Hospital - Woodland Hills,"Tonsillectomy with Adenoidectomy, less than 12 years old",42820,13481.581109022558
+Kaiser Foundation Hospital - Woodland Hills,"Tonsillectomy with Adenoidectomy, less than 12 years old",42820,13481.58111
 Kaiser Foundation Hospital - Woodland Hills,"Tympanostomy (insert ventilating  tube, general anesthesia)",69436,
 Kaiser Foundation Hospital - Woodland Hills,Laparoscopic Cholecystectomy,47562,
 Kaiser Foundation Hospital - Woodland Hills,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62323,
-Kaiser Foundation Hospital - Woodland Hills,"Hernia Repair, Inguinal, 5 years and older",49505,15112.091878092666
+Kaiser Foundation Hospital - Woodland Hills,"Hernia Repair, Inguinal, 5 years and older",49505,15112.09188
 Kaiser Foundation Hospital - Woodland Hills,"Excision, Breast Lesion, without preoperative radiological marker",19120,
-Kaiser Foundation Hospital - Woodland Hills,"Colonoscopy, diagnostic",45378,3301.3631944444487
+Kaiser Foundation Hospital - Woodland Hills,"Colonoscopy, diagnostic",45378,3301.363194
 Kaiser Foundation Hospital - Woodland Hills,"Colonoscopy, with biopsy",45380,
 Kaiser Foundation Hospital - Woodland Hills,"Colonoscopy, with lesion removal, by snare technique",45385,
-Kaiser Foundation Hospital - Woodland Hills,"Endoscopy, Upper GI, diagnostic",43235,3450.011904761903
+Kaiser Foundation Hospital - Woodland Hills,"Endoscopy, Upper GI, diagnostic",43235,3450.011905
 Kaiser Foundation Hospital - Woodland Hills,"Endoscopy, Upper GI, with biopsy",43239,
 Kaiser Foundation Hospital - Woodland Hills,"Discission, secondary membranous cataract, laser surgery",66821,
 Kaiser Foundation Hospital - Woodland Hills,"Injection, Anesthetic or Steroid, transforaminal epidural, lumbar",64483,
@@ -7152,7 +7152,7 @@ Kern Valley Hospital,"Urinalysis, with microscopy",81000,390.04
 Kern Valley Hospital,"Urinalysis, with microscopy",81001,390.04
 Kern Valley Hospital,"Complete Blood Count, with differential WBC, automated",85025,164.01
 Kern Valley Hospital,"X-Ray, Lower Back, minimum four views",72110,739.41
-Kern Valley Hospital,"Hernia Repair, Inguinal, 5 years and older",49505,10694.551887420004
+Kern Valley Hospital,"Hernia Repair, Inguinal, 5 years and older",49505,10694.55189
 Kern Valley Hospital,"Cardiac Catheterization, Left Heart, percutaneous ",93452,0
 Kern Valley Hospital,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62323,0
 Kern Valley Hospital,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62322,0
@@ -7160,23 +7160,23 @@ Kern Valley Hospital,"Physical Therapy, Evaluation",97163,515.99
 Kern Valley Hospital,"Physical Therapy, Evaluation",97162,515.99
 Kern Valley Hospital,"Tonsillectomy with Adenoidectomy, less than 12 years old",42820,0
 Kern Valley Hospital,"Tympanostomy (insert ventilating  tube, general anesthesia)",69436,0
-Kern Valley Hospital,Laparoscopic Cholecystectomy,47562,12024.29931263
+Kern Valley Hospital,Laparoscopic Cholecystectomy,47562,12024.29931
 Kern Valley Hospital,"Injection, Anesthetic or Steroid, transforaminal epidural, lumbar",64483,0
-Kern Valley Hospital,"Excision, Breast Lesion, without preoperative radiological marker",19120,7119.790660410001
-Kern Valley Hospital,"Endoscopy, Upper GI, diagnostic",43235,5983.575528340001
+Kern Valley Hospital,"Excision, Breast Lesion, without preoperative radiological marker",19120,7119.79066
+Kern Valley Hospital,"Endoscopy, Upper GI, diagnostic",43235,5983.575528
 Kern Valley Hospital,"Discission, secondary membranous cataract, laser surgery",66821,0
-Kern Valley Hospital,"Endoscopy, Upper GI, with biopsy",43239,4765.4295204300015
-Kern Valley Hospital,"Colonoscopy, with biopsy",45380,4685.323958660001
+Kern Valley Hospital,"Endoscopy, Upper GI, with biopsy",43239,4765.42952
+Kern Valley Hospital,"Colonoscopy, with biopsy",45380,4685.323959
 Kern Valley Hospital,"Echocardiography, Transthoracic, complete, without Doppler",93307,261.26
 Kern Valley Hospital,"Electrocardiogram, routine, with interpretation and report",93000,0
 Kern Valley Hospital,"Inhalation Treatment, pressurized or nonpressurized",94640,202.82
-Kern Valley Hospital,"Colonoscopy, with lesion removal, by snare technique",45385,7818.653191050002
+Kern Valley Hospital,"Colonoscopy, with lesion removal, by snare technique",45385,7818.653191
 Kern Valley Hospital,"Physical Therapy, Therapeutic Exercise",97110,134.8
 Kern Valley Hospital,"Physical Therapy, Gait Training",97116,224.5
 Kern Valley Hospital,"Arthroscopy, Shoulder, with partial acromioplasty",29826,0
 Kern Valley Hospital,Carpal Tunnel Surgery,64721,0
 Kern Valley Hospital,"Cataract Removal with Insertion of Intraocular Lens, 1 Stage",66984,0
-Kern Valley Hospital,"Colonoscopy, diagnostic",45378,3878.351383270001
+Kern Valley Hospital,"Colonoscopy, diagnostic",45378,3878.351383
 Kern Valley Hospital,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,0
 Kindred Hospital - Baldwin Park,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62323,
 Kindred Hospital - Baldwin Park,"Physical Therapy, Evaluation",97161,
@@ -7827,61 +7827,61 @@ Los Robles Medical Center,"CT Scan, Head or Brain, without contrast",70450,
 Los Robles Medical Center,"CT Scan, Pelvis, with contrast",72193,
 Los Robles Medical Center,"Complete Blood Count, with differential WBC, automated",85025,
 Los Robles Medical Center,CORONARY ARTERY ANGIO S&I               ,93454,76544.75
-Los Robles Medical Center,Esophagogastroduodenoscopy,43238,22967.382352941175
-Los Robles Medical Center,INSERTION OR REPLACEMENT OF PERMANENT PACEMAKER WITH TRANSVENOUS ELECTRODE(S); ATRIAL AND VENTRICULAR,33208,137534.67647058822
+Los Robles Medical Center,Esophagogastroduodenoscopy,43238,22967.38235
+Los Robles Medical Center,INSERTION OR REPLACEMENT OF PERMANENT PACEMAKER WITH TRANSVENOUS ELECTRODE(S); ATRIAL AND VENTRICULAR,33208,137534.6765
 Los Robles Medical Center,"Tympanostomy (insert ventilating  tube, general anesthesia)",69436,24387
 Los Robles Medical Center,"Tonsillectomy with Adenoidectomy, less than 12 years old",42820,
-Los Robles Medical Center,"SIMPLE REPAIR OF SUPERFICIAL WOUNDS OF SCALP, NECK, AXILLAE, EXTERNAL GENITALIA, TRUNK AND/OR EXTREMITIES (INCLUDING HANDS AND FEET); 2.5 CM OR",12001,9911.128851540616
-Los Robles Medical Center,"SIMPLE REPAIR OF SUPERFICIAL WOUNDS OF FACE, EARS, EYELIDS, NOSE, LIPS AND/OR MUCOUS MEMBRANES; 2.5 CM OR LESS",12011,11993.699248120301
-Los Robles Medical Center,"DEBRIDEMENT; SKIN, AND SUBCUTANEOUS TISSUE",11042,10514.061538461538
-Los Robles Medical Center,APPLICATION OF SHORT ARM SPLINT (FOREARM TO HAND); STATIC,29125,6085.878947368421
+Los Robles Medical Center,"SIMPLE REPAIR OF SUPERFICIAL WOUNDS OF SCALP, NECK, AXILLAE, EXTERNAL GENITALIA, TRUNK AND/OR EXTREMITIES (INCLUDING HANDS AND FEET); 2.5 CM OR",12001,9911.128852
+Los Robles Medical Center,"SIMPLE REPAIR OF SUPERFICIAL WOUNDS OF FACE, EARS, EYELIDS, NOSE, LIPS AND/OR MUCOUS MEMBRANES; 2.5 CM OR LESS",12011,11993.69925
+Los Robles Medical Center,"DEBRIDEMENT; SKIN, AND SUBCUTANEOUS TISSUE",11042,10514.06154
+Los Robles Medical Center,APPLICATION OF SHORT ARM SPLINT (FOREARM TO HAND); STATIC,29125,6085.878947
 Los Robles Medical Center,"SIMPLE REPAIR OF SUPERFICIAL WOUNDS OF SCALP, NECK, AXILLAE, EXTERNAL GENITALIA, TRUNK AND/OR EXTREMITIES (INCLUDING HANDS AND FEET); 2.6 CM TO",12002,17082.5
-Los Robles Medical Center,"INSERTION OF TEMPORARY INDWELLING BLADDER CATHETER; SIMPLE (EG, FOLEY)",51702,7069.307692307692
-Los Robles Medical Center,APPLICATION OF SHORT LEG SPLINT (CALF TO FOOT),29515,6767.196428571428
-Los Robles Medical Center,L HRT ARTERY/VENTRICLE ANGIO            ,93458,82150.31428571428
+Los Robles Medical Center,"INSERTION OF TEMPORARY INDWELLING BLADDER CATHETER; SIMPLE (EG, FOLEY)",51702,7069.307692
+Los Robles Medical Center,APPLICATION OF SHORT LEG SPLINT (CALF TO FOOT),29515,6767.196429
+Los Robles Medical Center,L HRT ARTERY/VENTRICLE ANGIO            ,93458,82150.31429
 Los Robles Medical Center,"INCISION AND DRAINAGE OF ABSCESS (EG, CARBUNCLE, SUPPURATIVE HIDRADENITIS, CUTANEOUS OR SUBCUTANEOUS ABSCESS, CYST, FURUNCLE, OR PARONYCHIA); S",10060,7366.5625
-Los Robles Medical Center,"CONTROL NASAL HEMORRHAGE, ANTERIOR, SIMPLE (LIMITED CAUTERY AND/OR PACKING) ANY METHOD",30901,5787.946666666667
-Los Robles Medical Center,ABD PARACENTESIS W/IMAGING              ,49083,13795.541666666666
-Los Robles Medical Center,INSERT TUNNELED CV CATH                 ,36561,26671.27536231884
-Los Robles Medical Center,"LAPAROSCOPY, SURGICAL, APPENDECTOMY",44970,83827.05970149254
+Los Robles Medical Center,"CONTROL NASAL HEMORRHAGE, ANTERIOR, SIMPLE (LIMITED CAUTERY AND/OR PACKING) ANY METHOD",30901,5787.946667
+Los Robles Medical Center,ABD PARACENTESIS W/IMAGING              ,49083,13795.54167
+Los Robles Medical Center,INSERT TUNNELED CV CATH                 ,36561,26671.27536
+Los Robles Medical Center,"LAPAROSCOPY, SURGICAL, APPENDECTOMY",44970,83827.0597
 Los Robles Medical Center,"SIMPLE REPAIR OF SUPERFICIAL WOUNDS OF FACE, EARS, EYELIDS, NOSE, LIPS AND/OR MUCOUS MEMBRANES; 2.6 CM TO 5.0 CM",12013,20033.15625
-Los Robles Medical Center,"CLOSED TREATMENT OF SHOULDER DISLOCATION, WITH MANIPULATION; WITHOUT ANESTHESIA",23650,12632.01923076923
-Los Robles Medical Center,"CLOSED TREATMENT OF DISTAL RADIAL FRACTURE (EG, COLLES OR SMITH TYPE) OR EPIPHYSEAL SEPARATION, WITH OR WITHOUT FRACTURE OF ULNAR STYLOID; WITH",25605,13976.551020408164
-Los Robles Medical Center,APPLICATION OF LONG ARM SPLINT (SHOULDER TO HAND),29105,7613.448979591837
-Los Robles Medical Center,PLACE CATH CAROTD ART                   ,36224,72282.11627906977
+Los Robles Medical Center,"CLOSED TREATMENT OF SHOULDER DISLOCATION, WITH MANIPULATION; WITHOUT ANESTHESIA",23650,12632.01923
+Los Robles Medical Center,"CLOSED TREATMENT OF DISTAL RADIAL FRACTURE (EG, COLLES OR SMITH TYPE) OR EPIPHYSEAL SEPARATION, WITH OR WITHOUT FRACTURE OF ULNAR STYLOID; WITH",25605,13976.55102
+Los Robles Medical Center,APPLICATION OF LONG ARM SPLINT (SHOULDER TO HAND),29105,7613.44898
+Los Robles Medical Center,PLACE CATH CAROTD ART                   ,36224,72282.11628
 Los Robles Medical Center,DX BONE MARROW BX & ASPIR               ,38222,26119.425
-Los Robles Medical Center,ASPIRATE PLEURA W/ IMAGING              ,32555,11905.333333333334
+Los Robles Medical Center,ASPIRATE PLEURA W/ IMAGING              ,32555,11905.33333
 Los Robles Medical Center,"Mammography, Screening, Bilateral",77067,
 Los Robles Medical Center,"Injection, Anesthetic or Steroid, transforaminal epidural, lumbar",64483,
-Los Robles Medical Center,SKIN SUB GRAFT TRNK/ARM/LEG             ,15271,22998.82857142857
+Los Robles Medical Center,SKIN SUB GRAFT TRNK/ARM/LEG             ,15271,22998.82857
 Los Robles Medical Center,"Ultrasound, OB, 14 weeks or more, transabdominal",76805,
 Los Robles Medical Center,"Ultrasound, Abdomen, Complete",76700,
-Los Robles Medical Center,"HYSTEROSCOPY, SURGICAL; WITH SAMPLING (BIOPSY) OF ENDOMETRIUM AND/OR POLYPECTOMY, WITH OR WITHOUT D & C",58558,43697.166666666664
-Los Robles Medical Center,"ARTHROPLASTY, KNEE, CONDYLE AND PLATEAU; MEDIAL AND LATERAL COMPARTMENTS WITH OR WITHOUT PATELLA RESURFACING",27447,165127.92592592593
+Los Robles Medical Center,"HYSTEROSCOPY, SURGICAL; WITH SAMPLING (BIOPSY) OF ENDOMETRIUM AND/OR POLYPECTOMY, WITH OR WITHOUT D & C",58558,43697.16667
+Los Robles Medical Center,"ARTHROPLASTY, KNEE, CONDYLE AND PLATEAU; MEDIAL AND LATERAL COMPARTMENTS WITH OR WITHOUT PATELLA RESURFACING",27447,165127.9259
 Los Robles Medical Center,"IMMEDIATE INSERTION OF BREAST PROSTHESIS FOLLOWING MASTOPEXY, MASTECTOMY OR IN RECONSTRUCTION",19340,115556.55
-Los Robles Medical Center,REDUCTION MAMMAPLASTY,19318,104070.68421052632
+Los Robles Medical Center,REDUCTION MAMMAPLASTY,19318,104070.6842
 Los Robles Medical Center,"LAPAROSCOPY SURGICAL, WITH VAGINAL HYSTERECTOMY, FOR UTERUS 250 GRAMS OR LESS; WITH REMOVAL OF TUBE(S) AND/OR OVARY(S)",58552,118588.375
 Los Robles Medical Center,"ARTHROSCOPY, SHOULDER, SURGICAL; WITH ROTATOR CUFF REPAIR",29827,116210.125
 Los Robles Medical Center,"CYSTOURETHROSCOPY, WITH INSERTION OF INDWELLING URETERAL STENT (EG, GIBBONS OR DOUBLE-J TYPE)",52332,39269.8125
 Los Robles Medical Center,"ARTHROPLASTY, KNEE, CONDYLE AND PLATEAU; MEDIAL OR LATERAL COMPARTMENT",27446,151605.6
 Los Robles Medical Center,"DELAYED INSERTION OF BREAST PROSTHESIS FOLLOWING MASTOPEXY, MASTECTOMY OR IN RECONSTRUCTION",19342,129179.6
-Los Robles Medical Center,"LAPAROSCOPY, SURGICAL PROSTATECTOMY, RETROPUBIC RADICAL, INCLUDING NERVE SPARING",55866,133395.7142857143
-Los Robles Medical Center,CYSTO/URETERO W/LITHOTRIPSY             ,52356,66191.07692307692
-Los Robles Medical Center,"LAMINOTOMY (HEMILAMINECTOMY), W DECOMPRESSION OF NERVE ROOT(S), INCL PARTIAL FACETECTOMY, FORAMINOTOMY &/ EXCISION OF HERNIATED INTERVERT DISK;",63030,80158.21428571429
-Los Robles Medical Center,"LITHOTRIPSY, EXTRACORPOREAL SHOCK WAVE",50590,36165.230769230766
-Los Robles Medical Center,"CONTACT LASER VAPORIZATION W W/O TRANSURETHRAL RESECTION PROSTATE, INC CONTROL POSTOPERATIVE BLEEDING, COMPLETE (VASECTOMY, MEATOTOMY, CYSTOURE",52648,47418.833333333336
-Los Robles Medical Center,"REMOVAL OF IMPLANT; DEEP (EG, BURIED WIRE, PIN, SCREW, METAL BAND, NAIL, ROD OR PLATE)",20680,62447.818181818184
-Los Robles Medical Center,"LAPAROSCOPY, SURGICAL; WITH REMOVAL OF ADNEXAL STRUCTURES (PARTIAL OR TOTAL OOPHORECTOMY AND/OR SALPINGECTOMY)",58661,61142.181818181816
-Los Robles Medical Center,"HYSTEROSCOPY, SURGICAL; WITH ENDOMETRIAL ABLATION (EG, ENDOMETRIAL RESECTION, ELECTROSURGICAL ABLATION, THERMOABLATION)",58563,41788.72727272727
-Los Robles Medical Center,"CYSTOURETHROSCOPY, WITH FULGURATION (INCLUDING CRYOSURGERY OR LASER SURGERY) AND/OR RESECTION OF; MEDIUM BLADDER TUMOR(S) (2.0 TO 5.0 CM)",52235,38163.181818181816
+Los Robles Medical Center,"LAPAROSCOPY, SURGICAL PROSTATECTOMY, RETROPUBIC RADICAL, INCLUDING NERVE SPARING",55866,133395.7143
+Los Robles Medical Center,CYSTO/URETERO W/LITHOTRIPSY             ,52356,66191.07692
+Los Robles Medical Center,"LAMINOTOMY (HEMILAMINECTOMY), W DECOMPRESSION OF NERVE ROOT(S), INCL PARTIAL FACETECTOMY, FORAMINOTOMY &/ EXCISION OF HERNIATED INTERVERT DISK;",63030,80158.21429
+Los Robles Medical Center,"LITHOTRIPSY, EXTRACORPOREAL SHOCK WAVE",50590,36165.23077
+Los Robles Medical Center,"CONTACT LASER VAPORIZATION W W/O TRANSURETHRAL RESECTION PROSTATE, INC CONTROL POSTOPERATIVE BLEEDING, COMPLETE (VASECTOMY, MEATOTOMY, CYSTOURE",52648,47418.83333
+Los Robles Medical Center,"REMOVAL OF IMPLANT; DEEP (EG, BURIED WIRE, PIN, SCREW, METAL BAND, NAIL, ROD OR PLATE)",20680,62447.81818
+Los Robles Medical Center,"LAPAROSCOPY, SURGICAL; WITH REMOVAL OF ADNEXAL STRUCTURES (PARTIAL OR TOTAL OOPHORECTOMY AND/OR SALPINGECTOMY)",58661,61142.18182
+Los Robles Medical Center,"HYSTEROSCOPY, SURGICAL; WITH ENDOMETRIAL ABLATION (EG, ENDOMETRIAL RESECTION, ELECTROSURGICAL ABLATION, THERMOABLATION)",58563,41788.72727
+Los Robles Medical Center,"CYSTOURETHROSCOPY, WITH FULGURATION (INCLUDING CRYOSURGERY OR LASER SURGERY) AND/OR RESECTION OF; MEDIUM BLADDER TUMOR(S) (2.0 TO 5.0 CM)",52235,38163.18182
 Los Robles Medical Center,REVISION OF RECONSTRUCTED BREAST,19380,115641.3
 Los Robles Medical Center,"HALLUX VALGUS (BUNION) CORRECTION, WITH OR WITHOUT SESAMOIDECTOMY; WITH METATARSAL OSTEOTOMY (EG, MITCHELL, CHEVRON, OR CONCENTRIC TYPE PROCEDU",28296,59430
 Los Robles Medical Center,"TRANSURETHRAL ELECTROSURGICAL RESECTION PROSTATE, INC CONTROL OF POSTOPERATIVE BLEEDING, COMPLETE (VASECTOMY, MEATOTOMY, CYSTOURETHROSCOPY, URE",52601,47387.9
-Los Robles Medical Center,"LAPAROSCOPY, SURGICAL; WITH FULGURATION OR EXCISION OF LESIONS OF THE OVARY, PELVIC VISCERA, OR PERITONEAL SURFACE BY ANY METHOD",58662,83508.11111111111
+Los Robles Medical Center,"LAPAROSCOPY, SURGICAL; WITH FULGURATION OR EXCISION OF LESIONS OF THE OVARY, PELVIC VISCERA, OR PERITONEAL SURFACE BY ANY METHOD",58662,83508.11111
 Los Robles Medical Center,"ARTHROCENTESIS, ASPIRATION AND/OR INJECTION; MAJOR JOINT OR BURSA (EG, SHOULDER, HIP, KNEE JOINT, SUBACROMIAL BURSA)",20610,19461.5
 Los Robles Medical Center,"MRI, Brain, without contrast, followed by contrast",70553,
 Los Robles Medical Center,Laparoscopic Cholecystectomy,47562,
-Los Robles Medical Center,"Hernia Repair, Inguinal, 5 years and older",49505,45373.705882352944
+Los Robles Medical Center,"Hernia Repair, Inguinal, 5 years and older",49505,45373.70588
 Los Robles Medical Center,"X-Ray, Lower Back, minimum four views",72110,
 Los Robles Medical Center,"X-Ray, Chest, two views",71046,
 Los Robles Medical Center,"Cardiac Catheterization, Left Heart, percutaneous ",93452,
@@ -7890,7 +7890,7 @@ Los Robles Medical Center,"Electrocardiogram, routine, with interpretation and r
 Los Robles Medical Center,"Inhalation Treatment, pressurized or nonpressurized",94640,
 Los Robles Medical Center,"Physical Therapy, Gait Training",97116,
 Los Robles Medical Center,"Physical Therapy, Therapeutic Exercise",97110,
-Los Robles Medical Center,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,42332.230769230766
+Los Robles Medical Center,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,42332.23077
 Los Robles Medical Center,"Tympanostomy (insert ventilating  tube, general anesthesia)",69436,
 Los Robles Medical Center,"Arthroscopy, Shoulder, with partial acromioplasty",29826,
 Los Robles Medical Center,"Cataract Removal with Insertion of Intraocular Lens, 1 Stage",66984,
@@ -7901,11 +7901,11 @@ Los Robles Medical Center,"Discission, secondary membranous cataract, laser surg
 Los Robles Medical Center,"Endoscopy, Upper GI, with biopsy",43239,
 Los Robles Medical Center,"Endoscopy, Upper GI, diagnostic",43235,
 Los Robles Medical Center,"Excision, Breast Lesion, without preoperative radiological marker",19120,
-Los Robles Medical Center,"Hernia Repair, Inguinal, 5 years and older",49505,41274.857142857145
-Los Robles Medical Center,"Injection, Anesthetic or Steroid, transforaminal epidural, lumbar",64483,15152.57142857143
+Los Robles Medical Center,"Hernia Repair, Inguinal, 5 years and older",49505,41274.85714
+Los Robles Medical Center,"Injection, Anesthetic or Steroid, transforaminal epidural, lumbar",64483,15152.57143
 Los Robles Medical Center,Carpal Tunnel Surgery,64721,27937
 Los Robles Medical Center,"Excision, Breast Lesion, without preoperative radiological marker",19120,41879
-Los Robles Medical Center,"Colonoscopy, with lesion removal, by snare technique",45385,14967.216494845361
+Los Robles Medical Center,"Colonoscopy, with lesion removal, by snare technique",45385,14967.21649
 Los Robles Medical Center,"Endoscopy, Upper GI, with biopsy",43239,19716.33125
 Los Robles Medical Center,"Physical Therapy, Evaluation",97161,517.75
 Los Robles Medical Center,"Physical Therapy, Evaluation",97162,517.75
@@ -7921,7 +7921,7 @@ Los Robles Medical Center,Carpal Tunnel Surgery,64721,
 Los Robles Medical Center,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,
 Los Robles Medical Center,"Physical Therapy, Therapeutic Exercise",97110,197
 Los Robles Medical Center,"Physical Therapy, Gait Training",97116,208.25
-Los Robles Medical Center,"Endoscopy, Upper GI, diagnostic",43235,27489.82608695652
+Los Robles Medical Center,"Endoscopy, Upper GI, diagnostic",43235,27489.82609
 Los Robles Medical Center,"CT Scan, Head or Brain, without contrast",70450,4518.75
 Los Robles Medical Center,"CT Scan, Pelvis, with contrast",72193,4878.75
 Los Robles Medical Center,"MRI, Brain, without contrast, followed by contrast",70553,11479.5
@@ -7932,8 +7932,8 @@ Los Robles Medical Center,"X-Ray, Chest, two views",71046,1373.25
 Los Robles Medical Center,"Echocardiography, Transthoracic, complete, without Doppler",93307,4758
 Los Robles Medical Center,"CT Scan, Abdomen, with contrast",74160,4878.75
 Los Robles Medical Center,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,74520
-Los Robles Medical Center,"Colonoscopy, diagnostic",45378,12721.566666666668
-Los Robles Medical Center,"Colonoscopy, with biopsy",45380,14861.992366412214
+Los Robles Medical Center,"Colonoscopy, diagnostic",45378,12721.56667
+Los Robles Medical Center,"Colonoscopy, with biopsy",45380,14861.99237
 Los Robles Medical Center,"HYSTEROSCOPY, SURGICAL; WITH REMOVAL OF LEIOMYOMATA",58561,64838
 Los Robles Medical Center,"Inhalation Treatment, pressurized or nonpressurized",94640,648.75
 Los Robles Medical Center,"Troponin, Quantitative",84484,623.5
@@ -8967,11 +8967,11 @@ Mission Regional Medical Center,"Colonoscopy, with lesion removal, by snare tech
 Mission Regional Medical Center,"Ultrasound, OB, 14 weeks or more, transabdominal",76805,1107
 Mission Regional Medical Center,"Complete Blood Count, automated",85027,91
 Mission Regional Medical Center,"MRI, Head or Brain, without contrast, followed by contrast",70553,6977
-Mission Regional Medical Center,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62322,2796.6666666666665
-Mission Regional Medical Center,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62323,2796.6666666666665
-Mission Regional Medical Center,"Physical Therapy, Evaluation",97163,332.3333333333333
-Mission Regional Medical Center,"Physical Therapy, Evaluation",97162,332.3333333333333
-Mission Regional Medical Center,"Physical Therapy, Evaluation",97161,332.3333333333333
+Mission Regional Medical Center,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62322,2796.666667
+Mission Regional Medical Center,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62323,2796.666667
+Mission Regional Medical Center,"Physical Therapy, Evaluation",97163,332.3333333
+Mission Regional Medical Center,"Physical Therapy, Evaluation",97162,332.3333333
+Mission Regional Medical Center,"Physical Therapy, Evaluation",97161,332.3333333
 Mission Regional Medical Center,"Emergency Room Visit, Level 2 (low to moderate severity)",99282,721
 Mission Regional Medical Center,"Ultrasound, Abdomen, Complete",76700,1719
 Mission Regional Medical Center,"Emergency Room Visit, Level 4 (high severity)",99284,2761
@@ -9070,33 +9070,33 @@ Monrovia Memorial Hospital,"Colonoscopy, diagnostic",45378,
 Monrovia Memorial Hospital,"Colonoscopy, with biopsy",45380,
 Monrovia Memorial Hospital,"Excision, Breast Lesion, without preoperative radiological marker",19120,
 Monrovia Memorial Hospital,"Hernia Repair, Inguinal, 5 years and older",49505,
-Monrovia Memorial Hospital,	Fluoroscopy <1 hr phys/qhp,76000,630
+Monrovia Memorial Hospital,"	Fluoroscopy <1 hr phys/qhp",76000,630
 Monrovia Memorial Hospital,Laparoscopic Cholecystectomy,47562,
-Monrovia Memorial Hospital,	Phlebotomy,99195,60
-Monrovia Memorial Hospital,	Complete cbc w/auto diff wbc,85025,220
-Monrovia Memorial Hospital,	Comprehen metabolic panel,80053,500
-Monrovia Memorial Hospital,	Prothrombin time,85610,35
-Monrovia Memorial Hospital,	Thromboplastin time partial,85730,35
-Monrovia Memorial Hospital,	Electrocardiogram tracing,93005,294.30999755859375
-Monrovia Memorial Hospital,	X-ray exam chest 1 view,71045,230.5
-Monrovia Memorial Hospital,	Culture screen only,87081,29
-Monrovia Memorial Hospital,	X-ray exam l-s spine bending,72114,653.760009765625
-Monrovia Memorial Hospital,	Lipid panel,80061,400
-Monrovia Memorial Hospital,	Rbc antibody screen,86850,130
+Monrovia Memorial Hospital,"	Phlebotomy",99195,60
+Monrovia Memorial Hospital,"	Complete cbc w/auto diff wbc",85025,220
+Monrovia Memorial Hospital,"	Comprehen metabolic panel",80053,500
+Monrovia Memorial Hospital,"	Prothrombin time",85610,35
+Monrovia Memorial Hospital,"	Thromboplastin time partial",85730,35
+Monrovia Memorial Hospital,"	Electrocardiogram tracing",93005,294.3099976
+Monrovia Memorial Hospital,"	X-ray exam chest 1 view",71045,230.5
+Monrovia Memorial Hospital,"	Culture screen only",87081,29
+Monrovia Memorial Hospital,"	X-ray exam l-s spine bending",72114,653.7600098
+Monrovia Memorial Hospital,"	Lipid panel",80061,400
+Monrovia Memorial Hospital,"	Rbc antibody screen",86850,130
 Monrovia Memorial Hospital,"Injection, Anesthetic or Steroid, transforaminal epidural, lumbar",64483,
-Monrovia Memorial Hospital,	Blood typing serologic abo,86900,20
-Monrovia Memorial Hospital,	Compatibility test antiglob,86922,150
-Monrovia Memorial Hospital,	X-ray exam neck spine 6/>vws,72052,565.5999755859375
-Monrovia Memorial Hospital,	Microscopic exam of urine,81015,50
-Monrovia Memorial Hospital,	Glycosylated hemoglobin test,83036,5.070000171661377
-Monrovia Memorial Hospital,	Urine pregnancy test,81025,40
-Monrovia Memorial Hospital,	X-ray exam neck spine 2-3 vw,72040,350.8999938964844
-Monrovia Memorial Hospital,	X-ray exam l-s spine 2/3 vws,72100,315.70001220703125
-Monrovia Memorial Hospital,	Gait training therapy,97116,116.45999908447266
-Monrovia Memorial Hospital,	Assay of psa total,84153,5.070000171661377
+Monrovia Memorial Hospital,"	Blood typing serologic abo",86900,20
+Monrovia Memorial Hospital,"	Compatibility test antiglob",86922,150
+Monrovia Memorial Hospital,"	X-ray exam neck spine 6/>vws",72052,565.5999756
+Monrovia Memorial Hospital,"	Microscopic exam of urine",81015,50
+Monrovia Memorial Hospital,"	Glycosylated hemoglobin test",83036,5.070000172
+Monrovia Memorial Hospital,"	Urine pregnancy test",81025,40
+Monrovia Memorial Hospital,"	X-ray exam neck spine 2-3 vw",72040,350.8999939
+Monrovia Memorial Hospital,"	X-ray exam l-s spine 2/3 vws",72100,315.7000122
+Monrovia Memorial Hospital,"	Gait training therapy",97116,116.4599991
+Monrovia Memorial Hospital,"	Assay of psa total",84153,5.070000172
 Monrovia Memorial Hospital,"Discission, secondary membranous cataract, laser surgery",66821,
 Monrovia Memorial Hospital,"Tympanostomy (insert ventilating  tube, general anesthesia)",69436,
-Monrovia Memorial Hospital,	Blood typing serologic rh(d),86901,20
+Monrovia Memorial Hospital,"	Blood typing serologic rh(d)",86901,20
 Monrovia Memorial Hospital,"Ultrasound, Abdomen, Complete",76700,
 Monrovia Memorial Hospital,"Endoscopy, Upper GI, with biopsy",43239,
 Monrovia Memorial Hospital,"Mammography, Screening, Bilateral",77067,
@@ -9816,21 +9816,21 @@ Pacifica Hospital of the Valley,"Blood Gas Analysis, including 02 saturation",82
 Pacifica Hospital of the Valley,Basic Metabolic Panel,80048,185
 Pacifica Hospital of the Valley,"Tonsillectomy with Adenoidectomy, less than 12 years old",42820,
 Pacifica Hospital of the Valley,Laparoscopic Cholecystectomy,47562,
-Palmdale Regional Medical Center,"Urinalysis, without microscopy",81002,170.351851851852
-Palmdale Regional Medical Center,"Urinalysis, without microscopy",81003,170.351851851852
+Palmdale Regional Medical Center,"Urinalysis, without microscopy",81002,170.3518519
+Palmdale Regional Medical Center,"Urinalysis, without microscopy",81003,170.3518519
 Palmdale Regional Medical Center,"Urinalysis, with microscopy",81000,
 Palmdale Regional Medical Center,"Urinalysis, with microscopy",81001,
 Palmdale Regional Medical Center,"Electrocardiogram, routine, with interpretation and report",93000,
-Palmdale Regional Medical Center,"Emergency Room Visit, Level 2 (low to moderate severity)",99282,1665.70553297906
-Palmdale Regional Medical Center,"X-Ray, Chest, two views",71046,702.003414634146
+Palmdale Regional Medical Center,"Emergency Room Visit, Level 2 (low to moderate severity)",99282,1665.705533
+Palmdale Regional Medical Center,"X-Ray, Chest, two views",71046,702.0034146
 Palmdale Regional Medical Center,"Tonsillectomy with Adenoidectomy, less than 12 years old",42820,
 Palmdale Regional Medical Center,"Tympanostomy (insert ventilating  tube, general anesthesia)",69436,
 Palmdale Regional Medical Center,Laparoscopic Cholecystectomy,47562,
 Palmdale Regional Medical Center,"Injection, Anesthetic or Steroid, transforaminal epidural, lumbar",64483,
 Palmdale Regional Medical Center,"Hernia Repair, Inguinal, 5 years and older",49505,
 Palmdale Regional Medical Center,"Excision, Breast Lesion, without preoperative radiological marker",19120,
-Palmdale Regional Medical Center,"Endoscopy, Upper GI, diagnostic",43235,53014.63333333333
-Palmdale Regional Medical Center,"Endoscopy, Upper GI, with biopsy",43239,35088.47073170731
+Palmdale Regional Medical Center,"Endoscopy, Upper GI, diagnostic",43235,53014.63333
+Palmdale Regional Medical Center,"Endoscopy, Upper GI, with biopsy",43239,35088.47073
 Palmdale Regional Medical Center,"X-Ray, Lower Back, minimum four views",72110,821
 Palmdale Regional Medical Center,"Cardiac Catheterization, Left Heart, percutaneous ",93452,
 Palmdale Regional Medical Center,"Colonoscopy, with biopsy",45380,
@@ -9839,45 +9839,45 @@ Palmdale Regional Medical Center,"Cataract Removal with Insertion of Intraocular
 Palmdale Regional Medical Center,Carpal Tunnel Surgery,64721,
 Palmdale Regional Medical Center,"Arthroscopy, Shoulder, with partial acromioplasty",29826,
 Palmdale Regional Medical Center,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,
-Palmdale Regional Medical Center,"Physical Therapy, Therapeutic Exercise",97110,260.850997857707
-Palmdale Regional Medical Center,"Physical Therapy, Gait Training",97116,198.401028277635
-Palmdale Regional Medical Center,"Inhalation Treatment, pressurized or nonpressurized",94640,992.14469335292
-Palmdale Regional Medical Center,"Colonoscopy, with lesion removal, by snare technique",45385,34354.93076923077
+Palmdale Regional Medical Center,"Physical Therapy, Therapeutic Exercise",97110,260.8509979
+Palmdale Regional Medical Center,"Physical Therapy, Gait Training",97116,198.4010283
+Palmdale Regional Medical Center,"Inhalation Treatment, pressurized or nonpressurized",94640,992.1446934
+Palmdale Regional Medical Center,"Colonoscopy, with lesion removal, by snare technique",45385,34354.93077
 Palmdale Regional Medical Center,"Echocardiography, Transthoracic, complete, without Doppler",93307,
 Palmdale Regional Medical Center,"Ultrasound, OB, 14 weeks or more, transabdominal",76805,
 Palmdale Regional Medical Center,"MRI, Brain, without contrast, followed by contrast",70553,
-Palmdale Regional Medical Center,"Emergency Room Visit, Level 3 (moderate severity)",99283,2112.04815460162
-Palmdale Regional Medical Center,"Emergency Room Visit, Level 4 (high severity without signigicant threat)",99284,3899.35933577911
-Palmdale Regional Medical Center,"Emergency Room Visit, Level 4 (high severity with significant threat)",99285,5678.31307678913
+Palmdale Regional Medical Center,"Emergency Room Visit, Level 3 (moderate severity)",99283,2112.048155
+Palmdale Regional Medical Center,"Emergency Room Visit, Level 4 (high severity without signigicant threat)",99284,3899.359336
+Palmdale Regional Medical Center,"Emergency Room Visit, Level 4 (high severity with significant threat)",99285,5678.313077
 Palmdale Regional Medical Center,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62323,
 Palmdale Regional Medical Center,"Outpatient Visit, established patient, 15 minutes",99213,
-Palmdale Regional Medical Center,Basic Metabolic Panel,80048,968.539385847797
+Palmdale Regional Medical Center,Basic Metabolic Panel,80048,968.5393858
 Palmdale Regional Medical Center,"Blood Gas Analysis, including 02 saturation",82805,
 Palmdale Regional Medical Center,"Complete Blood Count, automated",85027,446.5
-Palmdale Regional Medical Center,"Complete Blood Count, with differential WBC, automated",85025,598.554147465438
-Palmdale Regional Medical Center,"Ultrasound, Abdomen, Complete",76700,1767.53020134228
+Palmdale Regional Medical Center,"Complete Blood Count, with differential WBC, automated",85025,598.5541475
+Palmdale Regional Medical Center,"Ultrasound, Abdomen, Complete",76700,1767.530201
 Palmdale Regional Medical Center,Comprehensive Metabolic Panel,80053,
 Palmdale Regional Medical Center,Lipid Panel,80061,
-Palmdale Regional Medical Center,Partial Thromboplastin Time,85730,498.330704859994
-Palmdale Regional Medical Center,Prothrombin Time,85610,494.874560832791
+Palmdale Regional Medical Center,Partial Thromboplastin Time,85730,498.3307049
+Palmdale Regional Medical Center,Prothrombin Time,85610,494.8745608
 Palmdale Regional Medical Center,Thyroid Stimulating Hormone,84443,
 Palmdale Regional Medical Center,"Troponin, Quantitative",84484,
 Palmdale Regional Medical Center,"CT Scan, Abdomen, with contrast",74160,3483
-Palmdale Regional Medical Center,"CT Scan, Head or Brain, without contrast",70450,4735.47017129356
+Palmdale Regional Medical Center,"CT Scan, Head or Brain, without contrast",70450,4735.470171
 Palmdale Regional Medical Center,"CT Scan, Pelvis, with contrast",72193,3697
 Palmdale Regional Medical Center,"Mammography, Screening, Bilateral",77067,
-Palmdale Regional Medical Center,"Creatine Kinase (CK), (CPK), Total",82550,299.799573560768
+Palmdale Regional Medical Center,"Creatine Kinase (CK), (CPK), Total",82550,299.7995736
 Palmdale Regional Medical Center,"Discission, secondary membranous cataract, laser surgery",66821,
 Palmdale Regional Medical Center,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62322,
-Palmdale Regional Medical Center,"Physical Therapy, Evaluation",97163,587.237903225806
-Palmdale Regional Medical Center,"Physical Therapy, Evaluation",97162,587.237903225806
-Palmdale Regional Medical Center,"Physical Therapy, Evaluation",97161,587.237903225806
-Palomar Health Downtown Campus,"Endoscopy, Upper GI, with biopsy",43239,10311.569375000001
+Palmdale Regional Medical Center,"Physical Therapy, Evaluation",97163,587.2379032
+Palmdale Regional Medical Center,"Physical Therapy, Evaluation",97162,587.2379032
+Palmdale Regional Medical Center,"Physical Therapy, Evaluation",97161,587.2379032
+Palomar Health Downtown Campus,"Endoscopy, Upper GI, with biopsy",43239,10311.56938
 Palomar Health Downtown Campus,"Discission, secondary membranous cataract, laser surgery",66821,
 Palomar Health Downtown Campus,"Colonoscopy, with lesion removal, by snare technique",45385,5081.895625
-Palomar Health Downtown Campus,"Colonoscopy, with biopsy",45380,4959.133461538461
-Palomar Health Downtown Campus,"Colonoscopy, diagnostic",45378,4624.63709090909
-Palomar Health Downtown Campus,"Cataract Removal with Insertion of Intraocular Lens, 1 Stage",66984,16355.18860759494
+Palomar Health Downtown Campus,"Colonoscopy, with biopsy",45380,4959.133462
+Palomar Health Downtown Campus,"Colonoscopy, diagnostic",45378,4624.637091
+Palomar Health Downtown Campus,"Cataract Removal with Insertion of Intraocular Lens, 1 Stage",66984,16355.18861
 Palomar Health Downtown Campus,"Arthroscopy, Shoulder, with partial acromioplasty",29826,
 Palomar Health Downtown Campus,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,17195.1
 Palomar Health Downtown Campus,"Physical Therapy, Therapeutic Exercise",97110,226
@@ -9888,10 +9888,10 @@ Palomar Health Downtown Campus,"Echocardiography, Transthoracic, complete, witho
 Palomar Health Downtown Campus,"Cardiac Catheterization, Left Heart, percutaneous ",93452,
 Palomar Health Downtown Campus,"X-Ray, Chest, two views",71046,
 Palomar Health Downtown Campus,"X-Ray, Lower Back, minimum four views",72110,1132
-Palomar Health Downtown Campus,"Endoscopy, Upper GI, diagnostic",43235,16799.767083333332
+Palomar Health Downtown Campus,"Endoscopy, Upper GI, diagnostic",43235,16799.76708
 Palomar Health Downtown Campus,"Excision, Breast Lesion, without preoperative radiological marker",19120,17532.93
 Palomar Health Downtown Campus,Carpal Tunnel Surgery,64721,22626.05
-Palomar Health Downtown Campus,"Injection, Anesthetic or Steroid, transforaminal epidural, lumbar",64483,2642.2285714285713
+Palomar Health Downtown Campus,"Injection, Anesthetic or Steroid, transforaminal epidural, lumbar",64483,2642.228571
 Palomar Health Downtown Campus,Partial Thromboplastin Time,85730,
 Palomar Health Downtown Campus,Lipid Panel,80061,
 Palomar Health Downtown Campus,"Creatine Kinase (CK), (CPK), Total",82550,163
@@ -9907,7 +9907,7 @@ Palomar Health Downtown Campus,"Emergency Room Visit, Level 3 (moderate severity
 Palomar Health Downtown Campus,"Emergency Room Visit, Level 2 (low to moderate severity)",99282,
 Palomar Health Downtown Campus,"Tonsillectomy with Adenoidectomy, less than 12 years old",42820,
 Palomar Health Downtown Campus,"Tympanostomy (insert ventilating  tube, general anesthesia)",69436,
-Palomar Health Downtown Campus,Laparoscopic Cholecystectomy,47562,28792.726666666666
+Palomar Health Downtown Campus,Laparoscopic Cholecystectomy,47562,28792.72667
 Palomar Health Downtown Campus,"Outpatient Visit, established patient, 15 minutes",99213,275
 Palomar Health Downtown Campus,"Ultrasound, Abdomen, Complete",76700,1426
 Palomar Health Downtown Campus,"Mammography, Screening, Bilateral",77067,614
@@ -9916,12 +9916,12 @@ Palomar Health Downtown Campus,"Urinalysis, with microscopy",81000,230
 Palomar Health Downtown Campus,"Urinalysis, with microscopy",81001,230
 Palomar Health Downtown Campus,"Urinalysis, without microscopy",81002,62
 Palomar Health Downtown Campus,"Urinalysis, without microscopy",81003,62
-Palomar Health Downtown Campus,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62323,2546.2798927614067
-Palomar Health Downtown Campus,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62322,2546.2798927614067
+Palomar Health Downtown Campus,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62323,2546.279893
+Palomar Health Downtown Campus,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62322,2546.279893
 Palomar Health Downtown Campus,"Physical Therapy, Evaluation",97162,358
 Palomar Health Downtown Campus,"Physical Therapy, Evaluation",97161,358
-Palomar Health Downtown Campus,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62323,2305.953135313543
-Palomar Health Downtown Campus,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62322,2305.953135313543
+Palomar Health Downtown Campus,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62323,2305.953135
+Palomar Health Downtown Campus,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62322,2305.953135
 Palomar Health Downtown Campus,"Physical Therapy, Evaluation",97163,358
 Palomar Health Downtown Campus,"CT Scan, Pelvis, with contrast",72193,
 Palomar Health Downtown Campus,"CT Scan, Head or Brain, without contrast",70450,
@@ -9931,18 +9931,18 @@ Palomar Health Downtown Campus,Thyroid Stimulating Hormone,84443,
 Palomar Health Downtown Campus,"Creatine Kinase (CK), (CPK), Total",82550,
 Palomar Health Downtown Campus,Comprehensive Metabolic Panel,80053,
 Palomar Health Downtown Campus,"MRI, Brain, without contrast, followed by contrast",70553,
-Palomar Health Downtown Campus,"Hernia Repair, Inguinal, 5 years and older",49505,26451.00351351352
-Palomar Health Downtown Campus,Laparoscopic Cholecystectomy,47562,33106.015849056595
-Palomar Health Downtown Campus,"Injection, Anesthetic or Steroid, transforaminal epidural, lumbar",64483,2644.457142857143
-Palomar Health Downtown Campus,"Hernia Repair, Inguinal, 5 years and older",49505,28436.471891891884
+Palomar Health Downtown Campus,"Hernia Repair, Inguinal, 5 years and older",49505,26451.00351
+Palomar Health Downtown Campus,Laparoscopic Cholecystectomy,47562,33106.01585
+Palomar Health Downtown Campus,"Injection, Anesthetic or Steroid, transforaminal epidural, lumbar",64483,2644.457143
+Palomar Health Downtown Campus,"Hernia Repair, Inguinal, 5 years and older",49505,28436.47189
 Palomar Health Downtown Campus,"Excision, Breast Lesion, without preoperative radiological marker",19120,20329.165
-Palomar Health Downtown Campus,"Endoscopy, Upper GI, with biopsy",43239,15986.051976744184
-Palomar Health Downtown Campus,"Colonoscopy, with lesion removal, by snare technique",45385,8450.423157894737
-Palomar Health Downtown Campus,"Colonoscopy, with biopsy",45380,8137.989999999998
-Palomar Health Downtown Campus,"Colonoscopy, diagnostic",45378,12011.614285714286
+Palomar Health Downtown Campus,"Endoscopy, Upper GI, with biopsy",43239,15986.05198
+Palomar Health Downtown Campus,"Colonoscopy, with lesion removal, by snare technique",45385,8450.423158
+Palomar Health Downtown Campus,"Colonoscopy, with biopsy",45380,8137.99
+Palomar Health Downtown Campus,"Colonoscopy, diagnostic",45378,12011.61429
 Palomar Health Downtown Campus,"Cataract Removal with Insertion of Intraocular Lens, 1 Stage",66984,
-Palomar Health Downtown Campus,Carpal Tunnel Surgery,64721,12376.412666666665
-Palomar Health Downtown Campus,"Endoscopy, Upper GI, diagnostic",43235,25061.44254545454
+Palomar Health Downtown Campus,Carpal Tunnel Surgery,64721,12376.41267
+Palomar Health Downtown Campus,"Endoscopy, Upper GI, diagnostic",43235,25061.44255
 Palomar Health Downtown Campus,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,24208.7
 Palomar Health Downtown Campus,"Mammography, Screening, Bilateral",77067,
 Paradise Valley Hospital,PSYCH GROUP OTHER             ,90853,338
@@ -9994,7 +9994,7 @@ Parkview Community Hospital,"Tonsillectomy with Adenoidectomy, less than 12 year
 Parkview Community Hospital,"Physical Therapy, Evaluation",97163,245.05
 Parkview Community Hospital,"Complete Blood Count, with differential WBC, automated",85025,394.1511765
 Parkview Community Hospital,"Physical Therapy, Evaluation",97162,245.05
-Parkview Community Hospital,"Emergency Room Visit, Level 4 (high severity with significant threat)",99285,10739.921666666669
+Parkview Community Hospital,"Emergency Room Visit, Level 4 (high severity with significant threat)",99285,10739.92167
 Parkview Community Hospital,"Outpatient Visit, established patient, 15 minutes",99213,402.9
 Parkview Community Hospital,Prothrombin Time,85610,480.33
 Parkview Community Hospital,Basic Metabolic Panel,80048,
@@ -10015,9 +10015,9 @@ Parkview Community Hospital,"Mammography, Screening, Bilateral",77067,476.521499
 Parkview Community Hospital,"MRI, Head or Brain, without contrast, followed by contrast",70553,8222.615455
 Parkview Community Hospital,"Ultrasound, Abdomen, Complete",76700,1426.405495
 Parkview Community Hospital,"Ultrasound, OB, 14 weeks or more, transabdominal",76805,1572.236667
-Parkview Community Hospital,"Emergency Room Visit, Level 2 (low to moderate severity)",99282,1876.1663003180113
-Parkview Community Hospital,"Emergency Room Visit, Level 3 (moderate severity)",99283,4173.368071872865
-Parkview Community Hospital,"Emergency Room Visit, Level 4 (high severity without signigicant threat)",99284,7637.50237590925
+Parkview Community Hospital,"Emergency Room Visit, Level 2 (low to moderate severity)",99282,1876.1663
+Parkview Community Hospital,"Emergency Room Visit, Level 3 (moderate severity)",99283,4173.368072
+Parkview Community Hospital,"Emergency Room Visit, Level 4 (high severity without signigicant threat)",99284,7637.502376
 Parkview Community Hospital,"Urinalysis, with microscopy",81000,
 Parkview Community Hospital,"X-Ray, Lower Back, four views",72110,1367.60373
 Parkview Community Hospital,"X-Ray, Chest, two views",71046,662.9455982
@@ -10150,7 +10150,7 @@ Petaluma Valley Hospital,"Creatine Kinase (CK), (CPK), Total",82550,64.5
 Petaluma Valley Hospital,Comprehensive Metabolic Panel,80053,101
 Pioneers Memorial Hospital,"CT Scan, Head or Brain, without contrast",70450,2421.09
 Pioneers Memorial Hospital,"CT Scan, Abdomen, with contrast",74160,3317.79
-Pioneers Memorial Hospital,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,12011.558437499998
+Pioneers Memorial Hospital,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,12011.55844
 Pioneers Memorial Hospital,"Physical Therapy, Therapeutic Exercise",97110,203.7
 Pioneers Memorial Hospital,"Physical Therapy, Gait Training",97116,147
 Pioneers Memorial Hospital,"CT Scan, Pelvis, with contrast",72193,772.5
@@ -10169,26 +10169,26 @@ Pioneers Memorial Hospital,"MRI, Brain, without contrast, followed by contrast",
 Pioneers Memorial Hospital,"Introduction of needle and/or catheter AV shunt created for dialysis, initial",36901,19291
 Pioneers Memorial Hospital,"Ultrasound, OB, 14 weeks or more, transabdominal",76805,395.43
 Pioneers Memorial Hospital,"Complete Blood Count, automated",85027,80.33
-Pioneers Memorial Hospital,"Endoscopy, Upper GI, with biopsy",43239,8502.491960784311
+Pioneers Memorial Hospital,"Endoscopy, Upper GI, with biopsy",43239,8502.491961
 Pioneers Memorial Hospital,"Discission, secondary membranous cataract, laser surgery",66821,
 Pioneers Memorial Hospital,"Colonoscopy, with lesion removal, by snare technique",45385,8872.539
-Pioneers Memorial Hospital,"Colonoscopy, with biopsy",45380,9148.904683544304
-Pioneers Memorial Hospital,"Colonoscopy, diagnostic",45378,7567.72762589928
-Pioneers Memorial Hospital,"Cataract Removal with Insertion of Intraocular Lens, 1 Stage",66984,10173.621764705882
-Pioneers Memorial Hospital,Carpal Tunnel Surgery,64721,8547.29380952381
-Pioneers Memorial Hospital,"Endoscopy, Upper GI, diagnostic",43235,7949.110550458716
+Pioneers Memorial Hospital,"Colonoscopy, with biopsy",45380,9148.904684
+Pioneers Memorial Hospital,"Colonoscopy, diagnostic",45378,7567.727626
+Pioneers Memorial Hospital,"Cataract Removal with Insertion of Intraocular Lens, 1 Stage",66984,10173.62176
+Pioneers Memorial Hospital,Carpal Tunnel Surgery,64721,8547.29381
+Pioneers Memorial Hospital,"Endoscopy, Upper GI, diagnostic",43235,7949.11055
 Pioneers Memorial Hospital,"Ultrasound, Abdomen, Complete",76700,395.43
 Pioneers Memorial Hospital,"Excision, Breast Lesion, without preoperative radiological marker",19120,12006.213
-Pioneers Memorial Hospital,"Injection, Anesthetic or Steroid, transforaminal epidural, lumbar",64483,5299.338062015506
-Pioneers Memorial Hospital,Laparoscopic Cholecystectomy,47562,17359.76165644172
+Pioneers Memorial Hospital,"Injection, Anesthetic or Steroid, transforaminal epidural, lumbar",64483,5299.338062
+Pioneers Memorial Hospital,Laparoscopic Cholecystectomy,47562,17359.76166
 Pioneers Memorial Hospital,"Tympanostomy (insert ventilating  tube, general anesthesia)",69436,
 Pioneers Memorial Hospital,"Tonsillectomy with Adenoidectomy, less than 12 years old",42820,
 Pioneers Memorial Hospital,"Transluminal Balloon angioplasty, percutaneous venous",36907,17866.625
-Pioneers Memorial Hospital,Hysteroscopy w/endometrial bx or polypectomy w/wo D&C,58558,12800.16876923077
+Pioneers Memorial Hospital,Hysteroscopy w/endometrial bx or polypectomy w/wo D&C,58558,12800.16877
 Pioneers Memorial Hospital,"Cardiac Catheterization, Left Heart, percutaneous ",93452,
 Pioneers Memorial Hospital,"X-Ray, Chest, two views",71046,103.08
 Pioneers Memorial Hospital,"X-Ray, Lower Back, minimum four views",72110,746.76
-Pioneers Memorial Hospital,"Hernia Repair, Inguinal, 5 years and older",49505,17516.099615384617
+Pioneers Memorial Hospital,"Hernia Repair, Inguinal, 5 years and older",49505,17516.09962
 Pioneers Memorial Hospital,"Blood Gas Analysis, including 02 saturation",82805,
 Pioneers Memorial Hospital,"Echocardiography, Transthoracic, complete, without Doppler",93307,1340.28
 Pioneers Memorial Hospital,"Outpatient Visit, established patient, 15 minutes",99213,364
@@ -10202,11 +10202,11 @@ Pioneers Memorial Hospital,"Electrocardiogram, routine, with interpretation and 
 Pioneers Memorial Hospital,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62322,$2617.50 - $2759.70
 Pioneers Memorial Hospital,"Urinalysis, without microscopy",81003,$31.50/$16.28
 Pioneers Memorial Hospital,"Urinalysis, without microscopy",81002,$31.50/$16.28
-Pioneers Memorial Hospital,"Emergency Room Visit, Level 2 (low to moderate severity)",99282,589.8817302889768
-Pioneers Memorial Hospital,"Emergency Room Visit, Level 3 (moderate severity)",99283,1691.133133206457
-Pioneers Memorial Hospital,"Emergency Room Visit, Level 4 (high severity without signigicant threat)",99284,4449.011176524799
+Pioneers Memorial Hospital,"Emergency Room Visit, Level 2 (low to moderate severity)",99282,589.8817303
+Pioneers Memorial Hospital,"Emergency Room Visit, Level 3 (moderate severity)",99283,1691.133133
+Pioneers Memorial Hospital,"Emergency Room Visit, Level 4 (high severity without signigicant threat)",99284,4449.011177
 Pioneers Memorial Hospital,"Urinalysis, with microscopy",81000,39.38
-Pioneers Memorial Hospital,"Emergency Room Visit, Level 4 (high severity with significant threat)",99285,8079.631573288051
+Pioneers Memorial Hospital,"Emergency Room Visit, Level 4 (high severity with significant threat)",99285,8079.631573
 Placentia-Linda Community Hospital,"Physical Therapy, Therapeutic Exercise",97110,159
 Placentia-Linda Community Hospital,"Physical Therapy, Gait Training",97116,176
 Placentia-Linda Community Hospital,"Inhalation Treatment, pressurized or nonpressurized",94640,380
@@ -10724,10 +10724,10 @@ Queen of the Valley - Napa,"Electrocardiogram, routine, with interpretation and 
 Queen of the Valley - Napa,"CT Scan, Head or Brain, without contrast",70450,1613
 Queen of the Valley - Napa,"CT Scan, Abdomen, with contrast",74160,2550
 Queen of the Valley - Napa,"Troponin, Quantitative",84484,272.8
-Queen of the Valley - Napa,Thyroid Stimulating Hormone,84443,240.30000000000004
-Queen of the Valley - Napa,Prothrombin Time,85610,60.300000000000004
+Queen of the Valley - Napa,Thyroid Stimulating Hormone,84443,240.3
+Queen of the Valley - Napa,Prothrombin Time,85610,60.3
 Queen of the Valley - Napa,Partial Thromboplastin Time,85730,92
-Queen of the Valley - Napa,"Creatine Kinase (CK), (CPK), Total",82550,93.70000000000002
+Queen of the Valley - Napa,"Creatine Kinase (CK), (CPK), Total",82550,93.7
 Queen of the Valley - Napa,"CT Scan, Pelvis, with contrast",72193,2547
 Queen of the Valley - Napa,"Inhalation Treatment, pressurized or nonpressurized",94640,
 Queen of the Valley - Napa,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,
@@ -10905,7 +10905,7 @@ Redwood Memorial Hospital,"Hernia Repair, Inguinal, 5 years and older",49505,
 Redwood Memorial Hospital,"Injection, Anesthetic or Steroid, transforaminal epidural, lumbar",64483,
 Redwood Memorial Hospital,Laparoscopic Cholecystectomy,47562,
 Redwood Memorial Hospital,"Tympanostomy (insert ventilating  tube, general anesthesia)",69436,
-Redwood Memorial Hospital,"Complete Blood Count, automated",85027,78.29999999999998
+Redwood Memorial Hospital,"Complete Blood Count, automated",85027,78.3
 Redwood Memorial Hospital,"Tonsillectomy with Adenoidectomy, less than 12 years old",42820,
 Redwood Memorial Hospital,"Electrocardiogram, routine, with interpretation and report",93000,
 Redwood Memorial Hospital,"Echocardiography, Transthoracic, complete",93307,
@@ -10919,7 +10919,7 @@ Redwood Memorial Hospital,Comprehensive Metabolic Panel,80053,128
 Redwood Memorial Hospital,"Inhalation Treatment, pressurized or nonpressurized",94640,
 Redwood Memorial Hospital,"Troponin, Quantitative",84484,217
 Redwood Memorial Hospital,"Physical Therapy, Therapeutic Exercise",97110,
-Redwood Memorial Hospital,"Outpatient Visit, established patient, 15 minutes",99213,532.1666666666666
+Redwood Memorial Hospital,"Outpatient Visit, established patient, 15 minutes",99213,532.1666667
 Redwood Memorial Hospital,"Physical Therapy, Evaluation",97161,
 Redwood Memorial Hospital,"Physical Therapy, Evaluation",97162,
 Redwood Memorial Hospital,"Physical Therapy, Evaluation",97163,
@@ -11789,7 +11789,7 @@ Santa Rosa Memorial Hospital,Prothrombin Time,85610,38
 Santa Rosa Memorial Hospital,Thyroid Stimulating Hormone,84443,172
 Santa Rosa Memorial Hospital,"Urinalysis, with microscopy",81001,29.5
 Santa Rosa Memorial Hospital,"Urinalysis, with microscopy",81000,29.5
-Santa Rosa Memorial Hospital,"Urinalysis, without microscopy",81003,23.650000000000002
+Santa Rosa Memorial Hospital,"Urinalysis, without microscopy",81003,23.65
 Santa Rosa Memorial Hospital,"Troponin, Quantitative",84484,195
 Santa Rosa Memorial Hospital,"Physical Therapy, Evaluation",97161,
 Santa Rosa Memorial Hospital,"Physical Therapy, Evaluation",97162,
@@ -11798,13 +11798,13 @@ Santa Rosa Memorial Hospital,"Injection, Diagnostic or Therapeutic substance, ep
 Santa Rosa Memorial Hospital,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62323,
 Santa Rosa Memorial Hospital,"Emergency Room Visit, Level 2 (low to moderate severity)",99282,1506
 Santa Rosa Memorial Hospital,"Emergency Room Visit, Level 3 (moderate severity)",99283,2473
-Santa Rosa Memorial Hospital,"Urinalysis, without microscopy",81002,23.650000000000002
+Santa Rosa Memorial Hospital,"Urinalysis, without microscopy",81002,23.65
 Santa Rosa Memorial Hospital,"Outpatient Visit, established patient, 15 minutes",99213,159
 Santa Rosa Memorial Hospital,"Emergency Room Visit, Level 4 (high severity)",99284,4189
 Santa Rosa Memorial Hospital,Partial Thromboplastin Time,85730,58
 Santa Rosa Memorial Hospital,Lipid Panel,80061,129.2
 Santa Rosa Memorial Hospital,"Creatine Kinase (CK), (CPK), Total",82550,67
-Santa Rosa Memorial Hospital,"Complete Blood Count, with differential WBC, automated",85025,94.89999999999999
+Santa Rosa Memorial Hospital,"Complete Blood Count, with differential WBC, automated",85025,94.9
 Santa Rosa Memorial Hospital,"Complete Blood Count, automated",85027,62.4
 Santa Rosa Memorial Hospital,Comprehensive Metabolic Panel,80053,100.9
 Santa Rosa Memorial Hospital,Basic Metabolic Panel,80048,81.7
@@ -13151,15 +13151,15 @@ Southwest Healthcare System - Murrieta,"Colonoscopy, with biopsy",45380,
 Southwest Healthcare System - Murrieta,"Colonoscopy, diagnostic",45378,10732.75
 Southwest Healthcare System - Murrieta,"Colonoscopy, with lesion removal, by snare technique",45385,
 Southwest Healthcare System - Murrieta,"Cataract Removal with Insertion of Intraocular Lens, 1 Stage",66984,
-Southwest Healthcare System - Murrieta,Carpal Tunnel Surgery,64721,11704.833333333334
+Southwest Healthcare System - Murrieta,Carpal Tunnel Surgery,64721,11704.83333
 Southwest Healthcare System - Murrieta,"Physical Therapy, Therapeutic Exercise",97110,
-Southwest Healthcare System - Murrieta,"Physical Therapy, Gait Training",97116,127.191146881288
+Southwest Healthcare System - Murrieta,"Physical Therapy, Gait Training",97116,127.1911469
 Southwest Healthcare System - Murrieta,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,
 Southwest Healthcare System - Murrieta,"Arthroscopy, Shoulder, with partial acromioplasty",29826,
 Southwest Healthcare System - Murrieta,"Discission, secondary membranous cataract, laser surgery",66821,
-Southwest Healthcare System - Murrieta,"Inhalation Treatment, pressurized or nonpressurized",94640,522.546511627907
-Southwest Healthcare System - Murrieta,"Endoscopy, Upper GI, with biopsy",43239,10737.655405405405
-Southwest Healthcare System - Murrieta,"Emergency Room Visit, Level 3 (moderate severity)",99283,1937.39152291769
+Southwest Healthcare System - Murrieta,"Inhalation Treatment, pressurized or nonpressurized",94640,522.5465116
+Southwest Healthcare System - Murrieta,"Endoscopy, Upper GI, with biopsy",43239,10737.65541
+Southwest Healthcare System - Murrieta,"Emergency Room Visit, Level 3 (moderate severity)",99283,1937.391523
 Southwest Healthcare System - Murrieta,"Excision, Breast Lesion, without preoperative radiological marker",19120,19214
 Southwest Healthcare System - Murrieta,"Hernia Repair, Inguinal, 5 years and older",49505,
 Southwest Healthcare System - Murrieta,"Injection, Anesthetic or Steroid, transforaminal epidural, lumbar",64483,
@@ -13169,38 +13169,38 @@ Southwest Healthcare System - Murrieta,"Tonsillectomy with Adenoidectomy, less t
 Southwest Healthcare System - Murrieta,"Electrocardiogram, routine, with interpretation and report",93000,
 Southwest Healthcare System - Murrieta,"Urinalysis, without microscopy",81002,30
 Southwest Healthcare System - Murrieta,"Urinalysis, without microscopy",81003,30
-Southwest Healthcare System - Murrieta,"Urinalysis, with microscopy",81000,177.28475858057
-Southwest Healthcare System - Murrieta,"Urinalysis, with microscopy",81001,177.28475858057
+Southwest Healthcare System - Murrieta,"Urinalysis, with microscopy",81000,177.2847586
+Southwest Healthcare System - Murrieta,"Urinalysis, with microscopy",81001,177.2847586
 Southwest Healthcare System - Murrieta,"Endoscopy, Upper GI, diagnostic",43235,
-Southwest Healthcare System - Murrieta,"Echocardiography, Transthoracic, complete, without Doppler",93307,2085.86666666667
+Southwest Healthcare System - Murrieta,"Echocardiography, Transthoracic, complete, without Doppler",93307,2085.866667
 Southwest Healthcare System - Murrieta,"MRI, Brain, without contrast, followed by contrast",70553,
-Southwest Healthcare System - Murrieta,"X-Ray, Chest, two views",71046,697.099361249113
-Southwest Healthcare System - Murrieta,"Emergency Room Visit, Level 2 (low to moderate severity)",99282,1541.00785634119
-Southwest Healthcare System - Murrieta,"Emergency Room Visit, Level 4 (high severity without signigicant threat)",99284,4013.69731149567
+Southwest Healthcare System - Murrieta,"X-Ray, Chest, two views",71046,697.0993612
+Southwest Healthcare System - Murrieta,"Emergency Room Visit, Level 2 (low to moderate severity)",99282,1541.007856
+Southwest Healthcare System - Murrieta,"Emergency Room Visit, Level 4 (high severity without signigicant threat)",99284,4013.697311
 Southwest Healthcare System - Murrieta,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62323,6821.55
 Southwest Healthcare System - Murrieta,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62322,6821.55
 Southwest Healthcare System - Murrieta,"Cardiac Catheterization, Left Heart, percutaneous ",93452,
-Southwest Healthcare System - Murrieta,"Physical Therapy, Evaluation",97162,278.702786377709
-Southwest Healthcare System - Murrieta,"Physical Therapy, Evaluation",97161,278.702786377709
-Southwest Healthcare System - Murrieta,"Emergency Room Visit, Level 4 (high severity with significant threat)",99285,4591.42421790723
+Southwest Healthcare System - Murrieta,"Physical Therapy, Evaluation",97162,278.7027864
+Southwest Healthcare System - Murrieta,"Physical Therapy, Evaluation",97161,278.7027864
+Southwest Healthcare System - Murrieta,"Emergency Room Visit, Level 4 (high severity with significant threat)",99285,4591.424218
 Southwest Healthcare System - Murrieta,"Outpatient Visit, established patient, 15 minutes",99213,
-Southwest Healthcare System - Murrieta,Basic Metabolic Panel,80048,112.6273556231
+Southwest Healthcare System - Murrieta,Basic Metabolic Panel,80048,112.6273556
 Southwest Healthcare System - Murrieta,"Blood Gas Analysis, including 02 saturation",82805,
-Southwest Healthcare System - Murrieta,"Complete Blood Count, automated",85027,131.980494905386
+Southwest Healthcare System - Murrieta,"Complete Blood Count, automated",85027,131.9804949
 Southwest Healthcare System - Murrieta,"Complete Blood Count, with differential WBC, automated",85025,
 Southwest Healthcare System - Murrieta,Comprehensive Metabolic Panel,80053,
-Southwest Healthcare System - Murrieta,"Physical Therapy, Evaluation",97163,278.702786377709
+Southwest Healthcare System - Murrieta,"Physical Therapy, Evaluation",97163,278.7027864
 Southwest Healthcare System - Murrieta,Lipid Panel,80061,
 Southwest Healthcare System - Murrieta,"X-Ray, Lower Back, minimum four views",72110,861
 Southwest Healthcare System - Murrieta,"Creatine Kinase (CK), (CPK), Total",82550,
-Southwest Healthcare System - Murrieta,"Ultrasound, Abdomen, Complete",76700,1892.26229508197
-Southwest Healthcare System - Murrieta,"Mammography, Screening, Bilateral",77067,1562.08292682927
+Southwest Healthcare System - Murrieta,"Ultrasound, Abdomen, Complete",76700,1892.262295
+Southwest Healthcare System - Murrieta,"Mammography, Screening, Bilateral",77067,1562.082927
 Southwest Healthcare System - Murrieta,"CT Scan, Pelvis, with contrast",72193,3697
-Southwest Healthcare System - Murrieta,"Ultrasound, OB, 14 weeks or more, transabdominal",76805,1473.77049180328
+Southwest Healthcare System - Murrieta,"Ultrasound, OB, 14 weeks or more, transabdominal",76805,1473.770492
 Southwest Healthcare System - Murrieta,"CT Scan, Abdomen, with contrast",74160,
 Southwest Healthcare System - Murrieta,"Troponin, Quantitative",84484,
 Southwest Healthcare System - Murrieta,Thyroid Stimulating Hormone,84443,
-Southwest Healthcare System - Murrieta,Prothrombin Time,85610,115.435388739946
+Southwest Healthcare System - Murrieta,Prothrombin Time,85610,115.4353887
 Southwest Healthcare System - Murrieta,Partial Thromboplastin Time,85730,
 Southwest Healthcare System - Murrieta,"CT Scan, Head or Brain, without contrast",70450,
 St Agnes Medical Center,"Arthroscopy, Shoulder, with partial acromioplasty",29826,
@@ -13624,7 +13624,7 @@ St Joseph Hospital - Eureka,"Cardiac Catheterization, Left Heart, percutaneous "
 St Joseph Hospital - Eureka,"Emergency Room Visit, Level 2 (low to moderate severity)",99282,1218
 St Joseph Hospital - Eureka,"Emergency Room Visit, Level 3 (moderate severity)",99283,2274
 St Joseph Hospital - Eureka,"Emergency Room Visit, Level 4 (high severity)",99284,3312
-St Joseph Hospital - Eureka,"Outpatient Visit, established patient, 15 minutes",99213,597.6666666666666
+St Joseph Hospital - Eureka,"Outpatient Visit, established patient, 15 minutes",99213,597.6666667
 St Joseph Hospital - Eureka,Basic Metabolic Panel,80048,102.4
 St Joseph Hospital - Eureka,"Blood Gas Analysis, including 02 saturation",82805,322
 St Joseph Hospital - Eureka,"Urinalysis, without microscopy",81002,28
@@ -13649,7 +13649,7 @@ St Joseph Hospital - Eureka,Lipid Panel,80061,162
 St Joseph Hospital - Eureka,"Ultrasound, OB, 14 weeks or more, transabdominal",76805,724
 St Joseph Hospital - Eureka,"Troponin, Quantitative",84484,218
 St Joseph Hospital - Eureka,Thyroid Stimulating Hormone,84443,192
-St Joseph Hospital - Eureka,Prothrombin Time,85610,47.599999999999994
+St Joseph Hospital - Eureka,Prothrombin Time,85610,47.6
 St Joseph Hospital - Orange,Laparoscopic Cholecystectomy,47562,40853.71
 St Joseph Hospital - Orange,"Injection, Anesthetic or Steroid, transforaminal epidural, lumbar",64483,3986
 St Joseph Hospital - Orange,"Hernia Repair, Inguinal, 5 years and older",49505,20650.19
@@ -13686,7 +13686,7 @@ St Joseph Hospital - Orange,"Emergency Room Visit, Level 2 (low to moderate seve
 St Joseph Hospital - Orange,"Emergency Room Visit, Level 3 (moderate severity)",99283,1408
 St Joseph Hospital - Orange,"Emergency Room Visit, Level 4 (high severity)",99284,2389
 St Joseph Hospital - Orange,"Colonoscopy, with biopsy",45380,16276.33
-St Joseph Hospital - Orange,"Outpatient Visit, established patient, 15 minutes",99213,559.5555555555555
+St Joseph Hospital - Orange,"Outpatient Visit, established patient, 15 minutes",99213,559.5555556
 St Joseph Hospital - Orange,"Blood Gas Analysis, including 02 saturation",82805,592
 St Joseph Hospital - Orange,"Complete Blood Count, automated",85027,172
 St Joseph Hospital - Orange,"Complete Blood Count, with differential WBC, automated",85025,250
@@ -13696,15 +13696,15 @@ St Joseph Hospital - Orange,Lipid Panel,80061,281
 St Joseph Hospital - Orange,Basic Metabolic Panel,80048,414
 St Joseph Hospital - Orange,"Colonoscopy, diagnostic",45378,12099.42
 St Joseph Hospital - Orange,"CT Scan, Head or Brain, without contrast",70450,3341
-St Joseph Hospital - Orange,"Physical Therapy, Evaluation",97162,281.3333333333333
-St Joseph Hospital - Orange,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62322,1821.7142857142858
-St Joseph Hospital - Orange,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62323,1821.7142857142858
-St Joseph Hospital - Orange,"Physical Therapy, Evaluation",97163,281.3333333333333
+St Joseph Hospital - Orange,"Physical Therapy, Evaluation",97162,281.3333333
+St Joseph Hospital - Orange,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62322,1821.714286
+St Joseph Hospital - Orange,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62323,1821.714286
+St Joseph Hospital - Orange,"Physical Therapy, Evaluation",97163,281.3333333
 St Joseph Hospital - Orange,"Urinalysis, without microscopy",81002,112.5
 St Joseph Hospital - Orange,"Urinalysis, without microscopy",81003,112.5
 St Joseph Hospital - Orange,"Urinalysis, with microscopy",81000,208
 St Joseph Hospital - Orange,"Urinalysis, with microscopy",81001,208
-St Joseph Hospital - Orange,"Physical Therapy, Evaluation",97161,281.3333333333333
+St Joseph Hospital - Orange,"Physical Therapy, Evaluation",97161,281.3333333
 St Joseph Medical Center - Stockton,"Cataract Removal with Insertion of Intraocular Lens, 1 Stage",66984,
 St Joseph Medical Center - Stockton,Carpal Tunnel Surgery,64721,
 St Joseph Medical Center - Stockton,"Arthroscopy, Shoulder, with partial acromioplasty",29826,
@@ -13830,7 +13830,7 @@ St Jude Medical Center,"Cataract Removal with Insertion of Intraocular Lens, 1 S
 St Jude Medical Center,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,14269.51
 St Jude Medical Center,"Electrocardiogram, routine, with interpretation and report",93000,
 St Jude Medical Center,"Physical Therapy, Gait Training",97116,149
-St Jude Medical Center,"Inhalation Treatment, pressurized or nonpressurized",94640,189.69230769230768
+St Jude Medical Center,"Inhalation Treatment, pressurized or nonpressurized",94640,189.6923077
 St Jude Medical Center,"Colonoscopy, with biopsy",45380,7542.08
 St Jude Medical Center,"Echocardiography, Transthoracic, complete",93307,1449
 St Jude Medical Center,"Physical Therapy, Therapeutic Exercise",97110,149
@@ -13846,8 +13846,8 @@ St Jude Medical Center,"Cardiac Catheterization, Left Heart, percutaneous ",9345
 St Jude Medical Center,"Tonsillectomy with Adenoidectomy, less than 12 years old",42820,9668.3
 St Jude Medical Center,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62323,2366
 St Jude Medical Center,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62322,2366
-St Jude Medical Center,"Physical Therapy, Evaluation",97162,412.6666666666667
-St Jude Medical Center,"Physical Therapy, Evaluation",97161,412.6666666666667
+St Jude Medical Center,"Physical Therapy, Evaluation",97162,412.6666667
+St Jude Medical Center,"Physical Therapy, Evaluation",97161,412.6666667
 St Jude Medical Center,"Discission, secondary membranous cataract, laser surgery",66821,3307.44
 St Jude Medical Center,"X-Ray, Chest, two views",71046,290
 St Jude Medical Center,Carpal Tunnel Surgery,64721,7152.75
@@ -13865,7 +13865,7 @@ St Jude Medical Center,Basic Metabolic Panel,80048,155
 St Jude Medical Center,"Blood Gas Analysis, including 02 saturation",82805,531
 St Jude Medical Center,"Complete Blood Count, automated",85027,114
 St Jude Medical Center,"Complete Blood Count, with differential WBC, automated",85025,203
-St Jude Medical Center,"Physical Therapy, Evaluation",97163,412.6666666666667
+St Jude Medical Center,"Physical Therapy, Evaluation",97163,412.6666667
 St Jude Medical Center,"Creatine Kinase (CK), (CPK), Total",82550,113
 St Jude Medical Center,Comprehensive Metabolic Panel,80053,268
 St Jude Medical Center,"MRI, Head or Brain, without contrast, followed by contrast",70553,4836.5
@@ -13891,7 +13891,7 @@ St Mary Medical Center - Apple Valley,"Physical Therapy, Therapeutic Exercise",9
 St Mary Medical Center - Apple Valley,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,25145.7
 St Mary Medical Center - Apple Valley,"Arthroscopy, Shoulder, with partial acromioplasty",29826,66171.39
 St Mary Medical Center - Apple Valley,"X-Ray, Chest, two views",71046,726
-St Mary Medical Center - Apple Valley,"Inhalation Treatment, pressurized or nonpressurized",94640,570.2307692307693
+St Mary Medical Center - Apple Valley,"Inhalation Treatment, pressurized or nonpressurized",94640,570.2307692
 St Mary Medical Center - Apple Valley,"CT Scan, Abdomen, with contrast",74160,3409
 St Mary Medical Center - Apple Valley,"Mammography, Screening, Bilateral",77067,883
 St Mary Medical Center - Apple Valley,"Emergency Room Visit, Level 2 (low to moderate severity)",99282,1377
@@ -15016,26 +15016,26 @@ Tahoe Forest Hospital,"Urinalysis, without microscopy",81003,39
 Tahoe Forest Hospital,"Urinalysis, with microscopy",81001,47
 Tahoe Forest Hospital,"Urinalysis, with microscopy",81000,47
 Temecula Valley Hospital,"Creatine Kinase (CK), (CPK), Total",82550,
-Temecula Valley Hospital,Comprehensive Metabolic Panel,80053,185.358788676761
+Temecula Valley Hospital,Comprehensive Metabolic Panel,80053,185.3587887
 Temecula Valley Hospital,"Complete Blood Count, with differential WBC, automated",85025,
-Temecula Valley Hospital,"Complete Blood Count, automated",85027,132.796061884669
+Temecula Valley Hospital,"Complete Blood Count, automated",85027,132.7960619
 Temecula Valley Hospital,"Blood Gas Analysis, including 02 saturation",82805,
-Temecula Valley Hospital,Basic Metabolic Panel,80048,155.92018469657
+Temecula Valley Hospital,Basic Metabolic Panel,80048,155.9201847
 Temecula Valley Hospital,"Outpatient Visit, established patient, 15 minutes",99213,
-Temecula Valley Hospital,"Emergency Room Visit, Level 4 (high severity with significant threat)",99285,4994.20596904937
+Temecula Valley Hospital,"Emergency Room Visit, Level 4 (high severity with significant threat)",99285,4994.205969
 Temecula Valley Hospital,"Emergency Room Visit, Level 4 (high severity without signigicant threat)",99284,
-Temecula Valley Hospital,"Tympanostomy (insert ventilating  tube, general anesthesia)",69436,17966.666666666668
+Temecula Valley Hospital,"Tympanostomy (insert ventilating  tube, general anesthesia)",69436,17966.66667
 Temecula Valley Hospital,"Tonsillectomy with Adenoidectomy, less than 12 years old",42820,
 Temecula Valley Hospital,"Injection, Anesthetic or Steroid, transforaminal epidural, lumbar",64483,
 Temecula Valley Hospital,"Excision, Breast Lesion, without preoperative radiological marker",19120,13830
-Temecula Valley Hospital,"Physical Therapy, Evaluation",97161,276.936802973978
-Temecula Valley Hospital,"Physical Therapy, Evaluation",97162,276.936802973978
-Temecula Valley Hospital,"Physical Therapy, Evaluation",97163,276.936802973978
+Temecula Valley Hospital,"Physical Therapy, Evaluation",97161,276.936803
+Temecula Valley Hospital,"Physical Therapy, Evaluation",97162,276.936803
+Temecula Valley Hospital,"Physical Therapy, Evaluation",97163,276.936803
 Temecula Valley Hospital,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62322,
 Temecula Valley Hospital,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62323,
-Temecula Valley Hospital,Laparoscopic Cholecystectomy,47562,18837.242857142857
-Temecula Valley Hospital,"Emergency Room Visit, Level 3 (moderate severity)",99283,2124.60267515924
-Temecula Valley Hospital,"Emergency Room Visit, Level 2 (low to moderate severity)",99282,1507.13608748481
+Temecula Valley Hospital,Laparoscopic Cholecystectomy,47562,18837.24286
+Temecula Valley Hospital,"Emergency Room Visit, Level 3 (moderate severity)",99283,2124.602675
+Temecula Valley Hospital,"Emergency Room Visit, Level 2 (low to moderate severity)",99282,1507.136087
 Temecula Valley Hospital,Lipid Panel,80061,146.96875
 Temecula Valley Hospital,Thyroid Stimulating Hormone,84443,
 Temecula Valley Hospital,"Endoscopy, Upper GI, diagnostic",43235,10324.5
@@ -15045,16 +15045,16 @@ Temecula Valley Hospital,"Colonoscopy, with lesion removal, by snare technique",
 Temecula Valley Hospital,"Colonoscopy, with biopsy",45380,
 Temecula Valley Hospital,"Colonoscopy, diagnostic",45378,5146.5
 Temecula Valley Hospital,"Cataract Removal with Insertion of Intraocular Lens, 1 Stage",66984,
-Temecula Valley Hospital,Carpal Tunnel Surgery,64721,10910.166666666666
+Temecula Valley Hospital,Carpal Tunnel Surgery,64721,10910.16667
 Temecula Valley Hospital,"Arthroscopy, Shoulder, with partial acromioplasty",29826,
 Temecula Valley Hospital,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,
-Temecula Valley Hospital,"Physical Therapy, Therapeutic Exercise",97110,170.272727272727
-Temecula Valley Hospital,"Physical Therapy, Gait Training",97116,126.763358778626
-Temecula Valley Hospital,Prothrombin Time,85610,91.6177339901478
+Temecula Valley Hospital,"Physical Therapy, Therapeutic Exercise",97110,170.2727273
+Temecula Valley Hospital,"Physical Therapy, Gait Training",97116,126.7633588
+Temecula Valley Hospital,Prothrombin Time,85610,91.61773399
 Temecula Valley Hospital,"Inhalation Treatment, pressurized or nonpressurized",94640,
 Temecula Valley Hospital,"Echocardiography, Transthoracic, complete, without Doppler",93307,2192
 Temecula Valley Hospital,"Cardiac Catheterization, Left Heart, percutaneous ",93452,
-Temecula Valley Hospital,"X-Ray, Chest, two views",71046,696.237682728749
+Temecula Valley Hospital,"X-Ray, Chest, two views",71046,696.2376827
 Temecula Valley Hospital,"X-Ray, Lower Back, minimum four views",72110,881
 Temecula Valley Hospital,"Ultrasound, OB, 14 weeks or more, transabdominal",76805,
 Temecula Valley Hospital,"Ultrasound, Abdomen, Complete",76700,1726
@@ -15065,61 +15065,61 @@ Temecula Valley Hospital,"CT Scan, Head or Brain, without contrast",70450,
 Temecula Valley Hospital,"CT Scan, Abdomen, with contrast",74160,
 Temecula Valley Hospital,"Troponin, Quantitative",84484,
 Temecula Valley Hospital,"Electrocardiogram, routine, with interpretation and report",93000,
-Temecula Valley Hospital,Partial Thromboplastin Time,85730,174.944029850746
+Temecula Valley Hospital,Partial Thromboplastin Time,85730,174.9440299
 Temecula Valley Hospital,"Hernia Repair, Inguinal, 5 years and older",49505,
-Temecula Valley Hospital,"Urinalysis, with microscopy",81000,208.207369942197
-Temecula Valley Hospital,"Urinalysis, with microscopy",81001,208.207369942197
-Temecula Valley Hospital,"Urinalysis, without microscopy",81003,33.2857142857143
-Temecula Valley Hospital,"Urinalysis, without microscopy",81002,33.2857142857143
-Torrance Memorial Medical Center,"CT Scan, Pelvis, with contrast",72193,5633.0
-Torrance Memorial Medical Center,"X-Ray, Lower Back, four views",72110,833.0
+Temecula Valley Hospital,"Urinalysis, with microscopy",81000,208.2073699
+Temecula Valley Hospital,"Urinalysis, with microscopy",81001,208.2073699
+Temecula Valley Hospital,"Urinalysis, without microscopy",81003,33.28571429
+Temecula Valley Hospital,"Urinalysis, without microscopy",81002,33.28571429
+Torrance Memorial Medical Center,"CT Scan, Pelvis, with contrast",72193,5633
+Torrance Memorial Medical Center,"X-Ray, Lower Back, four views",72110,833
 Torrance Memorial Medical Center,"X-Ray, Chest, two views",71020,
-Torrance Memorial Medical Center,"MRI, Head or Brain, without contrast, followed by contrast",70553,10277.0
-Torrance Memorial Medical Center,"CT Scan, Head or Brain, without contrast",70450,3969.0
+Torrance Memorial Medical Center,"MRI, Head or Brain, without contrast, followed by contrast",70553,10277
+Torrance Memorial Medical Center,"CT Scan, Head or Brain, without contrast",70450,3969
 Torrance Memorial Medical Center,Partial Thromboplastin Time,85730,117.5
 Torrance Memorial Medical Center,Prothrombin Time,85610,64.97
 Torrance Memorial Medical Center,"Complete Blood Count, automated",85027,226.5
-Torrance Memorial Medical Center,"Complete Blood Count, with differential WBC, automated",85025,202.0
+Torrance Memorial Medical Center,"Complete Blood Count, with differential WBC, automated",85025,202
 Torrance Memorial Medical Center,"Troponin, Quantitative",84484,221.33
 Torrance Memorial Medical Center,Thyroid Stimulating Hormone,84443,246.5
 Torrance Memorial Medical Center,"Creatine Kinase (CK), (CPK), Total",82550,137.16
-Torrance Memorial Medical Center,"CT Scan, Abdomen, with contrast",74160,5667.0
+Torrance Memorial Medical Center,"CT Scan, Abdomen, with contrast",74160,5667
 Torrance Memorial Medical Center,Lipid Panel,80061,452.67
 Torrance Memorial Medical Center,Comprehensive Metabolic Panel,80053,1133.2
 Torrance Memorial Medical Center,Basic Metabolic Panel,80048,815.67
 Torrance Memorial Medical Center,"Outpatient Visit, established patient, 15 minutes",99213,
-Torrance Memorial Medical Center,"Emergency Room Visit, Level 4 (high severity)",99284,1690.0
-Torrance Memorial Medical Center,"Emergency Room Visit, Level 3 (moderate severity)",99283,844.0
-Torrance Memorial Medical Center,"Emergency Room Visit, Level 2 (low to moderate severity)",99282,494.0
+Torrance Memorial Medical Center,"Emergency Room Visit, Level 4 (high severity)",99284,1690
+Torrance Memorial Medical Center,"Emergency Room Visit, Level 3 (moderate severity)",99283,844
+Torrance Memorial Medical Center,"Emergency Room Visit, Level 2 (low to moderate severity)",99282,494
 Torrance Memorial Medical Center,"Urinalysis, with microscopy",81000,151.5
 Torrance Memorial Medical Center,"Urinalysis, with microscopy",81001,151.5
-Torrance Memorial Medical Center,"Urinalysis, without microscopy",81002,52.0
-Torrance Memorial Medical Center,"Urinalysis, without microscopy",81003,52.0
+Torrance Memorial Medical Center,"Urinalysis, without microscopy",81002,52
+Torrance Memorial Medical Center,"Urinalysis, without microscopy",81003,52
 Torrance Memorial Medical Center,"Blood Gas Analysis, including 02 saturation",82805,
-Torrance Memorial Medical Center,"Ultrasound, Abdomen, Complete",76700,2061.0
-Torrance Memorial Medical Center,"Physical Therapy, Evaluation",97163,1234.0
+Torrance Memorial Medical Center,"Ultrasound, Abdomen, Complete",76700,2061
+Torrance Memorial Medical Center,"Physical Therapy, Evaluation",97163,1234
 Torrance Memorial Medical Center,"Mammography, Screening, Bilateral",77057,
-Torrance Memorial Medical Center,"Ultrasound, OB, 14 weeks or more, transabdominal",76805,1563.0
-Torrance Memorial Medical Center,"Tympanostomy (insert ventilating  tube, general anesthesia)",69436,10474.0
-Torrance Memorial Medical Center,"Cataract Removal with Insertion of Intraocular Lens, 1 Stage",66984,14279.0
+Torrance Memorial Medical Center,"Ultrasound, OB, 14 weeks or more, transabdominal",76805,1563
+Torrance Memorial Medical Center,"Tympanostomy (insert ventilating  tube, general anesthesia)",69436,10474
+Torrance Memorial Medical Center,"Cataract Removal with Insertion of Intraocular Lens, 1 Stage",66984,14279
 Torrance Memorial Medical Center,"Discission, secondary membranous cataract, laser surgery",66821,
-Torrance Memorial Medical Center,Carpal Tunnel Surgery,64721,16760.0
-Torrance Memorial Medical Center,"Injection, Anesthetic or Steroid, transforaminal epidural, lumbar",64483,0.0
+Torrance Memorial Medical Center,Carpal Tunnel Surgery,64721,16760
+Torrance Memorial Medical Center,"Injection, Anesthetic or Steroid, transforaminal epidural, lumbar",64483,0
 Torrance Memorial Medical Center,"Injection, Diagnostic or Therapeutic substance, epidural, lumbar",62311,
-Torrance Memorial Medical Center,"Hernia Repair, Inguinal, 5 years and older",49505,0.0
-Torrance Memorial Medical Center,"Colonoscopy, with lesion removal, by snare technique",45385,11455.0
-Torrance Memorial Medical Center,"Colonoscopy, with biopsy",45380,10680.0
-Torrance Memorial Medical Center,"Colonoscopy, diagnostic",45378,10183.0
-Torrance Memorial Medical Center,Laparoscopic Cholecystectomy,47562,37747.0
-Torrance Memorial Medical Center,"Endoscopy, Upper GI, diagnostic",43235,13959.0
-Torrance Memorial Medical Center,"Tonsillectomy with Adenoidectomy, less than 12 years old",42820,20975.0
-Torrance Memorial Medical Center,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,21447.0
-Torrance Memorial Medical Center,"Arthroscopy, Shoulder, with partial acromioplasty",29826,31366.0
-Torrance Memorial Medical Center,"Excision, Breast Lesion",19120,19212.0
-Torrance Memorial Medical Center,"Physical Therapy, Therapeutic Exercise",97110,246.0
-Torrance Memorial Medical Center,"Physical Therapy, Gait Training",97116,246.0
+Torrance Memorial Medical Center,"Hernia Repair, Inguinal, 5 years and older",49505,0
+Torrance Memorial Medical Center,"Colonoscopy, with lesion removal, by snare technique",45385,11455
+Torrance Memorial Medical Center,"Colonoscopy, with biopsy",45380,10680
+Torrance Memorial Medical Center,"Colonoscopy, diagnostic",45378,10183
+Torrance Memorial Medical Center,Laparoscopic Cholecystectomy,47562,37747
+Torrance Memorial Medical Center,"Endoscopy, Upper GI, diagnostic",43235,13959
+Torrance Memorial Medical Center,"Tonsillectomy with Adenoidectomy, less than 12 years old",42820,20975
+Torrance Memorial Medical Center,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,21447
+Torrance Memorial Medical Center,"Arthroscopy, Shoulder, with partial acromioplasty",29826,31366
+Torrance Memorial Medical Center,"Excision, Breast Lesion",19120,19212
+Torrance Memorial Medical Center,"Physical Therapy, Therapeutic Exercise",97110,246
+Torrance Memorial Medical Center,"Physical Therapy, Gait Training",97116,246
 Torrance Memorial Medical Center,"Inhalation Treatment, pressurized or nonpressurized",94640,495.25
-Torrance Memorial Medical Center,"Endoscopy, Upper GI, with biopsy",43239,11392.0
+Torrance Memorial Medical Center,"Endoscopy, Upper GI, with biopsy",43239,11392
 Torrance Memorial Medical Center,"Electrocardiogram, routine, with interpretation and report",93000,
 Torrance Memorial Medical Center,"Echocardiography, complete",93307,
 Torrance Memorial Medical Center,"Cardiac Catheterization, Left Heart, percutaneous ",93452,
@@ -15432,12 +15432,12 @@ USC-Kenneth Norris Cancer Hospital,"X-Ray, Lower Back, minimum four views",72110
 USC-Kenneth Norris Cancer Hospital,"Ultrasound, OB, 14 weeks or more, transabdominal",76805,
 USC-Kenneth Norris Cancer Hospital,"Ultrasound, Abdomen, Complete",76700,1311.22
 Unversity of California Irvine Medical Center,"Endoscopy, Upper GI, diagnostic",43235,
-Unversity of California Irvine Medical Center,"Endoscopy, Upper GI, with biopsy",43239,6582.971596638656
+Unversity of California Irvine Medical Center,"Endoscopy, Upper GI, with biopsy",43239,6582.971597
 Unversity of California Irvine Medical Center,"Discission, secondary membranous cataract, laser surgery",66821,
 Unversity of California Irvine Medical Center,"Colonoscopy, diagnostic",45378,4673.86
-Unversity of California Irvine Medical Center,"Colonoscopy, with biopsy",45380,6007.758823529413
+Unversity of California Irvine Medical Center,"Colonoscopy, with biopsy",45380,6007.758824
 Unversity of California Irvine Medical Center,Carpal Tunnel Surgery,64721,
-Unversity of California Irvine Medical Center,"Cataract Removal with Insertion of Intraocular Lens, 1 Stage",66984,10681.773285714286
+Unversity of California Irvine Medical Center,"Cataract Removal with Insertion of Intraocular Lens, 1 Stage",66984,10681.77329
 Unversity of California Irvine Medical Center,"Excision, Breast Lesion, without preoperative radiological marker",19120,
 Unversity of California Irvine Medical Center,"Colonoscopy, with lesion removal, by snare technique",45385,
 Unversity of California Irvine Medical Center,"Hernia Repair, Inguinal, 5 years and older",49505,
@@ -15453,8 +15453,8 @@ Unversity of California Irvine Medical Center,"Injection, Diagnostic or Therapeu
 Unversity of California Irvine Medical Center,"Arthroscopy, Shoulder, with partial acromioplasty",29826,
 Unversity of California Irvine Medical Center,"Injection, Anesthetic or Steroid, transforaminal epidural, lumbar",64483,
 Unversity of California Irvine Medical Center,"Arthroscopy, Knee, with meniscectomy (medial or lateral)",29881,
-Unversity of California Irvine Medical Center,"Ultrasound, Abdomen, Complete",76700,718.125748502994
-Unversity of California Irvine Medical Center,"Physical Therapy, Gait Training",97116,72.51302605210421
+Unversity of California Irvine Medical Center,"Ultrasound, Abdomen, Complete",76700,718.1257485
+Unversity of California Irvine Medical Center,"Physical Therapy, Gait Training",97116,72.51302605
 Unversity of California Irvine Medical Center,"Urinalysis, without microscopy",81003,
 Unversity of California Irvine Medical Center,"Urinalysis, without microscopy",81002,
 Unversity of California Irvine Medical Center,"Emergency Room Visit, Level 2 (low to moderate severity)",99282,759
@@ -15462,30 +15462,30 @@ Unversity of California Irvine Medical Center,"Emergency Room Visit, Level 3 (mo
 Unversity of California Irvine Medical Center,"Emergency Room Visit, Level 4 (high severity without signigicant threat)",99284,2145
 Unversity of California Irvine Medical Center,"Emergency Room Visit, Level 4 (high severity with significant threat)",99285,3117
 Unversity of California Irvine Medical Center,"Outpatient Visit, established patient, 15 minutes",99213,140
-Unversity of California Irvine Medical Center,Basic Metabolic Panel,80048,35.10020513458072
+Unversity of California Irvine Medical Center,Basic Metabolic Panel,80048,35.10020513
 Unversity of California Irvine Medical Center,"Blood Gas Analysis, including 02 saturation",82805,
-Unversity of California Irvine Medical Center,"Complete Blood Count, automated",85027,39.24865514840833
-Unversity of California Irvine Medical Center,"Complete Blood Count, with differential WBC, automated",85025,45.264796823519475
-Unversity of California Irvine Medical Center,Comprehensive Metabolic Panel,80053,44.23525470231382
-Unversity of California Irvine Medical Center,"Physical Therapy, Therapeutic Exercise",97110,106.97769566677863
-Unversity of California Irvine Medical Center,Lipid Panel,80061,19.203986866325057
-Unversity of California Irvine Medical Center,Partial Thromboplastin Time,85730,39.12640310786105
-Unversity of California Irvine Medical Center,"Creatine Kinase (CK), (CPK), Total",82550,30.98686217008798
-Unversity of California Irvine Medical Center,Thyroid Stimulating Hormone,84443,35.132221604991024
-Unversity of California Irvine Medical Center,"Inhalation Treatment, pressurized or nonpressurized",94640,168.66071428571428
+Unversity of California Irvine Medical Center,"Complete Blood Count, automated",85027,39.24865515
+Unversity of California Irvine Medical Center,"Complete Blood Count, with differential WBC, automated",85025,45.26479682
+Unversity of California Irvine Medical Center,Comprehensive Metabolic Panel,80053,44.2352547
+Unversity of California Irvine Medical Center,"Physical Therapy, Therapeutic Exercise",97110,106.9776957
+Unversity of California Irvine Medical Center,Lipid Panel,80061,19.20398687
+Unversity of California Irvine Medical Center,Partial Thromboplastin Time,85730,39.12640311
+Unversity of California Irvine Medical Center,"Creatine Kinase (CK), (CPK), Total",82550,30.98686217
+Unversity of California Irvine Medical Center,Thyroid Stimulating Hormone,84443,35.1322216
+Unversity of California Irvine Medical Center,"Inhalation Treatment, pressurized or nonpressurized",94640,168.6607143
 Unversity of California Irvine Medical Center,"Electrocardiogram, routine, with interpretation and report",93000,
 Unversity of California Irvine Medical Center,"Echocardiography, Transthoracic, complete, without Doppler",93307,
 Unversity of California Irvine Medical Center,"Cardiac Catheterization, Left Heart, percutaneous ",93452,
 Unversity of California Irvine Medical Center,Prothrombin Time,85610,
-Unversity of California Irvine Medical Center,"X-Ray, Lower Back, minimum four views",72110,316.54371584699453
-Unversity of California Irvine Medical Center,"Ultrasound, OB, 14 weeks or more, transabdominal",76805,644.0530973451328
+Unversity of California Irvine Medical Center,"X-Ray, Lower Back, minimum four views",72110,316.5437158
+Unversity of California Irvine Medical Center,"Ultrasound, OB, 14 weeks or more, transabdominal",76805,644.0530973
 Unversity of California Irvine Medical Center,"X-Ray, Chest, two views",71046,
 Unversity of California Irvine Medical Center,"MRI, Brain, without contrast, followed by contrast",70553,
-Unversity of California Irvine Medical Center,"Mammography, Screening, Bilateral",77067,389.09693725840026
+Unversity of California Irvine Medical Center,"Mammography, Screening, Bilateral",77067,389.0969373
 Unversity of California Irvine Medical Center,"CT Scan, Pelvis, with contrast",72193,554
-Unversity of California Irvine Medical Center,"CT Scan, Head or Brain, without contrast",70450,611.5393034825871
-Unversity of California Irvine Medical Center,"CT Scan, Abdomen, with contrast",74160,629.4552845528456
-Unversity of California Irvine Medical Center,"Troponin, Quantitative",84484,44.91670997920997
+Unversity of California Irvine Medical Center,"CT Scan, Head or Brain, without contrast",70450,611.5393035
+Unversity of California Irvine Medical Center,"CT Scan, Abdomen, with contrast",74160,629.4552846
+Unversity of California Irvine Medical Center,"Troponin, Quantitative",84484,44.91670998
 Unversity of California Irvine Medical Center,"Urinalysis, with microscopy",81001,
 Valley Childrens Hospital,"Creatine Kinase (CK), (CPK), Total",82550,68.21
 Valley Childrens Hospital,Lipid Panel,80061,129.79

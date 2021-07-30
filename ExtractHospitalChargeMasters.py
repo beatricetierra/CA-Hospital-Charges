@@ -1,4 +1,3 @@
-import sys
 import xlrd
 from pathlib import Path
 from itertools import chain
@@ -6,7 +5,7 @@ import pandas as pd
 import logging
 
 def log_execution():
-    logFilePath = "logs/default.log"
+    logFilePath = "logs/ChargeMaster.log"
     logLevel = logging.DEBUG 
     logging.basicConfig(filename=logFilePath,filemode='a',level=logLevel, \
                         format ='%(asctime)s %(levelname)s %(message)s', \
@@ -17,7 +16,11 @@ def find_form_locations(folder, destination):
     log_execution()
     all_files = get_excel_files(folder)
     form_locations = get_sheet_names(all_files)
-    form_locations.to_csv(destination)
+    try:
+        form_locations.to_csv(destination)
+        logging.info("Saved all found Common OP Procedure forms under: ", destination)
+    except:
+        logging.error("Could not save ", destination)
 
 def get_excel_files(folder):
     xlsx_files = Path(folder).rglob('*.xlsx')
@@ -36,8 +39,9 @@ def get_sheet_names(all_files):
                 for row in sheet.get_rows():
                     if any([r.value == match_string for r in row]):
                         df = df.append({'filepath':file, 'sheetname':sheet.name}, ignore_index=True)
+                        logging.info("Found Common OP Procedures form for %s under sheetname: %s", file, sheet.name)
         except xlrd.biffh.XLRDError:
-            logging.error("Excel file is restricted from reading.")
+            logging.error("Excel file is restricted from reading file: %s", file)
             pass
     return df
 
