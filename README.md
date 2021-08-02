@@ -1,4 +1,6 @@
 # US-Hospital-Charges
+
+## Purpose
 To increase the transparency of medical bills to patients, all hospitals in the US are required to release the standard charges, or “chargemasters”, on 300 of their most common services on their website. While this was a commendable attempt to help patients make more informed decisions on their health, the lack of accessibility to these chargemaster reports makes it extremely laborious to get any useful information. 
 
 Firstly, the CMS (Centers for Medicare & Medicaid Services) has only required hospitals to make their charges available on their website. However, these reports are often hard to find and require users to click through many links before finding the information in large Excel or CSV files. After downloading the files, the patient must then search through the thousands of rows to find the specific treatment they are seeking.This is hardly an effort to make service costs transparent to their patients. 
@@ -11,3 +13,29 @@ The hospital prices in California will come from the chargemasters aggregated fr
 In addition to the Hospital Chargemaster dataset, I also want to include a dataset of the CPT codes, hospital locations, insurance cost on each procedure, and the insurance providers offered at each hospital. A entity-relationship diagram is shown below to illustrate the final data warehouse.
 
 ![alt text](https://github.com/beatricetierra/US-Hospital-Charges/blob/main/ERD.png)
+
+## Acquiring datasets
+
+### Datasets:
+1. Charge Masters
+2. CA Hospital Profiles
+3. CA Insurances
+4. CPT Codes
+5. Patient Expenses
+
+### 1. Charge Masters
+1. Download "Datasets/Chargemaster Dataset". This contains all CA hospitals' submitted chargemaster for 2020. 
+2. Run script GetChargeMasterList.py using the command "python GetChargeMasterList.py <foldepath from step one> <output filename>.
+   Example: python GetChargeMasterList.py "./Datasets/Chargemaster Dataset" "./results.csv"
+  
+### 2. CA Hospital Profiles 
+1. Located in HospitalProfiles.csv 
+  
+### 3. CA Insurances 
+1. Located in CAInsurances.csv 
+  
+### 4. CPT Codes
+1. Located in "Datasets/CPTCodes"
+  
+### 5. Patient Expenses
+1. Run GetInsuranceCost.py using the command "python GetInsuranceCost.py"
