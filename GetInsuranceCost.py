@@ -72,9 +72,10 @@ def run_browser(zip, code):
     return browser, in_net, out_net
 
 # 1. Get zip codes
-address = r'C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\Addresses.csv'
-address_df = pd.read_csv(address)
-zipcodes = [re.search('CA \d\d\d\d\d', add).group(0).split(' ')[1] for add in address_df['Address']]
+hospitals_df = pd.read_csv(r"Datasets/HospitalProfiles.csv", usecols=[4,8])
+hospitals_df = hospitals_df[hospitals_df['license_type_desc'] == 'Hospital']
+zipcodes = set(hospitals_df['site_zip'].astype(str))
+zipcodes = [code.split('-')[0] if '-' in code else code for code in zipcodes]
 
 # 2. Get CPT codes
 charge_master = r'C:\Users\Beatrice Tierra\Documents\Springboard\US-Hospital-Charges\Datasets\ChargeMasterList.csv'
