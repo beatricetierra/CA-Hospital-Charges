@@ -1,41 +1,81 @@
-# US-Hospital-Charges
+# CA-Hospital-Charges
 
-## Purpose
-To increase the transparency of medical bills to patients, all hospitals in the US are required to release the standard charges, or “chargemasters”, on 300 of their most common services on their website. While this was a commendable attempt to help patients make more informed decisions on their health, the lack of accessibility to these chargemaster reports makes it extremely laborious to get any useful information. 
+## Background
 
-Firstly, the CMS (Centers for Medicare & Medicaid Services) has only required hospitals to make their charges available on their website. However, these reports are often hard to find and require users to click through many links before finding the information in large Excel or CSV files. After downloading the files, the patient must then search through the thousands of rows to find the specific treatment they are seeking.This is hardly an effort to make service costs transparent to their patients. 
-Another issue is the lack of centralized data on hospital charges. Once a patient finally finds the cost of their expected treatment, they must redo the same process on another hospital’s website (most likely under different descriptions) to find the same information. This makes it much harder and longer for people to compare prices, negating the purpose of making the chargemasters public. 
+Medical debt is now the number one source of debt collections in the United States, affecting 19% of US households and totaling $140 billion in unpaid medical bills in 2020 alone. The $140 billion only accounts for debts that have been sold to collectors, so the money owed to healthcare providers through installments or credit cards raises the national debt even further. 
 
-To resolve the challenges in finding and comparing hospital treatment costs, I would like to build a data warehouse sourced from prices posted by each hospital in California and the cost patients would pay out-of-pocket based on insurance. The data warehouse would be centered around the cost per treatment per hospital based on the chargemaster datasets provided by each hospital. The key attributes would be the CPT code (medical service ID), hospital, insurance cost, hospital charges, and the time of the treatment. 
+The biggest reason for this accumulation of debt is the fact that patient have no idea how much they will be charged for healthcare until AFTER their service. Ontop of that, hospitals and clinics are able to charge whatever price on their services and are not required to share that information with their patients. This inhibits patients from shopping around their options and finding affordable procedures. 
 
-The hospital prices in California will come from the chargemasters aggregated from all hospitals since 2011 on the California Health and Human Services Agency website. All chargemasters per year are downloadable from the site and are stored in Excel files. Additionally, the average cost paid out-of-pocket by patients would be retrieved from the Fair Health Consumer healthcare estimator, which has collected 33 billion private health care claims and 36 billion Medicare claims for over 10,000 services in the US. This website does not make their database public as a single source, but offers a search tool to look up treatment cost per CPT code and zip code. As a work-around, web scraping will be used to gather all the average costs (in-network vs. out-of-network) per area in California. With over 300 hospitals and 10 years of data in California to process, I would first start by creating a small data warehouse for the year 2020, and migrate to a cloud warehouse to run on all years. 
+As a partial solution, all US hospitals are now required to release pricing data as chargemaster forms as of January 1, 2021 under Centers for Medicare & Medicaid (CMS) law. Although this a great step forward for patient transparency, there are still obstacles getting in the way of public's ability to access basic healthcare prices. Some of these issues include:
 
-In addition to the Hospital Chargemaster dataset, I also want to include a dataset of the CPT codes, hospital locations, insurance cost on each procedure, and the insurance providers offered at each hospital. A entity-relationship diagram is shown below to illustrate the final data warehouse.
+1. Inconsistent format of chargemasters
 
+   CMS does not provide a template for hospitals to fill out their chargemasters. As a result, many chargemasters are sloppy and unreadable. 
+   
+2. Chargemasters are not posted easily on hospital website
+
+   Some hospital do post their chargemasters, but as attached excel or csv files. More frequently, however, hospitals hide their prices in compressed files that patient have to download and manually find their procedure costs. 
+   
+3. Not all hospitals have submitted their chargemasters and/ or submit chargemasters that do not comply with CMS guidelines. 
+
+   As of now, California is the only state that requires hospitals to provide chargemasters to the state and Maryland is the only state to regulate the chargemaster procedures (check validity of listed prices). As a result, many hospitals have not submited chargemasters or do not submit sufficient data reports. 
+   
+## Description
+
+To demonstrate how chargemasters could actually be effective and transparent to patients, this project builds a data warehouse containing relevant information and factors that affect a patient's cost for a procedure in California. The key information this data warehouse provides are:
+
+1. Chargemaster data (in a standard form)
+2. Hospital profiles (location, license #, etc.)
+3. Current Procedural Terminology (CPT) description (Codes hospitals use to bill patients and insurances)
+4. Accepted insurances per hospital
+5. Cost of in-network vs out-of-pocket expenses 
+
+**Note:** Data is only relevant to California hospitals and insurances because it was the only chargemaster data available from a state government-run website. 
+
+## Description of Raw Datasets 
+Descriptions of all data inputs are listed below:
+
+1. Chargemasters Dataset
+   
+   - Downloaded from https://data.chhs.ca.gov/dataset/chargemasters.
+   - Contains all CA hospital chargemasters from 2011-2020.
+   - Used to acquire costs of top 25 common procedures of each hospital. The Top 25 Common Procedures was the only standard form submitted by all hospitals. 
+
+2. Hospital Profiles Dataset
+
+   - Download from https://data.chhs.ca.gov/dataset/facility-profile-attributes. 
+   - Used to compare nearby hospital costs.
+   
+3. Insurance Dataset
+
+   - Download from http://www.insurance.ca.gov/01-consumers/110-health/20-look/hcpcarriers.cfm. 
+   - Lists all the valid insurances accepted in California.
+   - Used to find accepted insurances per hospital in the final dataset.
+
+4. CPT Dataset
+
+   - Download from https://www.cms.gov/Medicare/Medicare-Fee-for-Service-Payment/PhysicianFeeSched/PFS-Relative-Value-Files
+   - Used to find procedure codes based on description easier. 
+   - Chargemasters usually list CPT code NOT description, so patient won't be able to find the cost of a particular operation. 
+
+5. Patient Expenses Dataset
+
+   - Scraped from https://www.fairhealthconsumer.org/. 
+   - Find average cost of each procedure per zip code based on insurance (in-network vs out-of-network)
+   - **Note:** Limited access to website tool, so only some hospitals/ cpt codes are listed. 
+
+## Insurance Dataset Transformation
+
+The collected insurance information only contained insurances operating in California. The goal was to find the accepted insurances per hospital. To do this, Selenium was used to do the following procedure:
+
+   1. Google "<hospital name> accepted insurances". Ex. "Kaiser Permanente accepted insurances"
+   2. Click first result
+   3. Loop through list of insurances and check if name was found on page.
+   4. If insurance name was found on page, then dataset would list it as an accepted insurance. 
+
+## Azure Pipeline
+
+## Final Datasets
 ![alt text](https://github.com/beatricetierra/US-Hospital-Charges/blob/main/ERD.png)
 
-## Acquiring datasets
 
-### Datasets:
-1. Charge Masters
-2. CA Hospital Profiles
-3. CA Insurances
-4. CPT Codes
-5. Patient Expenses
-
-### 1. Charge Masters
-1. Download "Datasets/Chargemaster Dataset". This contains all CA hospitals' submitted chargemaster for 2020. 
-2. Run script GetChargeMasterList.py using the command "python GetChargeMasterList.py <foldepath from step one> <output filename>.
-   Example: python GetChargeMasterList.py "./Datasets/Chargemaster Dataset" "./results.csv"
-  
-### 2. CA Hospital Profiles 
-1. Located in HospitalProfiles.csv 
-  
-### 3. CA Insurances 
-1. Located in CAInsurances.csv 
-  
-### 4. CPT Codes
-1. Located in "Datasets/CPTCodes"
-  
-### 5. Patient Expenses
-1. Run GetInsuranceCost.py using the command "python GetInsuranceCost.py"
